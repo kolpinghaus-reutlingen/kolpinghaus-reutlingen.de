@@ -1,0 +1,32 @@
+<nav class="navbar fixed-top navbar-expand-lg navbar-dark fixed-top" style="background-color: #393b3f !important;">
+  <div class="container ">
+    <a class="navbar-brand text-center" href="{% link index.md %}">
+      <img src="/img/kolping-k.small.jpg" width="35" height="35" alt="K">
+    </a>
+    <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarResponsive">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item">
+          <a class="nav-link {% if page.active == "ueber-uns" %} active {% endif %}" href="{% link ueber-uns.md %}">Über uns</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link {% if page.active == "veranstaltungen" %} active {% endif %}" href="{% link veranstaltungen.html %}">Veranstaltungen</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link {% if page.active == "projekte" %} active {% endif %}" href="{% link projekte.html %}">Projekte</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link {% if page.active == "artikel" %} active {% endif %}" href="{% link artikel.html %}">Artikel</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link {% if page.active == "bilder" %} active {% endif %}" href="{% link bilder.html %}">Bilder</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link {% if page.active == "kontakt" %} active {% endif %}" href="{% link kontakt.md %}">Kontakt</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>

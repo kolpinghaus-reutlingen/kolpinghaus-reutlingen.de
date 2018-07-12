@@ -1,0 +1,31 @@
+<footer class="py-5 " style="padding-bottom: 0rem !important;background-color: #393b3f !important;">
+	<div class="container text-center text-white">
+		<div class="row">
+			<div class="col">
+				<h4 style="margin-bottom: 1rem;">{{site.title}}</h4>
+				<a href="/">
+					<img src="/img/kolpinghaus-logo.png" alt="Logo" style="max-width: 70%;">
+				</a>
+			</div>
+			<hr>
+			<div class="col">
+				<h4 style="margin-bottom: 1rem;">Kontakt</h4>
+				<p>{{site.kontakt.street}}</p>
+				<p>{{site.kontakt.city}}</p>
+				<p><a href="mailto:{{site.kontakt.email}}" style="color:#ffffff">{{site.kontakt.email}}</a></p>
+				<p>{{site.kontakt.phone}}</p>
+			</div>
+		</div>
+	</div>
+	<div class="container-fluid" style="color:#ffffff">
+		<div class="row justify-content-between" style="height: 50%;">
+			<div class="col" style="height: 50%;">
+				<a href="{% link impressum.md %}" style="color:#ffffff;margin-right: 1rem;">Impressum</a>
+				<a href="{% link datenschutz.md %}" style="color:#ffffff;">Datenschutz</a>
+			</div>
+			<div class="col" style="height: 50%;">
+				<p class="text-right" style="margin-bottom: 0px;">&#169; {{ site.time | date: '%Y' }} <a href="{% link index.md %}" style="color:#ffffff">{{site.link}}</a></p>
+			</div>
+		</div>
+	</div>
+</footer>

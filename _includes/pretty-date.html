@@ -1,0 +1,6 @@
+{% if include.date %}
+{% capture month_number %}{{ include.date | date: "%-m" }}{% endcapture %}
+{% include number2month.html month=month_number %} {{ include.date | date: "%-d" }}, {{ include.date | date: "%Y" }}
+{% else %}
+no date April 4, 2018
+{% endif %}

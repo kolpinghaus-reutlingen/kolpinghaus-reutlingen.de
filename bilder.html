@@ -1,0 +1,58 @@
+---
+title: Bilder
+layout: default
+permalink: /bilder/
+redirect_from:
+  - /bild/
+  - /img/
+
+gallery:
+  - link: 01.JPG
+    small: 01-small.JPG
+  - link: 02.JPG
+    small: 02-small.JPG
+  - link: 03.JPG
+    small: 03-small.JPG
+  - link: 04.JPG
+    small: 04-small.JPG
+  - link: 05.JPG
+    small: 05-small.JPG
+  - link: 06.JPG
+    small: 06-small.JPG
+  - link: 07.JPG
+    small: 07-small.JPG
+  - link: 08.JPG
+    small: 08-small.JPG
+  - link: 09.JPG
+    small: 09-small.JPG
+  - link: 10.JPG
+    small: 10-small.JPG
+  - link: 11.JPG
+    small: 11-small.JPG
+  - link: 12.JPG
+    small: 12-small.JPG
+  - link: 13.JPG
+    small: 13-small.JPG
+  - link: 14.JPG
+    small: 14-small.JPG
+  - link: 15.JPG
+    small: 15-small.JPG
+  - link: 16.JPG
+    small: 16-small.JPG
+  - link: 17.JPG
+    small: 17-small.JPG
+---
+
+<div class="row text-center text-lg-left">
+  {% for picture in page.gallery %}
+  <div class="col-lg-3 col-md-4 col-xs-6">
+    <a href="/bild/{{picture.link}}" class="d-block mb-4">
+      {% if picture.small %}
+      <img class="img-fluid img-thumbnail" src="/bild/{{picture.small}}" alt="{{picture.alt}}">
+      {% else %}
+      <img class="img-fluid img-thumbnail" src="/bild/{{picture.link}}" alt="{{picture.alt}}">
+      {% endif %}
+    </a>
+  </div>
+  {% endfor %}
+</div>

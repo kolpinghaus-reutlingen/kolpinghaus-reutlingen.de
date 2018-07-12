@@ -1,0 +1,56 @@
+title: Kolpinghaus Reutlingen
+url: https://kolpinghaus-reutlingen.de
+static: https://static1.kolpinghaus-rt.5ls.de
+timezone: Europe/Berlin
+future: true
+excerpt_separator: <!--more-->
+
+compress_html: { ignore: { envs: ['development'] } }
+
+plugins:
+   - jekyll-redirect-from
+
+
+link: kolpinghaus-reutlingen.de
+
+kontakt:
+  city: 72764 Reutlingen
+  street: Liststraße 26
+  country: Deutschland
+  phone: 07121 43340
+  fax: 07121 43344
+  email: info@kolpinghaus-reutlingen.de
+  heimleiter: Hermann Rist
+  hours:
+    from: 8
+    to: 17
+
+author:
+  name: Patrick Haußmann
+  url: https://patrickhaussmann.de
+
+google-site-verification:
+  old: tyvNJr99qMKWyfVYXxuD8ikqOpWjCQfdJv5WvywBGqE
+  new: fWwRC4yG7LLptW6sN1izwv0Sy9kvKaOozazFVAYJafk
+
+collections:
+  artikel:
+    output: true
+  veranstaltungen:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: artikel
+    values:
+      layout: post
+      active: artikel
+      permalink: /artikel/:path/
+  - scope:
+      path: ""
+      type: veranstaltungen
+    values:
+      layout: post
+      active: veranstaltungen
+      permalink: /veranstaltung/:path/

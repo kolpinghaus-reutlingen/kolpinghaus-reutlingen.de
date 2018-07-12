@@ -1,0 +1,16 @@
+<ol class="breadcrumb">
+	<li class="breadcrumb-item">
+		<a href="{% link index.md %}">Startseite</a>
+	</li>
+	{% if page.collection == "artikel" %}
+	<li class="breadcrumb-item">
+		<a href="{% link artikel.html %}">Artikel</a>
+	</li>
+	{% endif %}
+	{% if page.collection == "veranstaltungen" %}
+	<li class="breadcrumb-item">
+		<a href="{% link veranstaltungen.html %}">Veranstaltungen</a>
+	</li>
+	{% endif %}
+	<li class="breadcrumb-item active">{{ page.title }}</li>
+</ol>
