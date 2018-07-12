@@ -17,7 +17,7 @@ Fun, Action, Kultur und Bildung bilden den Schwerpunkt unserer Freizeitangebote 
 <div class="row">
 <div class="col-lg-6">
 <a href="{{ site.static | append: "/ueber-uns/mitarbeiter.jpg"}}">
-<img class="img-fluid rounded mb-4" src="/img/mitarbeiter.jpg" alt="Mitarbeiter des Kolpinghauses" />
+<img class="img-fluid rounded mb-4" src="{{ site.static | append: "/ueber-uns/mitarbeiter.jpg"}}" alt="Mitarbeiter des Kolpinghauses" />
 </a>
 </div>
 <div class="col-lg-6" markdown="1">
@@ -33,7 +33,7 @@ Das gesamte Team arbeitet nach dem Motto „wir bieten viel mehr als ein Dach ü
 <br>
 <div class="row">
 <div class="col-lg-6  text-center mb-4" markdown="1">
-<img class="rounded-circle img-fluid d-block mx-auto" width="200" height="200" src="/img/rist.small.jpg" alt="Hermann Rist">
+<img class="rounded-circle img-fluid d-block mx-auto" width="200" height="200" src="{{ site.static | append: "/ueber-uns/rist.jpg"}}" alt="Hermann Rist">
 
 ### Hermann Rist <small style="font-size: 70%;">Heimleiter</small>
 </div>
