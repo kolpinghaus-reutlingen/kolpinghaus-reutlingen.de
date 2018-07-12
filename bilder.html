@@ -46,11 +46,11 @@ gallery:
 <div class="row text-center text-lg-left">
   {% for picture in page.gallery %}
   <div class="col-lg-3 col-md-4 col-xs-6">
-    <a href="{{ site.static | append: "/bildergallerie/" | append picture.link }}" class="d-block mb-4">
+    <a href="{{ site.static | append: "/bildergallerie/" | append: picture.link }}" class="d-block mb-4">
       {% if picture.small.remove-this %}
-      <img class="img-fluid img-thumbnail" src="{{ site.static | append: "/bildergallerie/" | append picture.small }}" alt="{{picture.alt}}">
+      <img class="img-fluid img-thumbnail" src="{{ site.static | append: "/bildergallerie/" | append: picture.small }}" alt="{{picture.alt}}">
       {% else %}
-      <img class="img-fluid img-thumbnail" src="{{ site.static | append: "/bildergallerie/" | append picture.link }}" alt="{{picture.alt}}">
+      <img class="img-fluid img-thumbnail" src="{{ site.static | append: "/bildergallerie/" | append: picture.link }}" alt="{{picture.alt}}">
       {% endif %}
     </a>
   </div>
