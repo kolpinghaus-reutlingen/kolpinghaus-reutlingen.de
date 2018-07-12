@@ -38,7 +38,7 @@ Das gesamte Team arbeitet nach dem Motto „wir bieten viel mehr als ein Dach ü
 ### Hermann Rist <small style="font-size: 70%;">Heimleiter</small>
 </div>
 <div class="col-lg-6 text-center mb-4" markdown="1">
-<img class="rounded-circle img-fluid d-block mx-auto" width="200" height="200" src="/img/abele.small.jpg" alt="Yvonne Abele">
+<img class="rounded-circle img-fluid d-block mx-auto" width="200" height="200" src="{{ site.static | append: "/ueber-uns/abele.jpg"}}" alt="Yvonne Abele">
 ### Yvonne Abele <small style="font-size: 70%;">Stellvertretende Heimleiterin</small>
 </div>
 </div>
@@ -55,7 +55,7 @@ Adolph Kolping verstand es als Sozialreformer, schon in der damaligen Zeit für 
 
 </div>
 <div class="col-lg-6" style="text-align:center;height: 30rem;">
-<img class="img-fluid rounded mb-4" style="max-height: 100% !important; width: auto;" src="/img/adolph-kolping.small.jpg" alt="Adolph Kolping">
+<img class="img-fluid rounded mb-4" style="max-height: 100% !important; width: auto;" src="{{ site.static | append: "/ueber-uns/adolph-kolping.jpg"}}" alt="Adolph Kolping">
 </div>
 </div>
 <br>
@@ -102,5 +102,5 @@ Außerdem können Sie sich auch direkt bei uns, im Kolpinghaus, für einen freiw
 
 </div>
 <div class="col">
-<img src="/img/kooperationspartner.small.jpg" alt="Kooperationspartner" style="max-width: 100%;">
+<img src="{{ site.static | append: "/ueber-uns/kooperationspartner.jpg"}}" alt="Kooperationspartner" style="max-width: 100%;">
 </div>
