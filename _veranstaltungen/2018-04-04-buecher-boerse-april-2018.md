@@ -4,9 +4,9 @@ date: 2018-04-04
 description: Die Bücherbörse findet zweimal jährlich unter Federführung der Technischen Betriebsdienste Reutlingen in Zusammenarbeit mit dem Kolpinghaus Reutlingen statt.
 img:
   thumb:
-    link: /veranstaltung/2018-04-04-buecher-boerse-april-2018-thumb.jpg
+    link: /veranstaltungen/2018-04-04-buecher-boerse-april-2018-thumb.jpg
   third:
-    link: /veranstaltung/2018-04-04-buecher-boerse-april-2018.png
+    link: /veranstaltungen/2018-04-04-buecher-boerse-april-2018.png
 ---
 
 **Reutlingen. Die Bücherbörse findet zweimal jährlich unter Federführung der Technischen Betriebsdienste Reutlingen in Zusammenarbeit mit dem Kolpinghaus Reutlingen statt.** <!--more--> **Am Samstag, den 14. April von 9.00 bis 13.00 Uhr ist es wieder so weit: Am Heilbrunnen 107 werden die Tore geöffnet für Bücherwürmer, Schnäppchenjäger und Abfallvermeider.**<br><br>  
