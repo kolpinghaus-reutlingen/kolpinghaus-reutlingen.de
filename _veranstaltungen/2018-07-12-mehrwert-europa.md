@@ -6,7 +6,7 @@ img:
     link: /veranstaltungen/2018-07-12-mehrwert-europa.jpg
 ---
 
-forum dialog am 12. Juli im Kolpinghaus 
+### forum dialog am 12. Juli im Kolpinghaus 
 <!--more-->
   
 
