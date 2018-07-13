@@ -1,9 +1,6 @@
 ---
 title: Reutlinger Stadtputzete
 date: 2018-03-17
-img:
-  main:
-    link:
 images:
   - link: /veranstaltungen/2018-03-17-reutlinger-stadtputzete-1.jpg
   - link: /veranstaltungen/2018-03-17-reutlinger-stadtputzete-2.jpg
