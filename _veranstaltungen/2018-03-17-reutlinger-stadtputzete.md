@@ -5,8 +5,8 @@ img:
   main:
     link:
 images:
-  - link: /veranstaltung/2018-03-17-reutlinger-stadtputzete-1.jpg
-  - link: /veranstaltung/2018-03-17-reutlinger-stadtputzete-2.jpg
+  - link: /veranstaltungen/2018-03-17-reutlinger-stadtputzete-1.jpg
+  - link: /veranstaltungen/2018-03-17-reutlinger-stadtputzete-2.jpg
 ---
 ### Flotte Feger aus dem Kolpinghaus in luftigen Höhen<br><br>
 <!--more-->
