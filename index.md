@@ -19,7 +19,7 @@ redirect_from:
 * Malen
 * Sprachkurse
 * Ausflüge
-* [Und vieles mehr &rarr;]({% link bilder.html %})
+* [Und vieles mehr &rarr;]({% link veranstaltungen.html %})
 
 ## ... als ein Dach über dem Kopf"
 
