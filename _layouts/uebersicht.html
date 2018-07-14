@@ -1,5 +1,6 @@
 ---
 layout: default
+published: true
 ---
 
 {% assign sorted = site[page.active] | sort: 'date' | reverse %} 
@@ -24,7 +25,11 @@ layout: default
           {{ item.excerpt | strip_html }}
           {% endif %}
           {% endif %}</p>
+                  {% if page.active == "artikel"%}
 					<a href="{{ item.url }}" class="btn btn-primary">zum Artikel &rarr;</a>
+                  {% else %}
+                    <a href="{{ item.url }}" class="btn btn-primary">mehr &rarr;</a>
+                  {% endif %]
 				</div>
 				<div class="card-footer text-muted">{% include pretty-date.html date=item.date %}</div>
 			</div>
