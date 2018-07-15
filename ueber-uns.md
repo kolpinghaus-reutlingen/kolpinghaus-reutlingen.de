@@ -55,7 +55,7 @@ Adolph Kolping verstand es als Sozialreformer, schon in der damaligen Zeit für 
 
 </div>
 <div class="col-lg-6" style="text-align:center;height: 30rem;">
-<img class="img-fluid rounded mb-4" style="max-height: 100% !important; width: auto;" src="{{ site.static.url | append: site.static.default | append: "," | append: "w_600"| append: "/" | append: "adolph-kolping" }}" alt="Adolph Kolping">
+<img class="img-fluid rounded mb-4" style="max-height: 100% !important; width: auto;" src="{{ site.static.url | append: site.static.default | append: "," | append: "h_500"| append: "/" | append: "adolph-kolping" }}" alt="Adolph Kolping">
 </div>
 </div>
 <br>
@@ -102,5 +102,5 @@ Außerdem können Sie sich auch direkt bei uns, im Kolpinghaus, für einen freiw
 
 </div>
 <div class="col">
-<img src="{{ site.static.url | append: site.static.default | append: "/" | append: "kooperationspartner" }}" alt="Kooperationspartner" style="max-width: 100%;">
+<img src="{{ site.static.url | append: site.static.default | append: "," | append: "h_500"| append: "/" | append: "kooperationspartner" }}" alt="Kooperationspartner" style="max-width: 100%;">
 </div>

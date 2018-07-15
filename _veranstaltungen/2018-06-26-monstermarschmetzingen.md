@@ -51,4 +51,4 @@ Die Resonanz unter den Schülerinnen und Schülern auf diesen besonderen Erlebni
 Übrigens: die Lehrer/innen, die gestartet waren, erreichten allesamt zumindest die Schule in Metzingen, zwei Lehrer legten sogar die Marathondistanz zurück.<br><br><br>
 
 
-- Frau Pfaller
+-- Frau Pfaller
