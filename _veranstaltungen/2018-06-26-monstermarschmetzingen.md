@@ -3,21 +3,21 @@ title: MonsterMarschMetzingen
 date: 2018-06-26
 description: Gebäudereiniger/innen auf neuen Wegen
 images:
-  - link: /veranstaltungen/2018-06-26-monstermarschmetzingen-1.jpg
+  - id: 2018-06-26-monstermarschmetzingen-1
     alt: Die erste Gruppe in Nürtingen
-  - link: /veranstaltungen/2018-06-26-monstermarschmetzingen-2.jpg
+  - id: 2018-06-26-monstermarschmetzingen-2
     alt: Anfahrt nach Plochingen im Bus
-  - link: /veranstaltungen/2018-06-26-monstermarschmetzingen-3.jpg
+  - id: 2018-06-26-monstermarschmetzingen-3
     alt: 64 Auszubildende in Plochingen vor dem Start
-  - link: /veranstaltungen/2018-06-26-monstermarschmetzingen-4.jpg
+  - id: 2018-06-26-monstermarschmetzingen-4
     alt: Verpflegung und Stempel in Wendlingen
-  - link: /veranstaltungen/2018-06-26-monstermarschmetzingen-5.jpg
+  - id: 2018-06-26-monstermarschmetzingen-5
     alt: In Neckartenzlingen
-  - link: /veranstaltungen/2018-06-26-monstermarschmetzingen-6.jpg
+  - id: 2018-06-26-monstermarschmetzingen-6
     alt: Geschafft! An der Schule angekommen
-  - link: /veranstaltungen/2018-06-26-monstermarschmetzingen-7.jpg
+  - id: 2018-06-26-monstermarschmetzingen-7
     alt: Empfang im Kolpinghaus Reutlingen nach 42 km
-  - link: /veranstaltungen/2018-06-26-monstermarschmetzingen-8.jpg
+  - id: 2018-06-26-monstermarschmetzingen-8
     alt: Die schnellste Gruppe in Metzingen
 ---
 <!--more-->

@@ -2,8 +2,8 @@
 title: Reutlinger Stadtputzete
 date: 2018-03-17
 images:
-  - link: /veranstaltungen/2018-03-17-reutlinger-stadtputzete-1.jpg
-  - link: /veranstaltungen/2018-03-17-reutlinger-stadtputzete-2.jpg
+  - id: 2018-03-17-reutlinger-stadtputzete-1
+  - id: 2018-03-17-reutlinger-stadtputzete-2
 ---
 ### Flotte Feger aus dem Kolpinghaus in luftigen Höhen<br><br>
 <!--more-->

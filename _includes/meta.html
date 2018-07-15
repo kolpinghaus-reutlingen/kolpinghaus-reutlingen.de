@@ -46,7 +46,7 @@
 {% endif %}
 <meta name="og:url" content="{{ site.url }}">
 <meta name="og:site_name" content="{{ site.title }}">
-<meta name="og:image" content="{{ site.static.url | append: "w_35,h_35,cs_srgb,f_auto,q_auto:best/" | append: "kolping-k" }}">
+<meta name="og:image" content="{{ site.static.url | append: site.static.default | append: "," | append: "w_35,h_35" | append: "/" | append: "kolping-k" }}">
 <link rel="icon" href="/favicon.ico">
 <meta name="google-site-verification" content="{{site.google-site-verification.old}}" />
 <meta name="google-site-verification" content="{{site.google-site-verification.new}}" />

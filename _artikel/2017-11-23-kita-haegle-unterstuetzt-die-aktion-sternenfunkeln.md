@@ -2,7 +2,7 @@
 title: Kita Hägle unterstützt die Aktion Sternenfunkeln
 date: 2017-11-23
 images:
-  - link: /artikel/2017-11-23-sonderaktion-sternenfunkeln.jpg
+  - id: 2017-11-23-sonderaktion-sternenfunkeln
 ---
 <!--more-->
 Die Kita Hägle hat sich am Donnerstag, den 23.11.17 mit 40 Kindern und fünf Erzieherinnen

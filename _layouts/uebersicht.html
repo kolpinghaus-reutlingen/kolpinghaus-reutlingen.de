@@ -8,8 +8,8 @@ layout: default
       {% for item in sorted %}
 			<div class="card mb-4">
         {% if item.img.thumb %}
-        <a href="{{ site.static | append: item.url }}">
-          <img class="card-img-top" src="{{ site.static | append: item.img.thumb.link}}" alt="{{item.img.thumb.alt}}">
+        <a href="{{ site.static.url | append: site.static.default | append: "," | append: "w_600" | append: "/" | append: item.id }}">
+          <img class="card-img-top" src="{{ site.static.url | append: site.static.default | append: "," | append: "w_600" | append: "/" | append: item.img.thumb.id}}" alt="{{item.img.thumb.alt}}">
         </a>
 				{% endif %}
 				<div class="card-body">

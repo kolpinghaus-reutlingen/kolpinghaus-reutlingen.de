@@ -4,7 +4,7 @@ date: 2018-06-29
 description: Fast hätten die Kolpinghaus–Kicker den Pokal des Bischofs nach Hause gebracht
 img:
   main:
-    link: /artikel/2018-06-29-dioezesane-fussballmeisterschaft.JPG
+    id: 2018-06-29-dioezesane-fussballmeisterschaft
 ---
 <!--more-->
 

@@ -3,9 +3,9 @@ title: Schülerfirma TRAEG im Kolpinghaus
 date: 2018-03-21
 description: „Traege“ Handyladestationen aus Bambusholz
 images:
-  - link: /artikel/2018-03-21-schuelerfirma-traeg-im-kolpinghaus-1.jpg
-  - link: /artikel/2018-03-21-schuelerfirma-traeg-im-kolpinghaus-2.jpg
-  - link: /artikel/2018-03-21-schuelerfirma-traeg-im-kolpinghaus-3.jpg
+  - id: 2018-03-21-schuelerfirma-traeg-im-kolpinghaus-1
+  - id: 2018-03-21-schuelerfirma-traeg-im-kolpinghaus-2
+  - id: 2018-03-21-schuelerfirma-traeg-im-kolpinghaus-3
 ---
 ### Kooperation mit der Schülerfirma TRAEG des Albert-Einstein-Gymnasiums Reutlingen<br><br>
 
