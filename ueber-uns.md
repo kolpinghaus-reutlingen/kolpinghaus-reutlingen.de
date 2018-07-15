@@ -16,8 +16,8 @@ Fun, Action, Kultur und Bildung bilden den Schwerpunkt unserer Freizeitangebote 
 
 <div class="row">
 <div class="col-lg-6">
-<a href="{{ site.static.url | append: "w_600,cs_srgb,f_auto,q_auto,c_limit/" | append: "mitarbeiter" }}">
-<img class="img-fluid rounded mb-4" src="{{ site.static.url | append: "w_1200,cs_srgb,f_auto,q_auto,c_limit/" | append: "mitarbeiter" }}" alt="Mitarbeiter des Kolpinghauses" />
+<a href="{{ site.static.url | append: ",w_600/" | append: "mitarbeiter" }}">
+<img class="img-fluid rounded mb-4" src="{{ site.static.url | append: site.static.default | append: "," | append: "w_600" | append: "/" | append: "mitarbeiter" }}" alt="Mitarbeiter des Kolpinghauses" />
 </a>
 </div>
 <div class="col-lg-6" markdown="1">
@@ -33,12 +33,12 @@ Das gesamte Team arbeitet nach dem Motto „wir bieten viel mehr als ein Dach ü
 <br>
 <div class="row">
 <div class="col-lg-6  text-center mb-4" markdown="1">
-<img class="rounded-circle img-fluid d-block mx-auto" width="200" height="200" src="{{ site.static.url | append: "w_200,h_200,cs_srgb,f_auto,q_auto,c_limit/" | append: "rist" }}" alt="Hermann Rist">
+<img class="rounded-circle img-fluid d-block mx-auto" width="200" height="200" src="{{ site.static.url | append: site.static.default | append: "," | append: "w_200,h_200"| append: "/" | append: "rist" }}" alt="Hermann Rist">
 
 ### Hermann Rist <small style="font-size: 70%;">Heimleiter</small>
 </div>
 <div class="col-lg-6 text-center mb-4" markdown="1">
-<img class="rounded-circle img-fluid d-block mx-auto" width="200" height="200" src="{{ site.static.url | append: "w_200,h_200,cs_srgb,f_auto,q_auto,c_limit/" | append: "abele" }}" alt="Yvonne Abele">
+<img class="rounded-circle img-fluid d-block mx-auto" width="200" height="200" src="{{ site.static.url | append: site.static.default | append: "," | append: "w_200,h_200"| append: "/" | append: "abele" }}" alt="Yvonne Abele">
 ### Yvonne Abele <small style="font-size: 70%;">Stellvertretende Heimleiterin</small>
 </div>
 </div>
@@ -55,7 +55,7 @@ Adolph Kolping verstand es als Sozialreformer, schon in der damaligen Zeit für 
 
 </div>
 <div class="col-lg-6" style="text-align:center;height: 30rem;">
-<img class="img-fluid rounded mb-4" style="max-height: 100% !important; width: auto;" src="{{ site.static.url | append: "cs_srgb,f_auto,q_auto,c_limit/" | append: "adolph-kolping" }}" alt="Adolph Kolping">
+<img class="img-fluid rounded mb-4" style="max-height: 100% !important; width: auto;" src="{{ site.static.url | append: site.static.default | append: "," | append: "w_600"| append: "/" | append: "adolph-kolping" }}" alt="Adolph Kolping">
 </div>
 </div>
 <br>
@@ -102,6 +102,5 @@ Außerdem können Sie sich auch direkt bei uns, im Kolpinghaus, für einen freiw
 
 </div>
 <div class="col">
-<img src="{{ site.static.url | append: "cs_srgb,f_auto,q_auto,c_limit/" | append: "kooperationspartner" }}" alt="Kooperationspartner" style="max-width: 100%;">
+<img src="{{ site.static.url | append: site.static.default | append: "/" | append: "kooperationspartner" }}" alt="Kooperationspartner" style="max-width: 100%;">
 </div>
-{{ site.static.url}}
