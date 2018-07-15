@@ -8,7 +8,13 @@ timezone: Europe/Berlin
 future: true
 excerpt_separator: <!--more-->
 
-compress_html: { ignore: { envs: ['development'] } }
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  ignore:
+    envs: ['development']
+  blanklines: false
+  profile: false
 
 plugins:
    - jekyll-redirect-from
