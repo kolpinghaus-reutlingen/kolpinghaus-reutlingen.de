@@ -1,6 +1,6 @@
 ---
 title: Startseite
-layout: one_third-news
+layout: startseite
 permalink: /
 redirect_from:
   - /css/

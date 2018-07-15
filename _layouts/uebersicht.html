@@ -1,11 +1,8 @@
 ---
 layout: default
-published: true
 ---
 
-{% assign sorted = site[page.active] | sort: 'date' | reverse %} 
-
-
+{% assign sorted = site[page.active] | sort: 'date' | reverse %}
 <div class="row">
 		<div class="col-md-8">
       {% for item in sorted %}

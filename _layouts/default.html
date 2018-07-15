@@ -1,12 +1,6 @@
 ---
-layout: barebone
+layout: bare
 ---
-{% if page.title == "Startseite" %}
-<title>{{ site.title }}</title>
-{% else %}
-<title>{{ page.title }} | {{ site.title }}</title>
-{% endif %}
-  <link rel="stylesheet" href="/css/critical.css">
 </head>
 <body>
   {% include header.html %}
@@ -16,7 +10,3 @@ layout: barebone
     {{content}}
   <br></div>
   {% include footer.html %}
-  <script src="/js/jquery-3.2.1.slim.js"></script>
-  <script src="/js/popper.js"></script>
-  <script src="/js/bootstrap.js"></script>
-  <link rel="stylesheet" href="/css/non-critical.css">

@@ -1,6 +1,7 @@
 title: Kolpinghaus Reutlingen
 url: https://kolpinghaus-reutlingen.de
-static: https://static1.kolpinghaus-reutlingen.de
+static:
+  url: https://res.cloudinary.com/kolpinghaus-rt/image/upload/
 timezone: Europe/Berlin
 future: true
 excerpt_separator: <!--more-->
@@ -27,7 +28,7 @@ kontakt:
 
 author:
   name: Patrick Haußmann
-  url: 
+  url:
 
 google-site-verification:
   old: WKV36y8R6DIy6Q5bRY5m3UTQcTRnEZkPCvINlUtgSdc
