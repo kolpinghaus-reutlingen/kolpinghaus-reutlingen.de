@@ -1,5 +1,6 @@
 title: Kolpinghaus Reutlingen
 url: https://kolpinghaus-reutlingen.de
+commit: 76a055c7d36306ddae49fbdf08ce0ee0445a8460
 static:
   url: https://res.cloudinary.com/kolpinghaus-rt/image/upload/
   default: w_1920,h_1080,cs_srgb,f_auto,q_auto,c_limit
