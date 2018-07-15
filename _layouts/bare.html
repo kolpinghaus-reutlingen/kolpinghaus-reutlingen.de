@@ -1,17 +1,8 @@
 ---
 layout: html
 ---
-{% if page.title == "Startseite" %}
-<title>{{ site.title }}</title>
-{% else %}
-<title>{{ page.title }} | {{ site.title }}</title>
-{% endif %}
-<style>
-{% include critical.css %}
-</style>
 <link rel="dns-prefetch" href="//res.cloudinary.com">
 <link rel="dns-prefetch" href="//cdn.jsdelivr.net">
-
 {{content}}
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/combine/gh/kolpinghaus-rt/kolpinghaus-reutlingen.de@{{site.commit}}/css/bootstrap.min.css,gh/kolpinghaus-rt/kolpinghaus-reutlingen.de@{{site.commit}}/css/main.min.css">
 <script src="https://cdn.jsdelivr.net/combine/gh/kolpinghaus-rt/kolpinghaus-reutlingen.de@{{site.commit}}/js/jquery.min.js,gh/kolpinghaus-rt/kolpinghaus-reutlingen.de@{{site.commit}}/js/popper.min.js,gh/kolpinghaus-rt/kolpinghaus-reutlingen.de@{{site.commit}}/js/bootstrap.min.js"></script>
