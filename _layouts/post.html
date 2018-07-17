@@ -13,6 +13,10 @@ layout: default
     </a>
     <br><br><br>
     {% endif %}
+    
+    {% if page.img.main %}
+    <h2> {{ page.subheading }} </h2>
+    {% endif %}
     {{content}}
   </div>
   {% if page.img.third %}
