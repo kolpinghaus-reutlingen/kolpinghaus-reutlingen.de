@@ -26,14 +26,11 @@ layout: default
 						<a href="{{ item.url }}" class="btn btn-primary">zum Artikel &rarr;</a>
                   	{% else %}
                     	<a href="{{ item.url }}" class="btn btn-primary">mehr &rarr;</a>
-                  	{% endif %]
+                  	{% endif %}
 				</div>
-				<div class="card-body"> 
-					<p>
+				<div class="card-footer text-muted"> 
 					{% include pretty-date.html date=item.date %} 
-					</p>
 				</div>
-				{% include pretty-date.html date=item.date %}
 			</div>
 		{% endfor %}
 	</div>
