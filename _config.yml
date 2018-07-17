@@ -9,7 +9,7 @@ future: true
 excerpt_separator: <!--more-->
 
 compress_html:
-  clippings: all
+  clippings: []
   comments: ["<!-- ", " -->"]
   ignore:
     envs: ['development']
