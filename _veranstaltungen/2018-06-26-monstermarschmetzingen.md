@@ -2,6 +2,7 @@
 title: MonsterMarschMetzingen
 date: 2018-06-26
 description: Gebäudereiniger/innen auf neuen Wegen
+autor: Frau Pfaller
 images:
   - id: 2018-06-26-monstermarschmetzingen-1
     alt: Die erste Gruppe in Nürtingen
@@ -49,6 +50,3 @@ Entgegen den Erwartungen waren die Schülerinnen und Schüler mit viel Ehrgeiz b
 Die Resonanz unter den Schülerinnen und Schülern auf diesen besonderen Erlebnistag war sehr gut. Obwohl viele am nächsten Schultag nicht rund liefen und einige Blasen an den Füßen hatten, war der Tag ein gelungenes Erlebnis und wird von den meisten nicht so schnell vergessen werden.
 
 Übrigens: die Lehrer/innen, die gestartet waren, erreichten allesamt zumindest die Schule in Metzingen, zwei Lehrer legten sogar die Marathondistanz zurück.<br><br><br>
-
-
--- Frau Pfaller
