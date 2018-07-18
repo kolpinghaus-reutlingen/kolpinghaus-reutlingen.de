@@ -6,9 +6,9 @@ img:
   main:
     id: 2018-06-29-dioezesane-fussballmeisterschaft
 ---
-<!--more-->
 
-### 3.Platz für das Kolpinghaus bei der 20. Diözesane Fußballmeisterschaft am 29.06.2018<br><br>
+
+### 3.Platz für das Kolpinghaus bei der 20. Diözesane Fußballmeisterschaft <!--mehr--> am 29.06.2018<br><br>
 
 ##### Austragungsort: Rottenburg-Wurmlingen
 
