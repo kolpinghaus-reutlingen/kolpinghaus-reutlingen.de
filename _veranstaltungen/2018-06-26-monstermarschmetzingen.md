@@ -20,7 +20,7 @@ images:
   - id: 2018-06-26-monstermarschmetzingen-8
     alt: Die schnellste Gruppe in Metzingen
 ---
-<!--more-->
+<!--mehr-->
 ### MonsterMarschMetzingen - an seine Grenzen gehen
 #### Gebäudereiniger/innen auf neuen Wegen<br><br>
 
