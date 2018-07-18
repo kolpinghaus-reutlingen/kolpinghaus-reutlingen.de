@@ -49,4 +49,4 @@ Entgegen den Erwartungen waren die Schülerinnen und Schüler mit viel Ehrgeiz b
 
 Die Resonanz unter den Schülerinnen und Schülern auf diesen besonderen Erlebnistag war sehr gut. Obwohl viele am nächsten Schultag nicht rund liefen und einige Blasen an den Füßen hatten, war der Tag ein gelungenes Erlebnis und wird von den meisten nicht so schnell vergessen werden.
 
-Übrigens: die Lehrer/innen, die gestartet waren, erreichten allesamt zumindest die Schule in Metzingen, zwei Lehrer legten sogar die Marathondistanz zurück.<br><br><br>
+Übrigens: die Lehrer/innen, die gestartet waren, erreichten allesamt zumindest die Schule in Metzingen, zwei Lehrer legten sogar die Marathondistanz zurück.
