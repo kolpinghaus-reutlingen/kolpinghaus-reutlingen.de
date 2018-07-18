@@ -6,7 +6,7 @@ static:
   default: w_1920,h_1080,cs_srgb,f_auto,q_auto,c_limit
 timezone: Europe/Berlin
 future: true
-excerpt_separator: <!--more-->
+excerpt_separator: <!--mehr-->
 
 compress_html:
   clippings: []
