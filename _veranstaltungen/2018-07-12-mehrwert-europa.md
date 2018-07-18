@@ -7,7 +7,7 @@ img:
 ---
 
 ### forum dialog am 12. Juli im Kolpinghaus
-<!--more-->
+<!--mehr-->
 
 
 Nicht erst seit dem Brexit stehen regionale oder nationale Separierungstendenzen der Idee eines „Vereinigten Europas“ entgegen. Zugleich sieht sich die Europäische Union zunehmend in einer defensiven Rolle – Visionen einer gemeinsamen Zukunft der europäischen Staaten fehlen.
