@@ -21,3 +21,7 @@ body {
 .portfolio-item {
 	margin-bottom: 30px;
 }
+
+.blockquote-footer {
+    font-size: 120%;
+}
