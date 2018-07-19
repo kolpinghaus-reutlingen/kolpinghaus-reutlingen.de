@@ -1,6 +1,6 @@
 --- 
 title: Musik
-date: 2007-01-01
+date: 2006-01-01
 img:
   thumb:
     id: musik
