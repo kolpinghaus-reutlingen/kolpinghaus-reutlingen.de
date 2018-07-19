@@ -1,11 +1,8 @@
 --- 
-title: Fussball
-
-redirect_to:
-  - /projekte/
-
+title: Fußball
 img:
   thumb:
     id: fussball
-
+redirect_to:
+  - /projekte/
 ---
