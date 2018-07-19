@@ -1,6 +1,6 @@
 --- 
 title: Deutschkurs
-date: 2007-01-01
+date: 2006-01-01
 ---
 <!--mehr-->
 Es ist ein Montag so gegen 16 Uhr und ein freundliches “Hallo, kann mir jemand das Bistro aufschließen?” ist zu hören. Die zwei engagierten Studentinnen setzen sich an einen Tisch und breiten ihre mitgebrachten Arbeitsblätter aus. 
