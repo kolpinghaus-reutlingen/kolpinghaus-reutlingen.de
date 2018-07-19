@@ -12,5 +12,10 @@
 		<a href="{% link veranstaltungen.html %}">Veranstaltungen</a>
 	</li>
 	{% endif %}
+	{% if page.collection == "projekte" %}
+	<li class="breadcrumb-item">
+		<a href="{% link projekte.html %}">Projekte</a>
+	</li>
+	{% endif %}
 	<li class="breadcrumb-item active">{{ page.title }}</li>
 </ol>
