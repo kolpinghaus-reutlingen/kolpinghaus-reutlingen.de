@@ -3,17 +3,34 @@ layout: default
 ---
 
 {% assign sorted = site[page.active] | sort: 'date' | reverse %}
+
+
+{% assign type = "p" %}
+
+{% if page.active == "projekte" %}
+    {% assign type = "p" %}
+{% else %}
+    {% assign type = "0" %}
+{% endif %}
+
+
 <div class="row">
-	<div class="col-md-8">
-		{% for item in sorted %}
-			<div class="card mb-4">
+    {% if type == "0" %}<div class="col-md-8">{% endif %}
+    {% for item in sorted %}
+        {% if type == "p" %}<div class="col-lg-6 portfolio-item">
+          <div class="card h-100">
+        {% else %}
+          <div class="card mb-4">
+        {% endif %}
         		{% if item.img.thumb %}
         			<a href="{{ item.url }}">
           				<img class="card-img-top" src="{{ site.static.url | append: site.static.default | append: "," | append: "w_600" | append: "/" | append: item.img.thumb.id}}" alt="{{item.img.thumb.alt}}">
         			</a>
 				{% endif %}
 				<div class="card-body">
+                {% if type == "p" %}<a href="{{ item.url }}">{% endif %}
 					<h2 class="card-title">{{ item.title }}</h2>
+                {% if type == "p" %}</a>{% endif %}
 					<p class="card-text">
           			{% if item.description %}
           				{{ item.description }}
@@ -24,14 +41,19 @@ layout: default
           			{% endif %}</p>
                   	{% if page.active == "artikel"%}
 						<a href="{{ item.url }}" class="btn btn-primary">zum Artikel &rarr;</a>
-                  	{% else %}
+                  	{% endif %}
+                    {% if page.active == "veranstaltungen"%}
                     	<a href="{{ item.url }}" class="btn btn-primary">mehr &rarr;</a>
                   	{% endif %}
 				</div>
+                
+                {% if type == "0" %}
 				<div class="card-footer text-muted"> 
 					{% include pretty-date.html date=item.date %} 
 				</div>
+                {% endif %}
 			</div>
+              {% if type == "p" %}</div>{% endif %}
 		{% endfor %}
-	</div>
+        {% if type == "0" %}</div>{% endif %}
 </div>
