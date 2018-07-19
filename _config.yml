@@ -71,4 +71,4 @@ defaults:
     values:
       layout: post
       active: projekte
-      permalink: /projekt/:path/
+      permalink: /projekt/:title/
