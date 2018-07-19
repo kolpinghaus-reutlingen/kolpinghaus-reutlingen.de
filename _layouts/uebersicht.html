@@ -4,9 +4,6 @@ layout: default
 
 {% assign sorted = site[page.active] | sort: 'date' | reverse %}
 
-
-{% assign type = "p" %}
-
 {% if page.active == "projekte" %}
     {% assign type = "p" %}
 {% else %}
@@ -28,9 +25,13 @@ layout: default
         			</a>
 				{% endif %}
 				<div class="card-body">
-                {% if type == "p" %}<a href="{{ item.url }}">{% endif %}
+				  {% if type == "p" %}<a href="{{ item.url }}">
+					<h4 class="card-title">{{ item.title }}</h4>
+               				 </a>
+					
+				{% else %}
 					<h2 class="card-title">{{ item.title }}</h2>
-                {% if type == "p" %}</a>{% endif %}
+				{% endif %}
 					<p class="card-text">
           			{% if item.description %}
           				{{ item.description }}
