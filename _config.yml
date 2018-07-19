@@ -47,6 +47,8 @@ collections:
     output: true
   veranstaltungen:
     output: true
+  projekte:
+    output: true
 
 defaults:
   - scope:
@@ -62,4 +64,11 @@ defaults:
     values:
       layout: post
       active: veranstaltungen
-      permalink: /veranstaltung/:path/
+      permalink: /veranstaltung/:path/ 
+  - scope: 
+      path: ""
+      type: projekte
+    values:
+      layout: post
+      active: projekte
+      permalink: /projekt/:path/
