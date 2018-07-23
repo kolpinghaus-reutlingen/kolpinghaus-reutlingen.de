@@ -1,7 +1,10 @@
 <div class="card mb-4">
   <div class="card-body">
     <h4 class="card-title">nächste Bücher Annahme</h4>
-      <p class="card-text">Freitag, 7. September</p>
+    {% assign date1 = '2018-09-07' %}
+    {% assign date2 = '2018-11-02' %} 
+    {% assign date3 = '2018-12-07' %}
+      <p class="card-text">{% include pretty-date.html date=date1 %} </p>
       <!-- 7.sep, 2.nov, 7.dez -->
   </div>
 </div>
