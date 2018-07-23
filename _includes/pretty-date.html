@@ -1,17 +1,48 @@
 {% if include.date %}
-{% assign month_number = include.date | date: "%-m"  %}
-{% case month_number %}
-  {% when '1' or '01' %}Januar
-  {% when '2' or '02' %}Februar
-  {% when '3' or '03' %}März
-  {% when '4' or '04' %}April
-  {% when '5' or '05' %}Mai
-  {% when '6' or '06' %}Juni
-  {% when '7' or '07' %}Juli
-  {% when '8' or '08' %}August
-  {% when '9' or '09' %}September
-  {% when '10' %}Oktober
-  {% when '11' %}November
-  {% when '12' %}Dezember
-{% endcase %} {{ include.date | date: "%-d" }}, {{ include.date | date: "%Y" }}
+	{% assign mode = include.mode | default: 1 %}
+
+
+	{% capture _monat %}
+		{% assign month_number = include.date | date: "%-m"  %}
+		{% case month_number %}
+			{% when '1' or '01' %}Januar
+			{% when '2' or '02' %}Februar
+			{% when '3' or '03' %}März
+			{% when '4' or '04' %}April
+			{% when '5' or '05' %}Mai
+			{% when '6' or '06' %}Juni
+			{% when '7' or '07' %}Juli
+			{% when '8' or '08' %}August
+			{% when '9' or '09' %}September
+			{% when '10' %}Oktober
+			{% when '11' %}November
+			{% when '12' %}Dezember
+		{% endcase %}
+	{% endcapture %}
+
+	{% capture _wochentag %}
+		{% assign weekday_number = include.date | date: "%w"  %}
+		{% case weekday_number %}
+			{% when '1' or '01' %}Montag
+			{% when '2' or '02' %}Dienstag
+			{% when '3' or '03' %}Mittwoch
+			{% when '4' or '04' %}Donnerstag
+			{% when '5' or '05' %}Freitag
+			{% when '6' or '06' %}Samstag
+			{% when '0' %}Sonntag
+		{% endcase %}
+	{% endcapture %}
+
+
+	{% assign tag = include.date | date: "%d" %}
+	{% assign jahr = include.date | date: "%Y" %}
+
+
+	{% assign monat = _monat | strip %}
+	{% assign wochentag = _wochentag | strip %}
+
+
+	{% if mode = 1 %} {{ monat }} {{ tag }}, {{ jahr }}{% endif %}
+	{% if mode = 2 %} {{ wochentag }}, {{ tag }}. {{ monat }}{% endif %}
+t
 {% endif %}
