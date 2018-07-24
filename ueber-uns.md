@@ -53,6 +53,10 @@ Adolph Kolping verstand es als Sozialreformer, schon in der damaligen Zeit für 
 (beruflich - persönlich - musisch - gesellschaftlich und religiös) gefördert werden kann. Kolpings Ziel war es, jungen Menschen, die etwas aus sich machen wollten, Unterstützung zukommen zu lassen, die sie brauchten.<br>
 **In dieser Tradition verstehen wir unseren Auftrag als Jugendwohnheim.**
 
+<a href="{% link leitsaetze.md %}" class="btn btn-primary">Leitsätze</a>
+<a href="{% link adolph-kolping.md %}" class="btn btn-primary">Adolph Kolping</a>
+
+
 </div>
 <div class="col-lg-6" style="text-align:center;height: 30rem;">
 <img class="img-fluid rounded mb-4" style="max-height: 100% !important; width: auto;" src="{{ site.static.url | append: site.static.default | append: "," | append: "h_500"| append: "/" | append: "adolph-kolping" }}" alt="Adolph Kolping">

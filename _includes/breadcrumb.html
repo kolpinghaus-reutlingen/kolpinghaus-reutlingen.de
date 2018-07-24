@@ -17,5 +17,10 @@
 		<a href="{% link projekte.html %}">Projekte</a>
 	</li>
 	{% endif %}
+	{% if page.active == "ueber-uns" and page.title != "Über uns"  %}
+	<li class="breadcrumb-item">
+		<a href="{% link ueber-uns.md %}">Über uns</a>
+	</li>
+	{% endif %}
 	<li class="breadcrumb-item active">{{ page.title }}</li>
 </ol>
