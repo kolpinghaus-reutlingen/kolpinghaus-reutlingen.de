@@ -6,7 +6,7 @@ layout: default
 <hr>
 {% else %}
 <hr>
-<p>{% include pretty-date.html date=page.date %}</p>
+<p>{% include pretty-date.html date=page.date mode =1 %}</p>
 <hr>
 {% endif %}
 <div class="row">
@@ -17,19 +17,19 @@ layout: default
     </a>
     <br><br><br>
     {% endif %}
-    
+
     {% if page.subheading %}
     <h2> {{ page.subheading }} </h2>
     {% endif %}
-    
+
     {{content}}
     <br>
     {% if page.autor %}
     <br>
-    
+
      <footer class="blockquote-footer">{{page.autor}}</footer>
      {% endif %}
-    
+
   </div>
   {% if page.img.third %}
   <div class="col-md-4">

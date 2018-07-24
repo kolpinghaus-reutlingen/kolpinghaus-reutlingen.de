@@ -2,7 +2,7 @@
 title: MonsterMarschMetzingen
 date: 2018-06-26
 description: Gebäudereiniger/innen auf neuen Wegen
-autor: Frau Pfaller
+autor: Claudia Pfaller
 images:
   - id: 2018-06-26-monstermarschmetzingen-1
     alt: Die erste Gruppe in Nürtingen

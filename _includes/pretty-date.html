@@ -42,7 +42,7 @@
 	{% assign wochentag = _wochentag | strip %}
 
 
-	{% if mode = 1 %} {{ monat }} {{ tag }}, {{ jahr }}{% endif %}
-	{% if mode = 2 %} {{ wochentag }}, {{ tag }}. {{ monat }}{% endif %}
-t
+	{% if mode == 1 %} {{ monat }} {{ tag }}, {{ jahr }} {% endif %}
+	{% if mode == 2 %} {{ wochentag }}, {{ tag }}. {{ monat }} {% endif %}
+
 {% endif %}
