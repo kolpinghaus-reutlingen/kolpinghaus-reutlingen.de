@@ -5,8 +5,8 @@ permalink: /ueber-uns/leitsaetze/
 active: ueber-uns
 ---
 <div class="row" markdown="1">
-<a href="{{site.static.url | append: site.static.default | append: "/leitsaetze"}}">
-<img class="img-fluid rounded" src="{{site.static.url | append: site.static.default | append: "/leitsaetze"}}" alt="{{page.img.main.alt}}">
+<a href="{% include img id='leitsaetze' %}">
+<img class="img-fluid rounded" src="{% include img id='leitsaetze' %}" alt="{{page.img.main.alt}}">
 </a><br><br><br>
 <div class="col-12" markdown="1">
 

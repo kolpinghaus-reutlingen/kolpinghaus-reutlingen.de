@@ -31,7 +31,7 @@ Der Erzbischof von Köln, Karl Joseph Kardinal Schulte, eröffnete am 21. März 
 
 </div>
 <div class="col-md-4">
-<a href="{{site.static.url | append: site.static.default | append: "/adolph-kolping-jung" }}">
-<img class="img-fluid" src="{{site.static.url | append: site.static.default | append: "," | append: "h_500" | append: "/adolph-kolping-jung" }}" alt="">
+<a href="{% include img id='adolph-kolping-jung' %}">
+<img class="img-fluid" src="{% include img id='adolph-kolping-jung' options='h_500' %}" alt="">
 </a>
 </div>

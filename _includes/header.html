@@ -1,7 +1,7 @@
 <nav class="navbar fixed-top navbar-expand-lg navbar-dark fixed-top" style="background-color: #393b3f !important;">
   <div class="container ">
     <a class="navbar-brand text-center" href="{% link index.md %}">
-      <img src="{{ site.static.url | append: site.static.default | append: "," | append: "w_35,h_35" | append: "/" | append: "kolping-k" }}" width="35" height="35" alt="K">
+      <img src="{% include img id='kolping-k' options='w_35,h_35' %}" width="35" height="35" alt="K">
     </a>
     <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>

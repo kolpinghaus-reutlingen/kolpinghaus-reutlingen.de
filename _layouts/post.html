@@ -12,8 +12,8 @@ layout: default
 <div class="row">
   <div class="col-lg-8">
     {% if page.img.main %}
-    <a href="{{site.static.url | append: site.static.default | append: "/" | append: page.img.main.id}}">
-    <img class="img-fluid rounded" src="{{site.static.url | append: site.static.default | append: "," | append: "w_700" | append: "/" | append: page.img.main.id}}" alt="{{page.img.main.alt}}">
+    <a href="{% include img id=page.img.main.id %}">
+    <img class="img-fluid rounded" src="{% include img id=page.img.main.id options='w_700' %}" alt="{{page.img.main.alt}}">
     </a>
     <br><br><br>
     {% endif %}
@@ -33,8 +33,8 @@ layout: default
   </div>
   {% if page.img.third %}
   <div class="col-md-4">
-    <a href="{{site.static.url | append: site.static.default | append: "/" | append: page.img.third.id}}">
-    <img class="img-fluid" src="{{site.static.url | append: site.static.default | append: "," | append: "h_500" | append: "/" | append: page.img.third.id}}" alt="{{page.img.third.alt}}">
+    <a href="{% include img id=page.img.third.id %}">
+    <img class="img-fluid" src="{% include img id=page.img.third.id options='h_500' %}" alt="{{page.img.third.alt}}">
     </a>
   </div>
   {% endif %}
@@ -44,8 +44,8 @@ layout: default
 <div class="row text-center text-lg-left">
   {% for picture in page.images %}
   <div class="col-lg-3 col-md-4 col-xs-6">
-    <a href="{{site.static.url | append: site.static.default | append: "/" | append: picture.id}}" class="d-block mb-4">
-      <img class="img-fluid img-thumbnail" src="{{site.static.url | append: site.static.default | append: "," | append: "w_300" | append: "/" | append: picture.id}}" alt="{{picture.alt}}">
+    <a href="{% include img id=picture.id %}" class="d-block mb-4">
+      <img class="img-fluid img-thumbnail" src="{% include img id=picture.id options='w_300' %}" alt="{{picture.alt}}">
     </a>
   </div>
   {% endfor %}
