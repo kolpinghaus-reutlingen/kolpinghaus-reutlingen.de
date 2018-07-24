@@ -4,6 +4,17 @@ commit: 49394357c6914c36f3dceead2c2d7fd2966cce36
 static:
   url: https://res.cloudinary.com/kolpinghaus-rt/image/upload/
   default: w_1920,h_1080,cs_srgb,f_auto,q_auto,c_limit
+image:
+  url: https://res.cloudinary.com/kolpinghaus-rt/image/upload
+  option:
+    default: w_1920,h_1080,cs_srgb,f_auto,q_auto,c_limit
+  folder:
+    artikel:
+    veranstaltungen:
+    projekte:
+    root:
+    bildergallerie:
+
 timezone: Europe/Berlin
 future: true
 excerpt_separator: <!--mehr-->
@@ -64,8 +75,8 @@ defaults:
     values:
       layout: post
       active: veranstaltungen
-      permalink: /veranstaltung/:path/ 
-  - scope: 
+      permalink: /veranstaltung/:path/
+  - scope:
       path: ""
       type: projekte
     values:
