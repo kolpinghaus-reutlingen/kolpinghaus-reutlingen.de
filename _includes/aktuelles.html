@@ -2,19 +2,18 @@
   <div class="card-body">
     <h4 class="card-title">nächste Bücher Annahme</h4>
     {% assign date1 = '2018-09-07' %}
-    {% assign date2 = '2018-11-02' %} 
+    {% assign date2 = '2018-11-02' %}
     {% assign date3 = '2018-12-07' %}
-      <p class="card-text">{% include pretty-date.html date=date1 %} </p>
+      <p class="card-text">{% include pretty-date.html date=date1 mode=2 %} </p>
       <!-- 7.sep, 2.nov, 7.dez -->
   </div>
 </div>
 <div class="card mb-4">
   <div class="card-body">
     <h3 class="card-title">nächste Bücher Börse</h3>
-    <p class="card-text">Samstag, 20. Oktober</p>
-    <a href="{{ site.static.url | append: site.static.default | append: "," | append: "w_300" | append: "/" | append: "2018-04-04-buecher-boerse-april-2018" }}">
-      <img src="{{ site.static.url | append: site.static.default | append: "," | append: "w_300" | append: "/" | append: "2018-04-04-buecher-boerse-april-2018" }}" style="
-    max-width: 100%;" alt="Bücher Börse 2018"></a>
+    <a href="{{ site.static.url | append: site.static.default | append: "," | append: "w_300" | append: "/" | append: "2018-10-20-buecher-boerse" }}">
+      <img src="{{ site.static.url | append: site.static.default | append: "," | append: "w_300" | append: "/" | append: "2018-10-20-buecher-boerse" }}" style="
+    max-width: 100%;" alt="{% include pretty-date.html date='2018-10-20' mode=2 %}"></a>
   </div>
 </div>
 <a href="{% link artikel.html %}" class="btn btn-primary">zu den Artikeln &rarr;</a>

@@ -5,6 +5,8 @@ description: Fast hätten die Kolpinghaus–Kicker den Pokal des Bischofs nach H
 img:
   main:
     id: 2018-06-29-dioezesane-fussballmeisterschaft
+  third:
+    id: 2018-06-29-dioezesane-fussballmeisterschaft-urkunde
 ---
 
 
