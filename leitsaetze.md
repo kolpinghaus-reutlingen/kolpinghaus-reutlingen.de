@@ -3,6 +3,8 @@ title: Leitsätze
 layout: default
 permalink: /ueber-uns/leitsaetze/
 active: ueber-uns
+img:
+  folder: ueber-uns
 ---
 <div class="row" markdown="1">
 <a href="{% include img id='leitsaetze' %}">

@@ -3,6 +3,8 @@ title: Adolph Kolping
 layout: default
 permalink: /ueber-uns/adolph-kolping/
 active: ueber-uns
+img:
+  folder: ueber-uns
 ---
 <div class="row">
 <div class="col-lg-8" markdown="1">

@@ -1,19 +1,10 @@
 title: Kolpinghaus Reutlingen
 url: https://kolpinghaus-reutlingen.de
 commit: 49394357c6914c36f3dceead2c2d7fd2966cce36
-static:
-  url: https://res.cloudinary.com/kolpinghaus-rt/image/upload/
-  default: t_default,f_auto,q_auto
 image:
   url: https://res.cloudinary.com/kolpinghaus-rt/image/upload
   option:
     default: t_default,f_auto,q_auto
-  folder:
-    artikel:
-    veranstaltungen:
-    projekte:
-    root:
-    bildergallerie:
 
 timezone: Europe/Berlin
 future: true
@@ -69,6 +60,8 @@ defaults:
       layout: post
       active: artikel
       permalink: /artikel/:path/
+      img:
+        folder: artikel
   - scope:
       path: ""
       type: veranstaltungen
@@ -76,6 +69,8 @@ defaults:
       layout: post
       active: veranstaltungen
       permalink: /veranstaltung/:path/
+      img:
+        folder: veranstaltungen
   - scope:
       path: ""
       type: projekte
@@ -83,3 +78,5 @@ defaults:
       layout: post
       active: projekte
       permalink: /projekt/:path/
+      img:
+        folder: projekte

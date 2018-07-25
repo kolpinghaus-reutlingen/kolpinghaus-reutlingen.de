@@ -2,6 +2,8 @@
 title: Startseite
 layout: startseite
 permalink: /
+img:
+  folder: ueber-uns
 redirect_from:
   - /css/
   - /js/  
