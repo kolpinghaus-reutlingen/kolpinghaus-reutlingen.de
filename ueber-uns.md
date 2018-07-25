@@ -35,11 +35,11 @@ Das gesamte Team arbeitet nach dem Motto „wir bieten viel mehr als ein Dach ü
 <div class="col-lg-6  text-center mb-4" markdown="1">
 <img class="rounded-circle img-fluid d-block mx-auto" width="200" height="200" src="{% include img id='rist' options='w_200,h_200' %}" alt="Hermann Rist">
 
-### Hermann Rist <small style="font-size: 70%;">Heimleiter</small>
+### Hermann Rist <small style="font-size: 70%;">Einrichtungsleiter</small>
 </div>
 <div class="col-lg-6 text-center mb-4" markdown="1">
 <img class="rounded-circle img-fluid d-block mx-auto" width="200" height="200" src="{% include img id='abele' options='w_200,h_200' %}" alt="Yvonne Abele">
-### Yvonne Abele <small style="font-size: 70%;">Stellvertretende Heimleiterin</small>
+### Yvonne Abele <small style="font-size: 70%;">Stellvertretende Leitung</small>
 </div>
 </div>
 <hr>
@@ -53,12 +53,19 @@ Adolph Kolping verstand es als Sozialreformer, schon in der damaligen Zeit für 
 (beruflich - persönlich - musisch - gesellschaftlich und religiös) gefördert werden kann. Kolpings Ziel war es, jungen Menschen, die etwas aus sich machen wollten, Unterstützung zukommen zu lassen, die sie brauchten.<br>
 **In dieser Tradition verstehen wir unseren Auftrag als Jugendwohnheim.**
 
-<a href="{% link leitsaetze.md %}" class="btn btn-primary">Leitsätze</a>
-<a href="{% link adolph-kolping.md %}" class="btn btn-primary">Adolph Kolping</a>
+<br>
+<div class="row">
+  <div class="col text-right">
+  <a href="{% link leitsaetze.md %}" class="btn btn-primary">Leitsätze</a>
+  </div>
+  <div class="col text-left">
+  <a href="{% link adolph-kolping.md %}" class="btn btn-primary">Adolph Kolping</a>
+  </div>
+</div>
 
 
 </div>
-<div class="col-lg-6" style="text-align:center;height: 30rem;">
+<div class="col-lg-6 text-center" style="height: 30rem;">
 <img class="img-fluid rounded mb-4" style="max-height: 100% !important; width: auto;" src="{% include img id='adolph-kolping' options='h_500' %}" alt="Adolph Kolping">
 </div>
 </div>
