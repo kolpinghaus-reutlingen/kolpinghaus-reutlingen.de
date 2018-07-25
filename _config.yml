@@ -4,7 +4,7 @@ commit: 49394357c6914c36f3dceead2c2d7fd2966cce36
 image:
   url: https://res.cloudinary.com/kolpinghaus-rt/image/upload
   option:
-    default: t_default,f_auto,q_auto
+    default: t_default,q_auto
 
 timezone: Europe/Berlin
 future: true
