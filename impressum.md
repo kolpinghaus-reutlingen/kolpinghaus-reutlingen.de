@@ -2,6 +2,8 @@
 title: Impressum
 layout: default
 permalink: /impressum/
+img:
+  folder: ueber-uns
 ---
 
 ## Anbieter

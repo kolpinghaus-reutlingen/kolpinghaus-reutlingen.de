@@ -2,6 +2,8 @@
 title: Datenschutz
 layout: default
 permalink: /datenschutz/
+img:
+  folder: ueber-uns
 ---
 
 ## 1. Inhalt des Onlineangebotes

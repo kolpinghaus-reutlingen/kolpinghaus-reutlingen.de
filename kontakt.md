@@ -3,6 +3,8 @@ title: Kontakt
 layout: default
 permalink: /kontakt/
 active: kontakt
+img:
+  folder: ueber-uns
 ---
 
 <div class="row">
