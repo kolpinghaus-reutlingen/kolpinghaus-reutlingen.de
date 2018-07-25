@@ -14,18 +14,23 @@ layout: default
 <div class="row">
     {% if type == "0" %}<div class="col-md-8">{% endif %}
     {% for item in sorted %}
+      {% if item.pdf %}
+        {% capture url %}{% include img id=item.pdf %}{% endcapture %}
+      {% else %}
+        {% assign url = item.url %}
+      {% endif %}
         {% if type == "p" %}<div class="col-lg-6 portfolio-item">
           <div class="card h-100">
         {% else %}
           <div class="card mb-4">
         {% endif %}
         		{% if item.img.thumb %}
-        			<a href="{{ item.url }}">
+        			<a href="{{ url }}">
           				<img class="card-img-top" src="{% include img id=item.img.thumb.id options='w_600' %}" alt="{{item.img.thumb.alt}}">
         			</a>
 				{% endif %}
 				<div class="card-body">
-				  {% if type == "p" %}<a href="{{ item.url }}">
+				  {% if type == "p" %}<a href="{{ url }}">
 					<h4 class="card-title">{{ item.title }}</h4>
                				 </a>
 
@@ -41,10 +46,10 @@ layout: default
           				{% endif %}
           			{% endif %}</p>
                   	{% if page.active == "artikel"%}
-						<a href="{{ item.url }}" class="btn btn-primary">zum Artikel &rarr;</a>
+						<a href="{{ url }}" class="btn btn-primary">zum Artikel &rarr;</a>
                   	{% endif %}
                     {% if page.active == "veranstaltungen"%}
-                    	<a href="{{ item.url }}" class="btn btn-primary">mehr &rarr;</a>
+                    	<a href="{{ url }}" class="btn btn-primary">mehr &rarr;</a>
                   	{% endif %}
 				</div>
 

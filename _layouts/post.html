@@ -9,6 +9,11 @@ layout: default
 <p>{% include pretty-date.html date=page.date mode =1 %}</p>
 <hr>
 {% endif %}
+{% if page.pdf %}
+<a href="{% include img id=page.pdf %}">
+<img class="img-fluid rounded" src="{% include img id=page.pdf %}" alt="{{page.pdf.alt}}">
+</a>
+{% else %}
 <div class="row">
   <div class="col-lg-8">
     {% if page.img.main %}
@@ -50,4 +55,5 @@ layout: default
   </div>
   {% endfor %}
 </div>
+{% endif %}
 {% endif %}
