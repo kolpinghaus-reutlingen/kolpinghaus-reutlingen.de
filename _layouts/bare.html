@@ -1,8 +1,8 @@
 ---
 layout: html
 ---
-<link rel="dns-prefetch" href="//res.cloudinary.com">
-<link rel="dns-prefetch" href="//cdn.jsdelivr.net">
+<link rel="dns-prefetch preconnect" href="//res.cloudinary.com">
+<link rel="dns-prefetch preconnect" href="//cdn.jsdelivr.net">
 {% if page.title == 'Über uns' or page.title == 'Veranstaltungen' or page.title == 'Projekte' or page.title == 'Artikel' or page.title == 'Bilder' or page.title == 'Kontakt' %}
   {% assign css = 'critical-' | append: page.active | append: '.css' %}
 {% else %}

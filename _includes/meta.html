@@ -1,6 +1,7 @@
 <meta charset="utf-8">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=10,chrome=1">
+<meta name="date" content="{{site.time | date_to_xmlschema}}">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="author" content="{{site.author.name}}">
 <meta name="web_author" content="{{site.author.name}}">
@@ -8,7 +9,6 @@
 <meta name="audience" content="Alle"/>
 <meta name="copyright" content="(c) {{ site.time | date: '%Y' }} {{site.link}}"/>
 <link rel="author" href="{{site.author.url}}"/>
-<meta name="date" content="{{site.time | date_to_xmlschema}}">
 {% if page.description %}
 <meta name="description" content="{{ page.description }}">
 {% else %}
