@@ -1,1 +1,1 @@
-{{ site.image.url }}/{{ site.image.option.default }}{% if include.options %},{{ include.options }}{% endif %}/{% unless include.folder='none' %}{% if include.folder %}{{ include.folder }}{% else %}{{ page.img.folder }}{% endif %}/{% endunless %}{{ include.id}}
+{{ site.image.url }}/{{ site.image.option.default }}{% if include.options %},{{ include.options }}{% endif %}/v{{ site.image.version }}/{% unless include.folder='none' %}{% if include.folder %}{{ include.folder }}{% else %}{{ page.img.folder }}{% endif %}/{% endunless %}{{ include.id}}
