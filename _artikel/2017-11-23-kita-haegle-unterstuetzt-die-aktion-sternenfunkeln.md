@@ -1,6 +1,7 @@
 ---
 title: Kita Hägle unterstützt die Aktion Sternenfunkeln
 date: 2017-11-23
+autor: Jana Mayer
 images:
   - id: 2017-11-23-sonderaktion-sternenfunkeln
 ---
