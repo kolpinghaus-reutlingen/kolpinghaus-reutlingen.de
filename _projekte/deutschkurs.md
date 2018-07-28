@@ -1,5 +1,6 @@
 --- 
 title: Deutschkurs
+autor: Andrea Kintzler 
 date: 2006-01-01
 ---
 <!--mehr-->
