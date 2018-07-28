@@ -1,5 +1,6 @@
 ---
 title: Bistro des Kolpinghaus Reutlingen
+autor: Andrea Kintzler 
 date: 2018-07-13
 ---
 ### Wo unsere Jugendlichen am liebsten ihre Abende verbringen
