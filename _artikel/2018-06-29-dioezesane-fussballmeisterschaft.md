@@ -1,6 +1,7 @@
 ---
 title: 20. Diözesane Fußballmeisterschaft
 date: 2018-06-29
+autor: Hermann Rist
 description: Fast hätten die Kolpinghaus–Kicker den Pokal des Bischofs nach Hause gebracht
 img:
   main:
@@ -25,6 +26,6 @@ Das kleine Finale gegen das Bischöfliche Ordinariat gewannen die Kolpinghaus-Le
 Herzlichen Glückwunsch zum 3. Platz bei der 20. DM!
 
 
-Hermann Rist
 
-Einrichtungsleiter
+
+
