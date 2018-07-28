@@ -1,6 +1,7 @@
 ---
 title: NetHope & Google spenden elf Chromebooks
 date: 2017-11-27
+autor: Jana Mayer
 ---
 <!--mehr-->
 Aufgrund der großen Nachfrage – insbesondere durch unsere unbegleiteten minderjährigen
