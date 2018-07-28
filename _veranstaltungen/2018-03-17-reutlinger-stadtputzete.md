@@ -1,5 +1,6 @@
 ---
 title: Reutlinger Stadtputzete
+autor: Andrea Kintzler 
 date: 2018-03-17
 images:
   - id: 2018-03-17-reutlinger-stadtputzete-1
