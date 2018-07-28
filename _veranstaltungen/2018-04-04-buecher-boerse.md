@@ -1,6 +1,7 @@
 ---
 title: Bücher-Börse April 2018
 date: 2018-04-04
+autor: GEA
 description: Die Bücherbörse findet zweimal jährlich unter Federführung der Technischen Betriebsdienste Reutlingen in Zusammenarbeit mit dem Kolpinghaus Reutlingen statt.
 img:
   thumb:
