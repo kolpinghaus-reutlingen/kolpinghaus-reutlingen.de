@@ -1,6 +1,7 @@
 ---
 title: Schülerfirma TRAEG im Kolpinghaus
 date: 2018-03-21
+autor: Andrea Kintzler 
 description: „Traege“ Handyladestationen aus Bambusholz
 images:
   - id: 2018-03-21-schuelerfirma-traeg-im-kolpinghaus-1
