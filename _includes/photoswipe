@@ -54,12 +54,3 @@
 
 
 </div>
-
-
-
-
-<link rel="stylesheet" href="/css/photoswipe.css">
-<link rel="stylesheet" href="/css/photoswipe-skin.css">
-<script src="/js/photoswipe.js"></script>
-<script src="/js/photoswipe-ui.js"></script>
-<script src="/js/photoswipe-custom.js"></script>
