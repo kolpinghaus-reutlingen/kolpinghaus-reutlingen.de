@@ -15,12 +15,11 @@
 
     <div class="pswp__counter"></div>
 
+    <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
 
     <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
 
     <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
-
-    <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
 
     <div class="pswp__preloader">
       <div class="pswp__preloader__icn">
@@ -32,8 +31,14 @@
         </div>
 
 
+  <!-- <div class="pswp__loading-indicator"><div class="pswp__loading-indicator__line"></div></div> -->
+
         <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
           <div class="pswp__share-tooltip">
+      <!-- <a href="#" class="pswp__share--facebook"></a>
+      <a href="#" class="pswp__share--twitter"></a>
+      <a href="#" class="pswp__share--pinterest"></a>
+      <a href="#" download class="pswp__share--download"></a> -->
           </div>
       </div>
 
@@ -49,6 +54,8 @@
 
 
 </div>
+
+
 
 
 <link rel="stylesheet" href="/css/photoswipe.css">

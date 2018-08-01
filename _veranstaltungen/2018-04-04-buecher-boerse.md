@@ -8,10 +8,14 @@ img:
     id: 2018-04-04-buecher-boerse-thumb
   third:
     id: 2018-04-04-buecher-boerse-third
+    w: 324
+    h: 456
 images:
   - id: 2018-04-04-buecher-boerse-1
   - id: 2018-04-04-buecher-boerse-2
   - id: 2018-04-04-buecher-boerse-3
+    w: 3456
+    h: 5184
   - id: 2018-04-04-buecher-boerse-4
   - id: 2018-04-04-buecher-boerse-5
   - id: 2018-04-04-buecher-boerse-6
