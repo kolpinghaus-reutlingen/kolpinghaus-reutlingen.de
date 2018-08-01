@@ -7,9 +7,8 @@ img:
   folder: ueber-uns
 ---
 <div class="row" markdown="1">
-<a href="{% include img id='leitsaetze' %}">
 <img class="img-fluid rounded" src="{% include img id='leitsaetze' %}" alt="{{page.img.main.alt}}">
-</a><br><br><br>
+<br><br><br>
 <div class="col-12" markdown="1">
 
 Die Leitsätze beschreiben unser Selbstverständnis als Kolpingjugend und unseren Aufbruch in die Zukunft. Sie bauen auf dem Leitbild des Kolpingwerkes Deutschland auf. Sie sind für uns Wirklichkeit und ständige Herausforderung. Sie zeigen, wer wir sind, was uns bewegt und was wir wollen.

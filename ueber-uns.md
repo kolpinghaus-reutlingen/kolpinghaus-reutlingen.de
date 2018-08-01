@@ -17,8 +17,8 @@ Fun, Action, Kultur und Bildung bilden den Schwerpunkt unserer Freizeitangebote 
 <br>
 
 <div class="row">
-<div class="col-lg-6">
-<a href="{% include img id='mitarbeiter' %}">
+<div class="col-lg-6 gallery">
+<a href="{% include img id='mitarbeiter' %}" data-size="3000x2000" data-med-size="3000x2000" data-med="{% include img id='mitarbeiter' %}">
 <img class="img-fluid rounded mb-4" src="{% include img id='mitarbeiter' options='w_600' %}" alt="Mitarbeiter des Kolpinghauses" />
 </a>
 </div>
