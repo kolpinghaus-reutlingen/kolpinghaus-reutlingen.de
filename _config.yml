@@ -5,7 +5,7 @@ image:
   url: https://res.cloudinary.com/kolpinghaus-rt/image/upload
   version: 1532618028
   option:
-    default: c_lfill,g_auto,cs_srgb,q_auto
+    default: c_lfill,g_auto,cs_srgb,q_auto,f_auto
   max:
     w:
     h:
