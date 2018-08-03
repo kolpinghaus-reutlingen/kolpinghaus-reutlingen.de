@@ -4,7 +4,7 @@ date: 2018-07-27
 autor: Andrea Kintzler
 ---
 
-
+<!--mehr-->
 „Guten Morgen, aufstehen, wir gehen heute zum Bodensee!“, mit diesen Worten wurden die Jugendlichen um kurz vor 8 Uhr am 27.07.18, dem zweiten Ferientag, geweckt. Nachdem jeder ein Lunchpaket und genügend zu Trinken für diesen heißen Tag eingepackt hatte, ging es um ungefähr halb 9 los. 
 Erstmal mit dem Zug nach Friedrichshafen, wo unser erstes Ziel natürlich ein Strand war. Manche der 10 Jugendlichen und Betreuer liefen begeistert bis zu den Knien ins Wasser, andere blieben lieber am Ufer, von wo aus sie tolle Fotos machten. 
 „Was ist denn ein Zeppelin?“ Um diese Frage aufzulösen, besuchten wir gemeinsam das Zeppelin-Museum, wo darüber hinaus auch Flugzeuge, Autos und Züge aus der Zeit des Zeppelins zu bestaunen waren. Das Highlight war der Nachbau eines Zeppelins, den man als Besucher betreten konnte. Man fühlte sich wie in eine andere Zeit versetzt!
