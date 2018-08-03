@@ -1,12 +1,12 @@
 ---
 title: Dankeskarte von der St. Wolfgangsgemeinde
-date: 2018-07-24
+date: 2018-07-09
 autor: Der Festausschuss der St. Wolfgangsgemeinde
 img:
   main:
-    id: 2018-08-24-dankeskarte-st-wolfgangsgemeinde
+    id: 2018-07-09-dankeskarte-st-wolfgangsgemeinde
   third:
-    id: 2018-08-24-dankeskarte-st-wolfgangsgemeinde-unterschriften
+    id: 2018-07-09-dankeskarte-st-wolfgangsgemeinde-unterschriften
 ---
 <!--mehr-->
 Liebe Mitarbeiterinnen und Mitarbeiter und Bewohner im Kolpinghaus
