@@ -2,6 +2,9 @@
 title: Gemeinsamer Start in die Sommerferien
 date: 2018-07-15
 autor: Andrea Kintzler
+images:
+  - id: 2018-07-15-sommernachtskino-1
+  - id: 2018-07-15-sommernachtskino-2
 ---
 
 <!--mehr-->
