@@ -5,6 +5,9 @@ autor: Jana Rach
 img:
   thumb:
     id: computerkurs
+images:
+  - id: computerkurs-1
+  - id: computerkurs-2
 ---
 <!--mehr-->
 ### Umgang mit digitalen Medien im Kolpinghaus 
