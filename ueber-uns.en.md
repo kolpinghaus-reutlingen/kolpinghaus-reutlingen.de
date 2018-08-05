@@ -1,13 +1,15 @@
 ---
-title: Über uns
+title: About Us
 layout: default
-permalink: /en/ueber-uns/
+permalink: /en/about-us/
 i18n:
   language: en
   link: /ueber-uns/
 active: ueber-uns
 img:
   folder: ueber-uns
+redirect_from:
+  - /about-us/  
 ---
 The Kolpinghaus in Reutlingen is a reasonably priced possibility to live or spend the night in as a young person. Our offer addresses trainees, students, teaching-candidates, master students, young workers and since 2015 also unaccompanied underaged refugees.
 Besides, we are near the station and center in an area with good infrastructure.

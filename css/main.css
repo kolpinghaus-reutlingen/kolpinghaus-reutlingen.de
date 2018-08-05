@@ -34,3 +34,11 @@ body {
   color: rgba(255,255,255,.75);
     text-decoration: none;
 }
+
+.no-hover:hover{
+	color:rgba(255,255,255,.25)!important
+}
+
+.no-hover{
+	color:rgba(255,255,255,.25)!important
+}

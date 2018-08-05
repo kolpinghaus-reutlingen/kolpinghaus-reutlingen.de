@@ -4,10 +4,12 @@ layout: default
 permalink: /ueber-uns/
 i18n:
   language: de
-  link: /ueber-uns/
+  link: /en/about-us/
 active: ueber-uns
 img:
   folder: ueber-uns
+redirect_from:
+  - /en/ueber-uns/  
 ---
 
 Das Kolpinghaus in Reutlingen bietet kostengünstige Wohn- und Übernachtungsmöglichkeiten für junge Menschen. Unser Angebot richtet sich an Blockschüler, Auszubildende, Studenten, Lehramtsanwärter, Meisterschüler, junge Berufstätige und seit 2015 auch an unbegleitete minderjährige Flüchtlinge. Außerdem befinden wir uns in Bahnhofs- und Zentrumsnähe und in infrastrukturell gut angebundenem Umfeld.

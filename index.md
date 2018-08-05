@@ -4,7 +4,7 @@ layout: startseite
 permalink: /
 i18n:
   language: de
-  link: /
+  link: /en/
 img:
   folder: ueber-uns
 redirect_from:
