@@ -1,19 +1,19 @@
 ---
 title: Über uns
 layout: default
-permalink: /ueber-uns/
+permalink: /en/ueber-uns/
 i18n:
-  language: de
+  language: en
   link: /ueber-uns/
 active: ueber-uns
 img:
   folder: ueber-uns
 ---
+The Kolpinghaus in Reutlingen is a reasonably priced possibility to live or spend the night in as a young person. Our offer addresses trainees, students, teaching-candidates, master students, young workers and since 2015 also unaccompanied underaged refugees.
+Besides, we are near the station and center in an area with good infrastructure.
 
-Das Kolpinghaus in Reutlingen bietet kostengünstige Wohn- und Übernachtungsmöglichkeiten für junge Menschen. Unser Angebot richtet sich an Blockschüler, Auszubildende, Studenten, Lehramtsanwärter, Meisterschüler, junge Berufstätige und seit 2015 auch an unbegleitete minderjährige Flüchtlinge. Außerdem befinden wir uns in Bahnhofs- und Zentrumsnähe und in infrastrukturell gut angebundenem Umfeld.
-
-Dazu zählen vielseitige Unterstützungen im Alltag, die sich nach dem individuellen Bedarf der Jugendlichen richten, Sozial- und Lebensberatung und immer ein offenes Ohr.<br>
-Fun, Action, Kultur und Bildung bilden den Schwerpunkt unserer Freizeitangebote und sorgen für einen abwechslungsreichen Alltag.
+We offer various support for everyday life that fits the young people’s individual needs, social guidance, life counseling and always an open ear.<br>
+Fun, action, culture and education are the main emphasis of our free time activities and provide a diversified everyday life.
 
 ---
 
@@ -22,12 +22,12 @@ Fun, Action, Kultur und Bildung bilden den Schwerpunkt unserer Freizeitangebote 
 <div class="row">
 <div class="col-lg-6 gallery">
 <a href="{% include img id='mitarbeiter' %}" data-size="3000x2000" data-med-size="3000x2000" data-med="{% include img id='mitarbeiter' %}">
-<img class="img-fluid rounded mb-4" src="{% include img id='mitarbeiter' options='w_600' %}" alt="Mitarbeiter des Kolpinghauses" />
+<img class="img-fluid rounded mb-4" src="{% include img id='mitarbeiter' options='w_600' %}" alt="The team of employees" />
 </a>
 </div>
 <div class="col-lg-6" markdown="1">
 
-## Das Kolpinghaus Team
+## The team of employees
 
 Das Mitarbeiter-Team besteht aus vielen unterschiedlichen Berufsbildern. PädagogInnen, Verwaltungskräfte, Reinigungsfachkräfte, Küchenpersonal, Hausmeister, aber auch Ehrenamtliche, FSJler und BFDler sind in diesem Haus tätig.
 

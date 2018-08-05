@@ -2,7 +2,7 @@
 layout: bare
 ---
 
-<title>{{ page.title }} | {{ site.title }}</title>
+<title>{{ site.title }}</title>
 </head>
 <body>
 {% include header.html %}
@@ -13,10 +13,12 @@ layout: bare
     <div class="col-lg-8">
       {{content}}
     </div>
+		{% if page.i18n.language == "de" %}
 		<div class="col-lg-4" style="text-align:center;">
 			<h2>Aktuelles</h2>
 {% include aktuelles.html %}
 		</div>
+		{% endif %}
 	</div>
 </div><br>
 {% include footer.html %}

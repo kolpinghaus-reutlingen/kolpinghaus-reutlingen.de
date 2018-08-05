@@ -2,6 +2,9 @@
 title: Startseite
 layout: startseite
 permalink: /
+i18n:
+  language: de
+  link: /
 img:
   folder: ueber-uns
 redirect_from:
@@ -23,7 +26,7 @@ redirect_from:
 * Ausflüge
 * [Und vieles mehr &rarr;]({% link veranstaltungen.html %})
 
-## ... als ein Dach über dem Kopf"
+## ... als ein Dach über dem Kopf
 
 ---
 <br>

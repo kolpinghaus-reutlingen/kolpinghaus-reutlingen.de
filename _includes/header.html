@@ -1,11 +1,26 @@
 <nav class="navbar fixed-top navbar-expand-lg navbar-dark fixed-top" style="background-color: #393b3f !important;">
   <div class="container ">
+      <div>
     <a class="navbar-brand text-center" href="{% link index.md %}">
       <img src="{% include img id='kolping-k' options='w_35,h_35' folder='assets' %}" width="35" height="35" alt="K">
     </a>
+
+    {% if page.i18n.language == "de" %}
+    <a class="link-hover" href="/en{{page.i18n.link}}">EN</a>
+    {% else %}
+    {% if page.i18n.language == "en" %}
+    <a class="link-hover" href="{{page.i18n.link}}">DE</a>
+
+    {% endif %}
+    {% endif %}
+
+
+    </div>
+
     <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
+
     <div class="collapse navbar-collapse" id="navbarResponsive">
       <ul class="navbar-nav ml-auto">
         <li class="nav-item">

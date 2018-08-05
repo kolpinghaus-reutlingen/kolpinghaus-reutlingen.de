@@ -25,3 +25,12 @@ body {
 .blockquote-footer {
     font-size: 120%;
 }
+
+.link-hover{
+  color: rgba(255,255,255,.5);
+}
+
+.link-hover:hover{
+  color: rgba(255,255,255,.75);
+    text-decoration: none;
+}
