@@ -1,5 +1,6 @@
 title: Kolpinghaus Reutlingen
 url: https://kolpinghaus-reutlingen.de
+link: kolpinghaus-reutlingen.de
 commit: 36a063ab28cd9f53ceaa633d8d3de9a8f04ef2ff
 image:
   url: https://res.cloudinary.com/kolpinghaus-rt/image/upload
@@ -25,9 +26,6 @@ compress_html:
 plugins:
    - jekyll-redirect-from
 
-
-link: kolpinghaus-reutlingen.de
-
 kontakt:
   city: 72764 Reutlingen
   street: Liststraße 26
@@ -42,7 +40,7 @@ kontakt:
 
 author:
   name: Patrick Haußmann
-  url:
+  url: patrickhaußmann.de
 
 google-site-verification:
   old: fWwRC4yG7LLptW6sN1izwv0Sy9kvKaOozazFVAYJafk
