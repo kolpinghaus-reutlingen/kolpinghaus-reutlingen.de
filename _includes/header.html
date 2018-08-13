@@ -53,14 +53,14 @@
         </li>
         <li class="nav-item">
           {% if page.i18n.language == "en" %}
-          <a class="nav-link {% if page.active == "bilder" %} active {% endif %}" href="{% link bilder.html %}">Pictures</a>
+          <a class="nav-link {% if page.active == "bilder" %} active {% endif %}" href="{% link bilder.en.html %}">Pictures</a>
           {% else %}
           <a class="nav-link {% if page.active == "bilder" %} active {% endif %}" href="{% link bilder.html %}">Bilder</a>
           {% endif %}
         </li>
         <li class="nav-item">
           {% if page.i18n.language == "en" %}
-          <a class="nav-link {% if page.active == "kontakt" %} active {% endif %}" href="{% link kontakt.md %}">Contact</a>
+          <a class="nav-link {% if page.active == "kontakt" %} active {% endif %}" href="{% link kontakt.en.md %}">Contact</a>
           {% else %}
           <a class="nav-link {% if page.active == "kontakt" %} active {% endif %}" href="{% link kontakt.md %}">Kontakt</a>
           {% endif %}

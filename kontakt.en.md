@@ -1,11 +1,11 @@
 ---
-title: Kontakt
+title: Contact
 layout: default
-permalink: /kontakt/
+permalink: /en/contact/
 active: kontakt
 i18n:
-  language: de
-  link: /en/contact/
+  language: en
+  link: /kontakt/
 img:
   folder: ueber-uns
 ---
