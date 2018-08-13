@@ -3,9 +3,6 @@ title: Kontakt
 layout: default
 permalink: /kontakt/
 active: kontakt
-i18n:
-  language: de
-  link: /en/contact/
 img:
   folder: ueber-uns
 ---

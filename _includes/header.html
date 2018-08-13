@@ -5,13 +5,14 @@
       <img src="{% include img id='kolping-k' options='w_35,h_35' folder='assets' %}" width="35" height="35" alt="K">
     </a>
 
-
+    {% if page.i18n.link %}
     {% if page.i18n.language == "de" %}
     <a class="link-hover" href="{{page.i18n.link}}">EN</a>
     {% else %}
     {% if page.i18n.language == "en" %}
     <a class="link-hover" href="{{page.i18n.link}}">DE</a>
 
+    {% endif %}
     {% endif %}
     {% endif %}
 
