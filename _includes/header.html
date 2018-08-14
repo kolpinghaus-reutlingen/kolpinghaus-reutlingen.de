@@ -5,9 +5,7 @@
       <img src="{% include img id='kolping-k' options='w_35,h_35' folder='assets' %}" width="35" height="35" alt="K">
     </a>
 
-<!--
-{% comment %}
-
+    {% if page.i18n.link %}
     {% if page.i18n.language == "de" %}
     <a class="link-hover" href="{{page.i18n.link}}">EN</a>
     {% else %}
@@ -16,9 +14,7 @@
 
     {% endif %}
     {% endif %}
-
-{% endcomment %}
--->
+    {% endif %}
 
     </div>
 
@@ -37,35 +33,35 @@
         </li>
         <li class="nav-item">
           {% if page.i18n.language == "en" %}
-          <a class="nav-link no-hover {% if page.active == "veranstaltungen" %} active {% endif %}" href="{% link veranstaltungen.html %}">Veranstaltungen</a>
+          <a class="nav-link no-hover {% if page.active == "veranstaltungen" %} active {% endif %}">Veranstaltungen</a>
           {% else %}
           <a class="nav-link {% if page.active == "veranstaltungen" %} active {% endif %}" href="{% link veranstaltungen.html %}">Veranstaltungen</a>
           {% endif %}
         </li>
         <li class="nav-item">
           {% if page.i18n.language == "en" %}
-          <a class="nav-link no-hover {% if page.active == "projekte" %} active {% endif %}" href="{% link projekte.html %}">Projekte</a>
+          <a class="nav-link no-hover {% if page.active == "projekte" %} active {% endif %}">Projekte</a>
           {% else %}
           <a class="nav-link {% if page.active == "projekte" %} active {% endif %}" href="{% link projekte.html %}">Projekte</a>
           {% endif %}
         </li>
         <li class="nav-item">
           {% if page.i18n.language == "en" %}
-          <a class="nav-link no-hover {% if page.active == "artikel" %} active {% endif %}" href="{% link artikel.html %}">Artikel</a>
+          <a class="nav-link no-hover {% if page.active == "artikel" %} active {% endif %}">Artikel</a>
           {% else %}
           <a class="nav-link {% if page.active == "artikel" %} active {% endif %}" href="{% link artikel.html %}">Artikel</a>
           {% endif %}
         </li>
         <li class="nav-item">
           {% if page.i18n.language == "en" %}
-          <a class="nav-link {% if page.active == "bilder" %} active {% endif %}" href="{% link bilder.html %}">Pictures</a>
+          <a class="nav-link {% if page.active == "bilder" %} active {% endif %}" href="{% link bilder.en.html %}">Pictures</a>
           {% else %}
           <a class="nav-link {% if page.active == "bilder" %} active {% endif %}" href="{% link bilder.html %}">Bilder</a>
           {% endif %}
         </li>
         <li class="nav-item">
           {% if page.i18n.language == "en" %}
-          <a class="nav-link {% if page.active == "kontakt" %} active {% endif %}" href="{% link kontakt.md %}">Contact</a>
+          <a class="nav-link {% if page.active == "kontakt" %} active {% endif %}" href="{% link kontakt.en.md %}">Contact</a>
           {% else %}
           <a class="nav-link {% if page.active == "kontakt" %} active {% endif %}" href="{% link kontakt.md %}">Kontakt</a>
           {% endif %}

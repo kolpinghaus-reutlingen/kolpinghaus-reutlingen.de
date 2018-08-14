@@ -1,0 +1,47 @@
+---
+title: Pictures
+layout: default
+permalink: /en/pictures/
+active: bilder
+i18n:
+  language: en
+  link: /bilder/
+img:
+  folder: bildergallerie
+redirect_from:
+  - /bild/
+  - /img/
+  - /pictures/
+
+gallery:
+  - id: 1
+  - id: 2
+  - id: 3
+  - id: 4
+  - id: 5
+  - id: 6
+  - id: 7
+  - id: 8
+  - id: 9
+  - id: 10
+  - id: 11
+  - id: 12
+  - id: 13
+  - id: 14
+  - id: 15
+  - id: 16
+  - id: 17
+  - id: 18
+  - id: 19
+  - id: 20
+  - id: 21
+---
+
+<div class="row text-center text-lg-left gallery">
+  {% for picture in page.gallery %}
+    <a href="{% include img id=picture.id %}" data-size="3000x2000" data-med-size="3000x2000" data-med="{% include img id=picture.id %}" class="d-block mb-4 col-lg-3 col-md-4 col-xs-6">
+      <img class="img-fluid img-thumbnail" src="{% include img id=picture.id options='w_300,h_200' %}" alt="{{picture.alt}}">
+    </a>
+  {% endfor %}
+</div>
+

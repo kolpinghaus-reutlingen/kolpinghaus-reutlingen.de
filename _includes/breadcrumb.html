@@ -1,6 +1,10 @@
 <ol class="breadcrumb">
 	<li class="breadcrumb-item">
+		{% if page.i18n.language == "en" %}
+		<a href="{% link index.en.md %}">Main Page</a>
+		{% else %}
 		<a href="{% link index.md %}">Startseite</a>
+		{% endif %}
 	</li>
 	{% if page.collection == "artikel" %}
 	<li class="breadcrumb-item">
@@ -17,9 +21,14 @@
 		<a href="{% link projekte.html %}">Projekte</a>
 	</li>
 	{% endif %}
-	{% if page.active == "ueber-uns" and page.title != "Über uns"  %}
+	{% if page.active == "ueber-uns" and page.title != "Über uns" and page.title != "About Us"  %}
 	<li class="breadcrumb-item">
+		{% if page.i18n.language == "en" %}
+		<a href="{% link ueber-uns.en.md %}">About Us</a>
+		{% else %}
 		<a href="{% link ueber-uns.md %}">Über uns</a>
+		{% endif %}
+
 	</li>
 	{% endif %}
 	<li class="breadcrumb-item active">{{ page.title }}</li>

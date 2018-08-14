@@ -1,11 +1,22 @@
 ---
 layout: html
 ---
+<<<<<<< HEAD
   <link rel="dns-prefetch preconnect" href="https://res.cloudinary.com">
   <link rel="dns-prefetch preconnect" href="https://cdn.jsdelivr.net">
   <link rel="preconnect" href="https://res.cloudinary.com">
   <link rel="preconnect" href="https://cdn.jsdelivr.net">
 {% if page.title == 'Über uns' or page.title == 'Veranstaltungen' or page.title == 'Projekte' or page.title == 'Artikel' or page.title == 'Bilder' or page.title == 'Kontakt' %}
+=======
+<link rel="dns-prefetch preconnect" href="//res.cloudinary.com">
+<link rel="dns-prefetch preconnect" href="//cdn.jsdelivr.net">
+{% if page.title == 'Über uns' or page.title == 'About Us' or
+      page.title == 'Veranstaltungen' or
+      page.title == 'Projekte' or
+      page.title == 'Artikel' or
+      page.title == 'Bilder' or page.title == 'Pictures' or
+      page.title == 'Kontakt' or page.title == 'Contact' %}
+>>>>>>> english-version
   {% assign css = 'critical-' | append: page.active | append: '.css' %}
 {% else %}
   {% assign css = 'critical-layout-' | append: page.layout | append: '.css' %}
