@@ -12,7 +12,7 @@
 				<h4 style="margin-bottom: 1rem;">Kontakt</h4>
 				<p>{{site.kontakt.street}}</p>
 				<p>{{site.kontakt.city}}</p>
-				<p><a href="mailto:{{site.kontakt.email}}" style="color:#ffffff">{{site.kontakt.email}}</a></p>
+				<p><a href="mailto:{{site.kontakt.email.plain}}" style="color:#ffffff">{{site.kontakt.email.plain}}</a></p>
 				<p>{{site.kontakt.phone}}</p>
 			</div>
 		</div>
@@ -24,7 +24,7 @@
 				<a href="{% link datenschutz.md %}" style="color:#ffffff;">Datenschutz</a>
 			</div>
 			<div class="col" style="height: 50%;">
-				<p class="text-right" style="margin-bottom: 0px;">&#169; {{ site.time | date: '%Y' }} <a href="{% link index.md %}" style="color:#ffffff">{{site.link}}</a></p>
+				<p class="text-right" style="margin-bottom: 0px;">&#169; {{ site.time | date: '%Y' }} <a href="{% link index.md %}" style="color:#ffffff">{{site.domain}}</a></p>
 			</div>
 		</div>
 	</div>

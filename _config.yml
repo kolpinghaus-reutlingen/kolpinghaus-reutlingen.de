@@ -1,6 +1,6 @@
 title: Kolpinghaus Reutlingen
 url: https://kolpinghaus-reutlingen.de
-link: kolpinghaus-reutlingen.de
+domain: kolpinghaus-reutlingen.de
 commit: 36a063ab28cd9f53ceaa633d8d3de9a8f04ef2ff
 image:
   url: https://res.cloudinary.com/kolpinghaus-rt/image/upload
@@ -32,7 +32,9 @@ kontakt:
   country: Deutschland
   phone: 07121 43340
   fax: 07121 43344
-  email: info@kolpinghaus-reutlingen.de
+  email:
+    plain: info@kolpinghaus-reutlingen.de
+    user: info
   heimleiter: Hermann Rist
   hours:
     from: 8

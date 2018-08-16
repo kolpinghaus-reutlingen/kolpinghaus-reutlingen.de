@@ -16,8 +16,8 @@ img:
 
 Telefon: {{site.kontakt.phone}} <br>
 Fax: {{site.kontakt.fax}} <br>
-E-Mail: {{site.kontakt.email}} <br>
-{{site.link}}
+E-Mail: {{site.kontakt.email.plain}} <br>
+{{site.domain}}
 
 ##### <br>Angaben gemäß § 5 TMG:
 
@@ -27,6 +27,6 @@ E-Mail: {{site.kontakt.email}} <br>
 
 Telefon: {{site.kontakt.phone}} <br>
 Telefax: {{site.kontakt.fax}} <br>
-E-Mail: {{site.kontakt.email}} <br>
+E-Mail: {{site.kontakt.email.plain}} <br>
 
 Vertreten durch: Herr {{site.kontakt.heimleiter}}

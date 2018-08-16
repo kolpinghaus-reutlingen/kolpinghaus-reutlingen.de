@@ -17,7 +17,7 @@ img:
 <div class="col-lg-4 mb-4" markdown="1">
 {{site.kontakt.street}} <br><br>
 {{site.kontakt.city}} <br><br>
-[{{site.kontakt.email}}](mailto:{{site.kontakt.email}}){:style="color:#000000"} <br><br>
+[{{site.kontakt.email.plain}}](mailto:{{site.kontakt.email.plain}}){:style="color:#000000"} <br><br>
 {{site.kontakt.phone}} <br>
 
 <small>Das Sekretariat des Kolpinghauses Reutlingen ist von Montag bis Freitag von ca. {{site.kontakt.hours.from}} - {{site.kontakt.hours.to}} Uhr erreichbar.<small/> <br>
