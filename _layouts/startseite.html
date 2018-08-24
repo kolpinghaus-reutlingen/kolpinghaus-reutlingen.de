@@ -5,8 +5,8 @@ layout: bare
 <title>{{ site.title }}</title>
 </head>
 <body>
-{% include header.html %}
-{% include carousel.html %}
+{% include header %}
+{% include carousel %}
 <div class="container">
 	<h1 class="my-4 mb-3">{{site.title}}</h1>
 	<div class="row">
@@ -16,9 +16,9 @@ layout: bare
 		{% if page.i18n.language == "de" %}
 		<div class="col-lg-4" style="text-align:center;">
 			<h2>Aktuelles</h2>
-{% include aktuelles.html %}
+{% include aktuelles %}
 		</div>
 		{% endif %}
 	</div>
 </div><br>
-{% include footer.html %}
+{% include footer %}
