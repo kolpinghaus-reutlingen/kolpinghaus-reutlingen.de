@@ -1,11 +1,20 @@
 <div class="card mb-4">
   <div class="card-body">
     <h4 class="card-title">nächste Bücher Annahme</h4>
-    {% assign date1 = '2018-09-07' %}
-    {% assign date2 = '2018-11-02' %}
-    {% assign date3 = '2018-12-07' %}
-      <p class="card-text">{% include pretty-date date=date1 mode=2 %} </p>
-      <!-- 7.sep, 2.nov, 7.dez -->
+    {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
+    {% assign nowunix = nowunix | plus: 0 %}
+
+    {% assign _dates = "2018-09-07 2018-11-02 2018-12-07" | split: " " %}
+
+    {% for _element in _dates %}
+      {% capture _elementtime %}{{_element | date: '%s'}}{% endcapture %}
+      {% assign _elementtime = _elementtime | plus: 0 %}
+      {% if _elementtime > nowunix %}
+        {% assign _date = _element %}
+        {% break %}
+      {% endif %}
+    {% endfor %}
+      <p class="card-text">{% include pretty-date date=_date mode=2 %} </p>
   </div>
 </div>
 <div class="card mb-4">
