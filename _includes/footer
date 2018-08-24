@@ -12,7 +12,7 @@
 				<h4 style="margin-bottom: 1rem;">Kontakt</h4>
 				<p>{{site.kontakt.street}}</p>
 				<p>{{site.kontakt.city}}</p>
-				<p style="color:#ffffff">{{site.kontakt.email.user}}@<span class="d-print-none" style="display:none !important;">null</span>{{site.domain}}</p>
+				<p style="color:#ffffff">{{site.kontakt.email.user}}@<span class="d-print-none" style="display:none !important;">NOSPAM</span>{{site.domain}}</p>
 				<p>{{site.kontakt.phone}}</p>
 			</div>
 		</div>
