@@ -2,7 +2,7 @@
   <div class="container ">
       <div>
     <a class="navbar-brand text-center" href="{% if page.i18n.language == "en" %}{% link index.en.md %}{% else %}{% link index.md %}{% endif %}">
-      <img src="{% include img id='kolping-k' options='w_35,h_35' folder='assets' %}" width="35" height="35" alt="K">
+      <img src="{% include img-link id='kolping-k' options='w_35,h_35' folder='assets' %}" width="35" height="35" alt="K">
     </a>
 
     {% if page.i18n.link %}

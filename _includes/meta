@@ -48,7 +48,7 @@
 {% endif %}
 <meta name="og:url" content="{{ site.url }}">
 <meta name="og:site_name" content="{{ site.title }}">
-<meta name="og:image" content="{% include img id='kolping-k' options='w_35,h_35' folder='assets' %}">
-<link rel="icon" href="{% include img id='favicon.ico' folder='assets' %}">
+<meta name="og:image" content="{% include img-link id='kolping-k' options='w_35,h_35' folder='assets' %}">
+<link rel="icon" href="{% include img-link id='favicon.ico' folder='assets' %}">
 <meta name="google-site-verification" content="{{site.google-site-verification.old}}" />
 <meta name="google-site-verification" content="{{site.google-site-verification.new}}" />

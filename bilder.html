@@ -8,7 +8,7 @@ img:
 redirect_from:
   - /bild/
   - /img/
-  - /en/bilder/ 
+  - /en/bilder/
 
 gallery:
   - id: 1
@@ -32,12 +32,14 @@ gallery:
   - id: 19
   - id: 20
   - id: 21
+    w: 6000
+    h: 4000
 ---
 
 <div class="row text-center text-lg-left gallery">
   {% for picture in page.gallery %}
-    <a href="{% include img id=picture.id %}" data-size="3000x2000" data-med-size="3000x2000" data-med="{% include img id=picture.id %}" class="d-block mb-4 col-lg-3 col-md-4 col-xs-6">
-      <img class="img-fluid img-thumbnail" src="{% include img id=picture.id options='w_300,h_200' %}" alt="{{picture.alt}}">
+    <a href="{% include img-link id=picture.id options='w_1080' %}" data-size="3000x2000" data-med-size="3000x2000" data-med="{% include img-link id=picture.id options='w_960'%}" class="d-block mb-4 col-lg-3 col-md-4 col-xs-6">
+      <img class="img-fluid img-thumbnail" src="{% include img-link id=picture.id options='w_300,h_200' %}" alt="{{picture.alt}}">
     </a>
   {% endfor %}
 </div>

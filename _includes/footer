@@ -4,7 +4,7 @@
 			<div class="col">
 				<h4 style="margin-bottom: 1rem;">{{site.title}}</h4>
 				<a href="/">
-					<img src="{% include img id='kolpinghaus-logo' options='h_100' folder='assets' %}" alt="Logo" style="max-width: 70%;">
+					<img src="{% include img-link id='kolpinghaus-logo' options='h_100' folder='assets' %}" alt="Logo" style="max-width: 70%;">
 				</a>
 			</div>
 			<hr>

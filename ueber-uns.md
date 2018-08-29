@@ -23,8 +23,8 @@ Fun, Action, Kultur und Bildung bilden den Schwerpunkt unserer Freizeitangebote 
 
 <div class="row">
 <div class="col-lg-6 gallery">
-<a href="{% include img id='mitarbeiter' %}" data-size="3000x2000" data-med-size="3000x2000" data-med="{% include img id='mitarbeiter' %}">
-<img class="img-fluid rounded mb-4" src="{% include img id='mitarbeiter' options='w_600' %}" alt="Mitarbeiter des Kolpinghauses" />
+<a href="{% include img-link id='mitarbeiter' %}" data-size="3000x2000" data-med-size="3000x2000" data-med="{% include img-link id='mitarbeiter' %}">
+<img class="img-fluid rounded mb-4" src="{% include img-link id='mitarbeiter' options='w_600' %}" alt="Mitarbeiter des Kolpinghauses" />
 </a>
 </div>
 <div class="col-lg-6" markdown="1">
@@ -40,12 +40,12 @@ Das gesamte Team arbeitet nach dem Motto „wir bieten viel mehr als ein Dach ü
 <br>
 <div class="row">
 <div class="col-lg-6  text-center mb-4" markdown="1">
-<img class="rounded-circle img-fluid d-block mx-auto" width="200" height="200" src="{% include img id='rist' options='w_200,h_200' %}" alt="Hermann Rist">
+<img class="rounded-circle img-fluid d-block mx-auto" width="200" height="200" src="{% include img-link id='rist' options='w_200,h_200' %}" alt="Hermann Rist">
 
 ### Hermann Rist <small style="font-size: 70%;">Einrichtungsleiter</small>
 </div>
 <div class="col-lg-6 text-center mb-4" markdown="1">
-<img class="rounded-circle img-fluid d-block mx-auto" width="200" height="200" src="{% include img id='abele' options='w_200,h_200' %}" alt="Yvonne Abele">
+<img class="rounded-circle img-fluid d-block mx-auto" width="200" height="200" src="{% include img-link id='abele' options='w_200,h_200' %}" alt="Yvonne Abele">
 ### Yvonne Abele <small style="font-size: 70%;">Stellvertretende Leitung</small>
 </div>
 </div>
@@ -73,7 +73,7 @@ Adolph Kolping verstand es als Sozialreformer, schon in der damaligen Zeit für 
 
 </div>
 <div class="col-lg-6 text-center" style="height: 30rem;">
-<img class="img-fluid rounded mb-4" style="max-height: 100% !important; width: auto;" src="{% include img id='adolph-kolping' options='h_500' %}" alt="Adolph Kolping">
+<img class="img-fluid rounded mb-4" style="max-height: 100% !important; width: auto;" src="{% include img-link id='adolph-kolping' options='h_500' %}" alt="Adolph Kolping">
 </div>
 </div>
 <br>
@@ -120,5 +120,5 @@ Außerdem können Sie sich auch direkt bei uns, im Kolpinghaus, für einen freiw
 
 </div>
 <div class="col">
-<img src="{% include img id='kooperationspartner' options='h_500' %}" alt="Kooperationspartner" style="max-width: 100%;">
+<img src="{% include img-link id='kooperationspartner' options='h_500' %}" alt="Kooperationspartner" style="max-width: 100%;">
 </div>
