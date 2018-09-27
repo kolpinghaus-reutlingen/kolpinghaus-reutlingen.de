@@ -42,7 +42,7 @@ Das gesamte Team arbeitet nach dem Motto „wir bieten viel mehr als ein Dach ü
 <div class="col-lg-6  text-center mb-4" markdown="1">
 <img class="rounded-circle img-fluid d-block mx-auto" width="200" height="200" src="{% include img-link id='rist' options='w_200,h_200' %}" alt="Hermann Rist">
 
-### Hermann Rist <small style="font-size: 70%;">Einrichtungsleiter</small>
+### Hermann Rist <small style="font-size: 70%;">Internatsleiter</small>
 </div>
 <div class="col-lg-6 text-center mb-4" markdown="1">
 <img class="rounded-circle img-fluid d-block mx-auto" width="200" height="200" src="{% include img-link id='abele' options='w_200,h_200' %}" alt="Yvonne Abele">

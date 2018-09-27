@@ -4,9 +4,9 @@ domain: kolpinghaus-reutlingen.de
 commit: 36a063ab28cd9f53ceaa633d8d3de9a8f04ef2ff
 image:
   url: https://res.cloudinary.com/kolpinghaus-rt/image/upload
-  version: 1532618028
+  version: 1532618029
   option:
-    default: c_lfill,g_auto,cs_srgb,q_auto,f_auto
+    default: c_lfill,g_auto,cs_srgb,q_auto
   max:
     w:
     h:

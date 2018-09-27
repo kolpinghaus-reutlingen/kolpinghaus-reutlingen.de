@@ -1,5 +1,14 @@
 <div class="card mb-4">
   <div class="card-body">
+    <h3 class="card-title">Mascha und der Bär - Aufführung im Kolpinghaus</h3>
+        <p class="card-text">Oktober 03, 2018</p>
+    <a href="{% include img-link id='2018-10-03-mascha-und-der-baer--auffuehrung-im-kolpinghaus' folder='veranstaltungen' %}">
+      <img src="{% include img-link id='2018-10-03-mascha-und-der-baer--auffuehrung-im-kolpinghaus' options='w_300' folder='veranstaltungen' %}" style="max-width: 100%;" alt="{% include pretty-date date='2018-10-20' mode=2 %}"></a>
+  </div>
+</div>
+
+<div class="card mb-4">
+  <div class="card-body">
     <h4 class="card-title">nächste Bücher Annahme</h4>
     {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
     {% assign nowunix = nowunix | plus: 0 %}
@@ -15,8 +24,12 @@
       {% endif %}
     {% endfor %}
       <p class="card-text">{% include pretty-date date=_date mode=2 %} </p>
+      <br>
+      <small>ab 14:30 Uhr bis ca. 16:30 Uhr</small>
   </div>
 </div>
+
+
 <div class="card mb-4">
   <div class="card-body">
     <h3 class="card-title">nächste Bücher Börse</h3>
