@@ -21,6 +21,7 @@
   <div class="card-body">
     <h3 class="card-title">23. Pfullinger Hallenmasters Hobbyfußballturnier</h3>
         <p class="card-text">{% include pretty-date date=_until mode=2 %}</p>
+        <p class="card-text">Das Fußballteam des Kolpinghaus nimmt am Turnier teil. Mehr infos unter <a href='http://hallenmasters.cvjm-pfullingen.de' target='_blank'>http://hallenmasters.cvjm-pfullingen.de</a></p>
     <a href="{% include img-link id='2018-10-03-23-pfullinger-hallenmasters-hobbyfussballturnier' folder='veranstaltungen' %}">
       <img src="{% include img-link id='2018-10-03-23-pfullinger-hallenmasters-hobbyfussballturnier' options='w_300' folder='veranstaltungen' %}" style="max-width: 100%;" alt="{% include pretty-date date=_until mode=2 %}"></a>
   </div>
