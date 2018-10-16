@@ -98,6 +98,7 @@ Außerdem können Sie sich auch direkt bei uns, im Kolpinghaus, für einen freiw
 
 **KOLPINGWERK**
 
+* [Flyer]({% include img-link id='flyer-foerderverein' folder='ueber-uns' options='w_1080' %})
 * [Internationales Kolpingwerk](http://www.kolping.net/){:target="_blank"}
 * [Kolpingwerk Deutschland](http://www.kolping.de/){:target="_blank"}
 * [Kolpingwerk Diözesanverband Rottenburg-Stuttgart](http://www.kolping-dvrs.de/){:target="_blank"}

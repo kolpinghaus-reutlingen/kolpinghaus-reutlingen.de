@@ -2,34 +2,6 @@
 {% assign nowunix = nowunix | plus: 0 %}
 
 
-{% assign _until = "2018-10-03" | date: '%s' | plus: 0 %}
-{% if _until > nowunix %}
-<div class="card mb-4">
-  <div class="card-body">
-    <h3 class="card-title">Mascha und der Bär - Aufführung im Kolpinghaus</h3>
-        <p class="card-text">{% include pretty-date date=_until mode=2 %}</p>
-    <a href="{% include img-link id='2018-10-03-mascha-und-der-baer--auffuehrung-im-kolpinghaus' folder='veranstaltungen' %}">
-      <img src="{% include img-link id='2018-10-03-mascha-und-der-baer--auffuehrung-im-kolpinghaus' options='w_300' folder='veranstaltungen' %}" style="max-width: 100%;" alt="{% include pretty-date date=_until mode=2 %}"></a>
-  </div>
-</div>
-{% endif %}
-
-
-{% assign _until = "2018-10-03" | date: '%s' | plus: 0 %}
-{% if _until > nowunix %}
-<div class="card mb-4">
-  <div class="card-body">
-    <h3 class="card-title">23. Pfullinger Hallenmasters Hobbyfußballturnier</h3>
-        <p class="card-text">{% include pretty-date date=_until mode=2 %}</p>
-        <p class="card-text">Das Fußballteam des Kolpinghaus nimmt am Turnier teil. Mehr infos unter <a href='http://hallenmasters.cvjm-pfullingen.de' target='_blank'>http://hallenmasters.cvjm-pfullingen.de</a></p>
-    <a href="{% include img-link id='2018-10-03-23-pfullinger-hallenmasters-hobbyfussballturnier' folder='veranstaltungen' %}">
-      <img src="{% include img-link id='2018-10-03-23-pfullinger-hallenmasters-hobbyfussballturnier' options='w_300' folder='veranstaltungen' %}" style="max-width: 100%;" alt="{% include pretty-date date=_until mode=2 %}"></a>
-  </div>
-</div>
-{% endif %}
-
-
-
 {% assign _dates = "2018-09-07 2018-11-02 2018-12-07" | split: " " | sort %}
 {% for _element in _dates %}
   {% capture _elementtime %}{{_element | date: '%s'}}{% endcapture %}
@@ -58,7 +30,7 @@
 <div class="card mb-4">
   <div class="card-body">
     <h3 class="card-title">nächste Bücher Börse</h3>
-    <a href="{% include img-link id='2018-10-20-buecher-boerse' folder='veranstaltungen' %}">
+    <a href="{% link _veranstaltungen/2018-10-20-buecher-boerse.md %}">
       <img src="{% include img-link id='2018-10-20-buecher-boerse' options='w_300' folder='veranstaltungen' %}" style="max-width: 100%;" alt="{% include pretty-date date=_until mode=2 %}"></a>
   </div>
 </div>
