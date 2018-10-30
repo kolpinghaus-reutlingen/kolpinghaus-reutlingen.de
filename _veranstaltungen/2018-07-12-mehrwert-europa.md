@@ -4,6 +4,8 @@ date: 2018-07-12
 img:
   third:
     id: 2018-07-12-mehrwert-europa
+    w: 2276
+    h: 3300
 ---
 
 ### forum dialog am 12. Juli im Kolpinghaus

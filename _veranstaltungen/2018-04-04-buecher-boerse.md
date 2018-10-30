@@ -12,15 +12,29 @@ img:
     h: 456
 images:
   - id: 2018-04-04-buecher-boerse-1
+    w: 5184
+    h: 3456
   - id: 2018-04-04-buecher-boerse-2
+    w: 5184
+    h: 3456
   - id: 2018-04-04-buecher-boerse-3
     w: 3456
     h: 5184
   - id: 2018-04-04-buecher-boerse-4
+    w: 5184
+    h: 3456
   - id: 2018-04-04-buecher-boerse-5
+    w: 5184
+    h: 3456
   - id: 2018-04-04-buecher-boerse-6
+    w: 5184
+    h: 3456
   - id: 2018-04-04-buecher-boerse-7
+    w: 5184
+    h: 3456
   - id: 2018-04-04-buecher-boerse-8
+    w: 5152
+    h: 3864
 ---
 
 **Reutlingen. Die Bücherbörse findet zweimal jährlich unter Federführung der Technischen Betriebsdienste Reutlingen in Zusammenarbeit mit dem Kolpinghaus Reutlingen statt.** <!--mehr--> **Am Samstag, den 14. April von 9.00 bis 13.00 Uhr ist es wieder so weit: Am Heilbrunnen 107 werden die Tore geöffnet für Bücherwürmer, Schnäppchenjäger und Abfallvermeider.**<br><br>  

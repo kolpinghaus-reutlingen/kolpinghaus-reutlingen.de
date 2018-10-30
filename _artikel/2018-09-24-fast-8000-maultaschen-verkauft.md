@@ -6,6 +6,8 @@ description: "Das traditionelle Maultaschenessen der Metzinger Kolpingsfamilie i
 img:
   main:
     id: 2018-09-24-fast-8000-maultaschen-verkauft
+    w: 940
+    h: 530
 ---
 Damit symbolisch kein Lepra- oder Tuberkulosekranker durch die Maschen der Hilfsaktion der Deutschen Lepra- und Tuberkulosehilfe (DaHW) fällt, hat die Metzinger Kolpingsfamilie am Sonntag bei ihrem Maultaschenessen zusätzlich Knoten des Tornetzes vom spektakulären WM-Halbfinale 2014, Deutschland gegen Brasilien, mit dem 7:1-Sieg der deutschen Nationalmannschaft verkauft. Insgesamt gibt es 8150 nummerierte Knoten, die auch jetzt noch über die Kolpingsfamilie erworben werden können.
 

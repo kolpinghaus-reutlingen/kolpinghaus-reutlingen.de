@@ -6,8 +6,12 @@ description: Fast hätten die Kolpinghaus–Kicker den Pokal des Bischofs nach H
 img:
   main:
     id: 2018-06-29-dioezesane-fussballmeisterschaft
+    w: 4608
+    h: 2544
   third:
     id: 2018-06-29-dioezesane-fussballmeisterschaft-urkunde
+    w: 3212
+    h: 4579
 ---
 
 
@@ -24,8 +28,3 @@ Das Bischöfliche Internat aus Bad Mergentheim gewann das Spiel glücklich und z
 Das kleine Finale gegen das Bischöfliche Ordinariat gewannen die Kolpinghaus-Leute dann mehr als verdient.
 
 Herzlichen Glückwunsch zum 3. Platz bei der 20. DM!
-
-
-
-
-

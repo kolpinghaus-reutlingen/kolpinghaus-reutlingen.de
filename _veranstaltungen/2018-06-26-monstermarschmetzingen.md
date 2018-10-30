@@ -6,20 +6,36 @@ autor: Claudia Pfaller
 images:
   - id: 2018-06-26-monstermarschmetzingen-1
     alt: Die erste Gruppe in Nürtingen
+    w: 1280
+    h: 720
   - id: 2018-06-26-monstermarschmetzingen-2
     alt: Anfahrt nach Plochingen im Bus
+    w: 1280
+    h: 960
   - id: 2018-06-26-monstermarschmetzingen-3
     alt: 64 Auszubildende in Plochingen vor dem Start
+    w: 1280
+    h: 960
   - id: 2018-06-26-monstermarschmetzingen-4
     alt: Verpflegung und Stempel in Wendlingen
+    w: 1280
+    h: 847
   - id: 2018-06-26-monstermarschmetzingen-5
     alt: In Neckartenzlingen
+    w: 1280
+    h: 847
   - id: 2018-06-26-monstermarschmetzingen-6
     alt: Geschafft! An der Schule angekommen
+    w: 1280
+    h: 847
   - id: 2018-06-26-monstermarschmetzingen-7
     alt: Empfang im Kolpinghaus Reutlingen nach 42 km
+    w: 1280
+    h: 847
   - id: 2018-06-26-monstermarschmetzingen-8
     alt: Die schnellste Gruppe in Metzingen
+    w: 1280
+    h: 720
 ---
 <!--mehr-->
 ### MonsterMarschMetzingen - an seine Grenzen gehen
