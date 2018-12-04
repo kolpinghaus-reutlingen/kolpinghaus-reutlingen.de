@@ -1,7 +1,6 @@
 {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
 {% assign nowunix = nowunix | plus: 0 %}
 
-
 {% assign _dates = "2018-09-07 2018-11-02 2018-12-07" | split: " " | sort %}
 {% for _element in _dates %}
   {% capture _elementtime %}{{_element | date: '%s'}}{% endcapture %}
@@ -11,6 +10,47 @@
     {% break %}
   {% endif %}
 {% endfor %}
+
+
+<div class="card mb-4">
+  <div class="card-body">
+    <h3 class="card-title">Stellenausschreibung</h3>
+    <a href="{% include img-link id='kolpinghaus_stellenausschreibung.pdf' folder='pdf' %}">
+      <img src="{% include img-link id='kolpinghaus_stellenausschreibung.jpg' options='w_300' folder='pdf' %}" style="max-width: 100%;" alt="Stellenausschreibung"></a>
+  </div>
+</div>
+
+
+{% assign _until = "2018-12-09" | date: '%s' | plus: 0 %}
+{% if _until > nowunix %}
+<div class="card mb-4">
+  <div class="card-body">
+    <h3 class="card-title">Einladung zum Kolpinggedenktag</h3>
+    <a href="{% include img-link id='einladung_kolpinggedenktag.pdf' folder='artikel' %}">
+      <img src="{% include img-link id='einladung_kolpinggedenktag.jpg' options='w_300' folder='artikel' %}" style="max-width: 100%;" alt="Einladung zum Kolpinggedenktag">
+    </a>
+    <a href="{% link _artikel/2018-12-09-das-vermaechtnis-von-kdolph-kolping.md %}" class="btn btn-primary">Mehr &rarr;</a>
+  </div>
+</div>
+{% endif %}
+
+
+{% assign _until = "2010-01-01" | date: '%s' | plus: 0 %}
+{% if _until > nowunix %}
+<div class="card mb-4">
+  <img class="card-img-top" src="" alt="">
+  <div class="card-body">
+    <h2 class="card-title"></h2>
+    <a href="">
+      <img src="" style="max-width: 100%;" alt="">
+    </a>
+    <p class="card-text"></p>
+    <a href="" class="btn btn-primary">Mehr &rarr;</a>
+  </div>
+  <div class="card-footer text-muted">{% include pretty-date date=_until mode=2 %}</div>
+</div>
+{% endif %}
+
 
 {% if _date %}
 <div class="card mb-4">
@@ -24,28 +64,13 @@
 {% endif %}
 
 
-
-{% assign _until = "2018-10-20" | date: '%s' | plus: 0 %}
-{% if _until > nowunix %}
-<div class="card mb-4">
-  <div class="card-body">
-    <h3 class="card-title">nächste Bücher Börse</h3>
-    <a href="{% link _veranstaltungen/2018-10-20-buecher-boerse.md %}">
-      <img src="{% include img-link id='2018-10-20-buecher-boerse' options='w_300' folder='veranstaltungen' %}" style="max-width: 100%;" alt="{% include pretty-date date=_until mode=2 %}"></a>
-  </div>
-</div>
-{% endif %}
-
-
-
-
 <!--
 {% assign _until = "2010-01-01" | date: '%s' | plus: 0 %}
 {% if _until > nowunix %}
 <div class="card mb-4">
   <img class="card-img-top" src="" alt="">
   <div class="card-body">
-    <h2 class="card-title"></h2>
+    <h3 class="card-title"></h3>
     <a href="">
       <img src="" style="max-width: 100%;" alt="">
     </a>
