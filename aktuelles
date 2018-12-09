@@ -1,7 +1,7 @@
 {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
 {% assign nowunix = nowunix | plus: 0 %}
 
-{% assign _dates = "2018-09-07 2018-11-02 2018-12-07" | split: " " | sort %}
+{% assign _dates = "" | split: " " | sort %}
 {% for _element in _dates %}
   {% capture _elementtime %}{{_element | date: '%s'}}{% endcapture %}
   {% assign _elementtime = _elementtime | plus: 0 %}
