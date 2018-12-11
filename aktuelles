@@ -21,37 +21,6 @@
 </div>
 
 
-{% assign _until = "2018-12-09" | date: '%s' | plus: 0 %}
-{% if _until > nowunix %}
-<div class="card mb-4">
-  <div class="card-body">
-    <h3 class="card-title">Einladung zum Kolpinggedenktag</h3>
-    <a href="{% include img-link id='einladung_kolpinggedenktag.pdf' folder='artikel' %}">
-      <img src="{% include img-link id='einladung_kolpinggedenktag.jpg' options='w_300' folder='artikel' %}" style="max-width: 100%;" alt="Einladung zum Kolpinggedenktag">
-    </a>
-    <a href="{% link _artikel/2018-12-09-das-vermaechtnis-von-kdolph-kolping.md %}" class="btn btn-primary">Mehr &rarr;</a>
-  </div>
-</div>
-{% endif %}
-
-
-{% assign _until = "2010-01-01" | date: '%s' | plus: 0 %}
-{% if _until > nowunix %}
-<div class="card mb-4">
-  <img class="card-img-top" src="" alt="">
-  <div class="card-body">
-    <h2 class="card-title"></h2>
-    <a href="">
-      <img src="" style="max-width: 100%;" alt="">
-    </a>
-    <p class="card-text"></p>
-    <a href="" class="btn btn-primary">Mehr &rarr;</a>
-  </div>
-  <div class="card-footer text-muted">{% include pretty-date date=_until mode=2 %}</div>
-</div>
-{% endif %}
-
-
 {% if _date %}
 <div class="card mb-4">
   <div class="card-body">

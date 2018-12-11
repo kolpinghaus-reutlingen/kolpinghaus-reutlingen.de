@@ -1,0 +1,77 @@
+---
+layout: default
+gallery:
+  - id: 1
+    w: 2816
+    h: 2112
+  - id: 2
+    w: 2816
+    h: 2112
+  - id: 3
+    w: 2816
+    h: 2112
+  - id: 4
+    w: 2816
+    h: 2112
+  - id: 5
+    w: 4096
+    h: 2305
+  - id: 6
+    w: 4096
+    h: 2305
+  - id: 7
+    w: 4096
+    h: 2304
+  - id: 8
+    w: 4096
+    h: 2723
+  - id: 9
+    w: 4096
+    h: 2554
+  - id: 11
+    w: 4096
+    h: 2559
+  - id: 12
+    w: 4096
+    h: 2558
+  - id: 13
+    w: 4096
+    h: 2561
+  - id: 14
+    w: 1920
+    h: 1081
+  - id: 15
+    w: 1920
+    h: 1080
+  - id: 16
+    w: 1920
+    h: 1079
+  - id: 17
+    w: 1920
+    h: 1080
+  - id: 18
+    w: 5576
+    h: 3568
+  - id: 19
+    w: 5923
+    h: 3069
+  - id: 20
+    w: 5472
+    h: 1976
+  - id: 21
+    w: 6000
+    h: 4000
+  - id: 22
+    w: 2704
+    h: 2340
+  - id: 23
+    w: 1024
+    h: 769
+---
+<div class="row text-center text-lg-left gallery">
+  {% for picture in layout.gallery %}
+    <a href="{% include img-link id=picture.id %}" data-size="3000x2000" data-med-size="3000x2000" data-med="{% include img-link id=picture.id %}" class="d-block mb-4 col-lg-3 col-md-4 col-xs-6">
+      <img class="img-fluid img-thumbnail" src="{% include img-link id=picture.id options='w_300,h_200' %}" alt="{{picture.alt}}">
+    </a>
+  {% endfor %}
+</div>
