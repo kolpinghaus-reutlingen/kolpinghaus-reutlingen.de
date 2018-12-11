@@ -19,9 +19,9 @@ layout: default
     {% if page.img.main %}
     <div class="gallery">
       {% if page.img.main.w and page.img.main.h %}
-      <a href="{% include img-link id=page.img.main.id %}" data-size="{{page.img.main.w}}x{{page.img.main.h}}" data-med-size="{{page.img.main.w}}x{{page.img.main.h}}" data-med="{% include img-link id=page.img.main.id %}">
+      <a href="{% include img-link id=page.img.main.id %}" data-size="{{page.img.main.w}}x{{page.img.main.h}}" data-med-size="{{page.img.main.w}}x{{page.img.main.h}}" data-med="{% include img-link id=page.img.main.id %}" alt="{{page.img.main.alt}}">
       {% else %}
-      <a href="{% include img-link id=page.img.main.id %}" data-size="3000x2000" data-med-size="3000x2000" data-med="{% include img-link id=page.img.main.id %}">
+      <a href="{% include img-link id=page.img.main.id %}" data-size="3000x2000" data-med-size="3000x2000" data-med="{% include img-link id=page.img.main.id %}" alt="{{page.img.main.alt}}">
       {% endif %}
       <img class="img-fluid rounded" src="{% include img-link id=page.img.main.id options='w_700' %}" alt="{{page.img.main.alt}}">
       </a>
@@ -45,7 +45,7 @@ layout: default
   {% if page.img.third %}
   <div class="col-md-4 gallery">
     {% if page.img.third.w and page.img.third.h %}
-    <a href="{% include img-link id=page.img.third.id %}" data-size="{{page.img.third.w}}x{{page.img.third.h}}" data-med-size="{{page.img.third.w}}x{{page.img.third.h}}" data-med"{% include img-link id=page.img.third.id %}">
+    <a href="{% include img-link id=page.img.third.id %}" data-size="{{page.img.third.w}}x{{page.img.third.h}}" data-med-size="{{page.img.third.w}}x{{page.img.third.h}}" data-med"{% include img-link id=page.img.third.id %}" alt="{{page.img.third.alt}}">
     {% else %}
     <a href="{% include img-link id=page.img.third.id %}" data-size="3000x2000" data-med-size="3000x2000" data-med"{% include img-link id=page.img.third.id %}">
     {% endif %}
@@ -59,9 +59,9 @@ layout: default
 <div class="row text-center text-lg-left gallery">
   {% for picture in page.images %}
     {% if picture.w and picture.h %}
-      <a href="{% include img-link id=picture.id %}" data-size="{{picture.w}}x{{picture.h}}" data-med-size="{{picture.w}}x{{picture.h}}" data-med="{% include img-link id=picture.id %}" class="d-block mb-4 ol-lg-3 col-md-4 col-xs-6">
+      <a href="{% include img-link id=picture.id %}" data-size="{{picture.w}}x{{picture.h}}" data-med-size="{{picture.w}}x{{picture.h}}" data-med="{% include img-link id=picture.id %}" class="d-block mb-4 ol-lg-3 col-md-4 col-xs-6" alt="{{picture.alt}}">>
     {% else %}
-      <a href="{% include img-link id=picture.id %}" data-size="3000x2000" data-med-size="3000x2000" data-med="{% include img-link id=picture.id %}" class="d-block mb-4 ol-lg-3 col-md-4 col-xs-6">
+      <a href="{% include img-link id=picture.id %}" data-size="3000x2000" data-med-size="3000x2000" data-med="{% include img-link id=picture.id %}" class="d-block mb-4 ol-lg-3 col-md-4 col-xs-6" alt="{{picture.alt}}">>
     {% endif %}
     <img class="img-fluid img-thumbnail" src="{% include img-link id=picture.id options='w_300,h_200' %}" alt="{{picture.alt}}">
     </a>

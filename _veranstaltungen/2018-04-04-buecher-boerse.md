@@ -6,6 +6,8 @@ description: Die Bücherbörse findet zweimal jährlich unter Federführung der 
 img:
   thumb:
     id: 2018-04-04-buecher-boerse-thumb
+    w: 5168
+    h: 2088
   third:
     id: 2018-04-04-buecher-boerse-third
     w: 324
