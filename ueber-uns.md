@@ -90,6 +90,17 @@ Weitere Informationen finden Sie unter:<br>
 Außerdem können Sie sich auch direkt bei uns, im Kolpinghaus, für einen freiwilligen Dienst bewerben.
 </div>
 <br>
+
+<div class="row gallery">
+    <a href="{% include img-link id="bfd_1" %}" data-size="1024x769" data-med-size="1024x769" data-med="{% include img-link id="bfd_1" %}" class="d-block mb-4 col-lg-3 col-md-4 col-xs-6" alt="bfd_1">
+        <img class="img-fluid img-thumbnail" src="{% include img-link id="bfd_1" options='w_300,h_200' %}" alt="bfd_1">
+    </a>
+    <a href="{% include img-link id="bfd_2" %}" data-size="2704x2340" data-med-size="2704x2340" data-med="{% include img-link id="bfd_2" %}" class="d-block mb-4 col-lg-3 col-md-4 col-xs-6" alt="bfd_2">
+        <img class="img-fluid img-thumbnail" src="{% include img-link id="bfd_2" options='w_300,h_200' %}" alt="bfd_2">
+    </a>
+</div>
+
+<br>
 <hr>
 <br>
 <div class="row">
