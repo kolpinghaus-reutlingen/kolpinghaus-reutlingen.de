@@ -14,6 +14,17 @@
 
 <div class="card mb-4">
   <div class="card-body">
+    <h3 class="card-title">Weihnachts- und Neujahrskarte</h3>
+    <a href="{% link _artikel/2018-12-17-weihnachts-und-neujahrskarte.md %}">
+        <img src="{% include img-link id='weihnachts-und-neujahrskarte_1' options='w_300' folder='ueber-uns' %}" style="max-width: 100%;" alt="weihnachts-und-neujahrskarte_1"></a>
+    <a href="{% link _artikel/2018-12-17-weihnachts-und-neujahrskarte.md %}">
+        <img src="{% include img-link id='weihnachts-und-neujahrskarte_2' options='w_300' folder='ueber-uns' %}" style="max-width: 100%;" alt="weihnachts-und-neujahrskarte_2"></a>
+  </div>
+</div>
+
+
+<div class="card mb-4">
+  <div class="card-body">
     <h3 class="card-title">Stellenausschreibung</h3>
     <a href="{% include img-link id='kolpinghaus_stellenausschreibung.pdf' folder='pdf' %}">
       <img src="{% include img-link id='kolpinghaus_stellenausschreibung.jpg' options='w_300' folder='pdf' %}" style="max-width: 100%;" alt="Stellenausschreibung"></a>
