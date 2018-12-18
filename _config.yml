@@ -1,10 +1,10 @@
 title: Kolpinghaus Reutlingen
 url: https://kolpinghaus-reutlingen.de
 domain: kolpinghaus-reutlingen.de
-commit: 36a063ab28cd9f53ceaa633d8d3de9a8f04ef2ff
+commit: b1ecd250621ad3abcc6b5bf22dd06e8af116abd6
 image:
   url: https://res.cloudinary.com/kolpinghaus-rt/image/upload
-  version: 1532618029
+  version: 1532618030
   option:
     default: c_lfill,g_auto,cs_srgb,q_auto
   max:

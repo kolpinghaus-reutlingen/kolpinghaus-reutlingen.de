@@ -19,6 +19,8 @@
         <img src="{% include img-link id='weihnachts-und-neujahrskarte_1' options='w_300' folder='ueber-uns' %}" style="max-width: 100%;" alt="weihnachts-und-neujahrskarte_1"></a>
     <a href="{% link _artikel/2018-12-17-weihnachts-und-neujahrskarte.md %}">
         <img src="{% include img-link id='weihnachts-und-neujahrskarte_2' options='w_300' folder='ueber-uns' %}" style="max-width: 100%;" alt="weihnachts-und-neujahrskarte_2"></a>
+    <a href="{% link _artikel/2018-12-17-weihnachts-und-neujahrskarte.md %}">
+        <img src="{% include img-link id='weihnachts-und-neujahrskarte_3' options='w_300' folder='ueber-uns' %}" style="max-width: 100%;" alt="weihnachts-und-neujahrskarte_3"></a>
   </div>
 </div>
 
