@@ -59,9 +59,9 @@ layout: default
 <div class="row text-center text-lg-left gallery">
   {% for picture in page.images %}
     {% if picture.w and picture.h %}
-      <a href="{% include img-link id=picture.id %}" data-size="{{picture.w}}x{{picture.h}}" data-med-size="{{picture.w}}x{{picture.h}}" data-med="{% include img-link id=picture.id %}" class="d-block mb-4 ol-lg-3 col-md-4 col-xs-6" alt="{{picture.alt}}">>
+      <a href="{% include img-link id=picture.id %}" data-size="{{picture.w}}x{{picture.h}}" data-med-size="{{picture.w}}x{{picture.h}}" data-med="{% include img-link id=picture.id %}" class="d-block mb-4 col-lg-3 col-md-4 col-xs-6" alt="{{picture.alt}}">
     {% else %}
-      <a href="{% include img-link id=picture.id %}" data-size="3000x2000" data-med-size="3000x2000" data-med="{% include img-link id=picture.id %}" class="d-block mb-4 ol-lg-3 col-md-4 col-xs-6" alt="{{picture.alt}}">>
+      <a href="{% include img-link id=picture.id %}" data-size="3000x2000" data-med-size="3000x2000" data-med="{% include img-link id=picture.id %}" class="d-block mb-4 col-lg-3 col-md-4 col-xs-6" alt="{{picture.alt}}">
     {% endif %}
     <img class="img-fluid img-thumbnail" src="{% include img-link id=picture.id options='w_300,h_200' %}" alt="{{picture.alt}}">
     </a>
