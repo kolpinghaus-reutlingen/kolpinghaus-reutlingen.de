@@ -34,8 +34,16 @@
       <div class="collapse" id="collapseList">
         <br>
         <ul style="text-align:left;">
+        {% capture _datetime %}{{_date | date: '%s'}}{% endcapture %}
+        {% assign _datetime = _datetime | plus: 1 %}
+
         {% for _element in _dates %}
+        {% capture _elementtime %}{{_element | date: '%s'}}{% endcapture %}
+        {% assign _elementtime = _elementtime | plus: 0 %}
+        {% if _elementtime > _datetime %}
           <li>{% include pretty-date date=_element mode=2 %}</il>
+        {% endif %}
+
         {% endfor %}
         </ul>
     </div>
