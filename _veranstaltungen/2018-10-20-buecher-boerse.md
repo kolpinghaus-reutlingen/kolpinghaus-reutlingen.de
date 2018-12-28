@@ -2,14 +2,81 @@
 title: Bücher-Börse Oktober 2018
 date: 2018-10-20
 autor: GEA
-description: Die Bücherbörse findet zweimal jährlich unter Federführung der Technischen Betriebsdienste Reutlingen in Zusammenarbeit mit dem Kolpinghaus Reutlingen statt.
 img:
+  main:
+    id: 2018-10-13-buecherboerse-des-kolpinghauses-artikel
+    w: 2440
+    h: 1005
   third:
     id: 2018-10-20-buecher-boerse
     w: 324
     h: 456
----
+images:
+  - id: 2018-10-13-buecherboerse-des-kolpinghauses-01
+    w: 5152
+    h: 3864
+  - id: 2018-10-13-buecherboerse-des-kolpinghauses-02
+    w: 5152
+    h: 3864
+  - id: 2018-10-13-buecherboerse-des-kolpinghauses-03
+    w: 5152
+    h: 3864
+  - id: 2018-10-13-buecherboerse-des-kolpinghauses-04   
+    w: 5152
+    h: 3864
+  - id: 2018-10-13-buecherboerse-des-kolpinghauses-05
+    w: 5152
+    h: 3864
+  - id: 2018-10-13-buecherboerse-des-kolpinghauses-06
+    w: 5152
+    h: 3864
+  - id: 2018-10-13-buecherboerse-des-kolpinghauses-07
+    w: 5152
+    h: 3864
+  - id: 2018-10-13-buecherboerse-des-kolpinghauses-08
+    w: 3864
+    h: 5152
+  - id: 2018-10-13-buecherboerse-des-kolpinghauses-09
+    w: 3864
+    h: 5152
+  - id: 2018-10-13-buecherboerse-des-kolpinghauses-10
+    w: 3864
+    h: 5152
+  - id: 2018-10-13-buecherboerse-des-kolpinghauses-11
+    w: 5152
+    h: 3864
+  - id: 2018-10-13-buecherboerse-des-kolpinghauses-12
+    w: 5152
+    h: 3864
+  - id: 2018-10-13-buecherboerse-des-kolpinghauses-13
+    w: 5152
+    h: 3864
+  - id: 2018-10-13-buecherboerse-des-kolpinghauses-14
+    w: 3864
+    h: 5152
+  - id: 2018-10-13-buecherboerse-des-kolpinghauses-15
+    w: 5152
+    h: 3864
+  - id: 2018-10-13-buecherboerse-des-kolpinghauses-16
+    w: 5152
+    h: 3864
+  - id: 2018-10-13-buecherboerse-des-kolpinghauses-17
+    w: 5152
+    h: 3864
+  - id: 2018-10-13-buecherboerse-des-kolpinghauses-18
+    w: 5152
+    h: 3864
+  - id: 2018-10-13-buecherboerse-des-kolpinghauses-19
+    w: 5152
+    h: 3864
+  - id: 2018-10-13-buecherboerse-des-kolpinghauses-20
+    w: 3864
+    h: 5152
+  - id: 2018-10-13-buecherboerse-des-kolpinghauses-21
+    w: 3864
+    h: 5152
 
+---
 **Reutlingen. Die Bücherbörse findet zweimal jährlich unter Federführung der Technischen Betriebsdienste Reutlingen in Zusammenarbeit mit dem Kolpinghaus Reutlingen statt.** <!--mehr--> **Am Samstag, den 20. Oktober von 9.00 bis 13.00 Uhr ist es wieder so weit: Am Heilbrunnen 107 werden die Tore geöffnet für Bücherwürmer, Schnäppchenjäger und Abfallvermeider.**<br><br>  
 
 Jeden ersten Freitag im Monat von 14.30 bis 16.30 Uhr, kann man dem Kolpinghaus, bei der Annahmestelle in der Liststraße 26, guterhaltene, aber „ausgelesene“ Bücher spenden. Diese Taschenbücher und festgebundene Bücher verkauft das Kol-pinghaus zu günstigen Preisen bei der Bücherbörse. Sortiert nach verschiedenen Genres, wie Atlanten, Kinderbücher, Fach-literatur, Reiseliteratur, Unterhaltungsliteratur, fremdsprachige Bücher, Comics etc., kann hier das ein oder andere Bücher-schnäppchen gemacht werden!
