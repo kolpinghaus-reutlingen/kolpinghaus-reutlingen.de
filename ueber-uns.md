@@ -86,7 +86,7 @@ In der gemeinnützigen sozialen Einrichtung Jugendwohnheim Kolpinghaus Reutlinge
 Der Bundesfreiwilligendienst und das Freiwillige Soziale Jahr bieten die Möglichkeit, sich zu orientieren und erste Erfahrungen im sozialen Berufsfeld zu sammeln.<br><br>
 Weitere Informationen finden Sie unter:<br>
 [http://www.bundesfreiwilligendienst.de](http://www.bundesfreiwilligendienst.de)<br>
-[http://www.fsj-baden-wuerttemberg.de/infos-zum-fsj](http://www.fsj-baden-wuerttemberg.de/infos-zum-fsj)<br>
+[http://www.fsj-baden-wuerttemberg.de/infos-zum-fsj](http://www.fsj-baden-wuerttemberg.de/infos-zum-fsj)<br><br>
 Außerdem können Sie sich auch direkt bei uns, im Kolpinghaus, für einen freiwilligen Dienst bewerben.
 </div>
 <br>
