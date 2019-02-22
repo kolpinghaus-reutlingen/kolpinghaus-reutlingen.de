@@ -1,0 +1,19 @@
+language: ruby
+
+cache: bundler
+
+before_install: gem update bundler
+
+install:
+  - bundle install
+
+before_script:
+    - chmod a+x travis-ci
+script:
+ - "./travis-ci"
+
+branches:
+  only:
+  - master
+
+sudo: false
