@@ -1,6 +1,6 @@
 set -e
 
-DEPLOY_REPO="https://${REPO-KEY}@github.com/kolpinghaus-rt/kolpinghaus-reutlingen.de.git"
+DEPLOY_REPO="https://${REPO_KEY}@github.com/kolpinghaus-rt/kolpinghaus-reutlingen.de.git"
 
 function main {
 	clean
