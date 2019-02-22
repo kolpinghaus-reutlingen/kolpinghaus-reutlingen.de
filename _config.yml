@@ -1,10 +1,10 @@
 title: Kolpinghaus Reutlingen
 url: https://kolpinghaus-reutlingen.de
 domain: kolpinghaus-reutlingen.de
-commit: c843752a90b5f39ea5230f24dbee92585da4c41d
+commit: c19f8033e362050a8a4e7fb1e2cd13860d9b35e4
 image:
   url: https://res.cloudinary.com/kolpinghaus-rt/image/upload
-  version: 1532618031
+  version: 1532618032
   option:
     default: c_lfill,g_auto,cs_srgb,q_auto
   max:
@@ -44,9 +44,7 @@ author:
   name: Patrick Haußmann
   url: patrickhaußmann.de
 
-google-site-verification:
-  old: fWwRC4yG7LLptW6sN1izwv0Sy9kvKaOozazFVAYJafk
-  new: tyvNJr99qMKWyfVYXxuD8ikqOpWjCQfdJv5WvywBGqE
+google-site-verification: tyvNJr99qMKWyfVYXxuD8ikqOpWjCQfdJv5WvywBGqE
 
 collections:
   artikel:

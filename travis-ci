@@ -3,13 +3,14 @@ set -e
 DEPLOY_REPO="https://${REPO_KEY}@github.com/kolpinghaus-rt/kolpinghaus-reutlingen.de.git"
 
 function main {
-	clean
+	clean_before
 	get_current_site
+    clean_after
 	build_site
 	deploy
 }
 
-function clean {
+function clean_before {
 	echo "cleaning _site folder"
 	if [ -d "_site" ]; then rm -Rf _site; fi
 }
@@ -17,6 +18,11 @@ function clean {
 function get_current_site {
 	echo "getting latest site"
 	git clone --depth 1 $DEPLOY_REPO _site
+}
+
+function clean_after {
+	echo "cleaning _site folder again"
+	rm -Rf _site/*
 }
 
 function build_site {
