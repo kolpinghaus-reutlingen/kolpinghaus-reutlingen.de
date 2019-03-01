@@ -10,7 +10,7 @@
 <meta name="generator" content="By Hand">
 <meta name="audience" content="Alle"/>
 <meta name="copyright" content="(c) {{ site.time | date: '%Y' }} {{site.domain}}"/>
-<link rel="author" href="{{site.author.url}}"/>
+<link rel="author" href="https://{{site.author.url}}"/>
 {% if page.description %}
 <meta name="description" content="{{ page.description }}">
 {% else %}
