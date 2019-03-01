@@ -7,13 +7,16 @@ img:
     id: computerkurs
     w: 4867
     h: 3245
+    alt: computerkurs
 images:
   - id: computerkurs-1
     w: 1280
     h: 960
+    alt: computerkurs-1
   - id: computerkurs-2
     w: 1280
     h: 960
+    alt: computerkurs-2
 ---
 <!--mehr-->
 ### Umgang mit digitalen Medien im Kolpinghaus

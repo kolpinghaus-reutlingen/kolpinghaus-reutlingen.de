@@ -6,9 +6,11 @@ images:
   - id: 2018-08-01-reutlinger-integrationszeitschrifft-zamma-1
     w: 3212
     h: 4579
+    alt: 2018-08-01-reutlinger-integrationszeitschrifft-zamma-1
   - id: 2018-08-01-reutlinger-integrationszeitschrifft-zamma-2
     w: 3212
     h: 4580
+    alt: 2018-08-01-reutlinger-integrationszeitschrifft-zamma-2
 ---
 Die Betreuerin, die Freundin
 <!--mehr-->

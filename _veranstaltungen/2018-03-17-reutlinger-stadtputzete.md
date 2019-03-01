@@ -4,9 +4,11 @@ autor: Andrea Kintzler
 date: 2018-03-17
 images:
   - id: 2018-03-17-reutlinger-stadtputzete-1
+    alt: 2018-03-17-reutlinger-stadtputzete-1
     w: 1350
     h: 1800
   - id: 2018-03-17-reutlinger-stadtputzete-2
+    alt: 2018-03-17-reutlinger-stadtputzete-2
     w: 1800
     h: 1350
 ---

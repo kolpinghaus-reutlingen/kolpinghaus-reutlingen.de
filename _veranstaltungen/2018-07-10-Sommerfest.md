@@ -4,12 +4,15 @@ date: 2018-07-10
 autor: Nadia Weeber
 images:
   - id: 2018-07-10-Sommerfest-1
+    alt: 2018-07-10-Sommerfest-1
     w: 4032
     h: 3024
   - id: 2018-07-10-Sommerfest-2
+    alt: 2018-07-10-Sommerfest-2
     w: 3024
     h: 4032
   - id: 2018-07-10-Sommerfest-3
+    alt: 2018-07-10-Sommerfest-3
     w: 3024
     h: 4032
 ---

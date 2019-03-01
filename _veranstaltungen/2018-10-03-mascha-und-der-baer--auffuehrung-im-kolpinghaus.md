@@ -6,22 +6,28 @@ description: "Remstaler Figurentheater zeigt „Mascha und der Bär <br> Zeitlos
 img:
   third:
     id: 2018-10-03-mascha-und-der-baer--auffuehrung-im-kolpinghaus
+    alt: 2018-10-03-mascha-und-der-baer--auffuehrung-im-kolpinghaus
     w: 1240
     h: 2067
 images:
   - id: 2018-10-03-mascha-und-der-baer--auffuehrung-im-kolpinghaus-1
+    alt: 2018-10-03-mascha-und-der-baer--auffuehrung-im-kolpinghaus-1
     w: 516
     h: 387
   - id: 2018-10-03-mascha-und-der-baer--auffuehrung-im-kolpinghaus-2
+    alt: 2018-10-03-mascha-und-der-baer--auffuehrung-im-kolpinghaus-2
     w: 516
     h: 387
   - id: 2018-10-03-mascha-und-der-baer--auffuehrung-im-kolpinghaus-3
+    alt: 2018-10-03-mascha-und-der-baer--auffuehrung-im-kolpinghaus-3
     w: 516
     h: 387
   - id: 2018-10-03-mascha-und-der-baer--auffuehrung-im-kolpinghaus-4
+    alt: 2018-10-03-mascha-und-der-baer--auffuehrung-im-kolpinghaus-4
     w: 516
     h: 387
   - id: 2018-10-03-mascha-und-der-baer--auffuehrung-im-kolpinghaus-5
+    alt: 2018-10-03-mascha-und-der-baer--auffuehrung-im-kolpinghaus-5
     w: 516
     h: 387
 ---

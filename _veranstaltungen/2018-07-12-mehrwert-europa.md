@@ -4,6 +4,7 @@ date: 2018-07-12
 img:
   third:
     id: 2018-07-12-mehrwert-europa
+    alt: 2018-07-12-mehrwert-europa
     w: 2276
     h: 3300
 ---

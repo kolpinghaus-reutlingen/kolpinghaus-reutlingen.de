@@ -5,6 +5,7 @@ description: ""
 img:
   main:
     id: 2018-09-30-erntedankfeier
+    alt: 2018-09-30-erntedankfeier
     w: 4160
     h: 3120
 ---

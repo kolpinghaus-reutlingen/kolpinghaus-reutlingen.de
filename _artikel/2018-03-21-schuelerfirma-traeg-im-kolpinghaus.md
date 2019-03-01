@@ -7,12 +7,15 @@ images:
   - id: 2018-03-21-schuelerfirma-traeg-im-kolpinghaus-1
     w: 4128
     h: 3096
+    alt: 2018-03-21-schuelerfirma-traeg-im-kolpinghaus-1
   - id: 2018-03-21-schuelerfirma-traeg-im-kolpinghaus-2
     w: 3096
     h: 4128
+    alt: 2018-03-21-schuelerfirma-traeg-im-kolpinghaus-2
   - id: 2018-03-21-schuelerfirma-traeg-im-kolpinghaus-3
     w: 3096
     h: 4128
+    alt: 2018-03-21-schuelerfirma-traeg-im-kolpinghaus-3
 ---
 ### Kooperation mit der Schülerfirma TRAEG des Albert-Einstein-Gymnasiums Reutlingen<br><br>
 

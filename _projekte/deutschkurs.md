@@ -7,6 +7,7 @@ img:
     id: deutschkurs.2
     w: 5548
     h: 3699
+    alt: deutschkurs
 ---
 <!--mehr-->
 Es ist ein Montag so gegen 16 Uhr und ein freundliches “Hallo, kann mir jemand das Bistro aufschließen?” ist zu hören. Die zwei engagierten Studentinnen setzen sich an einen Tisch und breiten ihre mitgebrachten Arbeitsblätter aus.

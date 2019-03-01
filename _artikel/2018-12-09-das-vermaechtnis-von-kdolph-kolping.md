@@ -5,9 +5,10 @@ autor: Amgard Dohmel
 description: Herzliche Einladung zum Kolpinggedenktag am Sonntag, den 09.12.2018 (2. Adventssonntag)
 img:
   third:
-    id: einladung_kolpinggedenktag.jpg
+    id: 2018-12-09-einladung-kolpinggedenktag.jpg
     w: 1240
     h: 1754
+    alt: 2018-12-09-einladung-kolpinggedenktag
 ---
 Was wohl der 1865 verstorbene katholische Priester Adolph Kolping zu dem schmucken, weiß verputzten Reutlinger Kolpinghaus sagen würde? Und nicht nur zu dem renovierten Gebäude, sondern zu dem modernen Geist, der seit 2015 mit Hermann Rist, dem neuen Leiter, dort eingezogen ist? Sicher würde er sich freuen, dass seine Idee immer noch lebendig und ihre Umsetzung heute mindestens ebenso wichtig ist wie zu seiner Zeit.
 

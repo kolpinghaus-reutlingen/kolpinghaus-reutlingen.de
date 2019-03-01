@@ -5,15 +5,19 @@ autor: Luisa T.
 description: Jedes Jahr findet einige Tage vor Heiligabend die Bewohnerweihnachtsfeier des Kolpinghauses Reutlingen statt.
 images:
   - id: 2018-12-20-bewohnerweihnachtsfeier_pdf_1.jpg
+    alt: 2018-12-20-bewohnerweihnachtsfeier_pdf_1
     w: 860
-    h: 1224    
+    h: 1224
   - id: 2018-12-20-bewohnerweihnachtsfeier_pdf_2.jpg
+    alt: 2018-12-20-bewohnerweihnachtsfeier_pdf_2
     w: 860
     h: 1224
   - id: 2018-12-20-bewohnerweihnachtsfeier_pdf_3.jpg
+    alt: 2018-12-20-bewohnerweihnachtsfeier_pdf_3
     w: 860
     h: 1224
   - id: 2018-12-20-bewohnerweihnachtsfeier_pdf_4.jpg
+    alt: 2018-12-20-bewohnerweihnachtsfeier_pdf_4
     w: 860
     h: 1224
 ---

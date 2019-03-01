@@ -8,10 +8,12 @@ img:
     id: 2018-06-29-dioezesane-fussballmeisterschaft
     w: 4608
     h: 2544
+    alt: 2018-06-29-dioezesane-fussballmeisterschaft
   third:
     id: 2018-06-29-dioezesane-fussballmeisterschaft-urkunde
     w: 3212
     h: 4579
+    alt: 2018-06-29-dioezesane-fussballmeisterschaft-urkunde
 ---
 
 

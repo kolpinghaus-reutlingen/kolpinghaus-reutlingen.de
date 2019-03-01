@@ -6,15 +6,19 @@ images:
   - id: 2019-02-19-eine-ausbildung-eine-schule-ein-haus--drei-schwestern-1
     w: 4160
     h: 2336
+    alt: 2019-02-19-eine-ausbildung-eine-schule-ein-haus--drei-schwestern-1
   - id: 2019-02-19-eine-ausbildung-eine-schule-ein-haus--drei-schwestern-2
     w: 4160
     h: 2336
+    alt: 2019-02-19-eine-ausbildung-eine-schule-ein-haus--drei-schwestern-2
   - id: 2019-02-19-eine-ausbildung-eine-schule-ein-haus--drei-schwestern-3
     w: 2881
     h: 2335
+    alt: 2019-02-19-eine-ausbildung-eine-schule-ein-haus--drei-schwestern-3
   - id: 2019-02-19-eine-ausbildung-eine-schule-ein-haus--drei-schwestern-4
     w: 4160
     h: 2336
+    alt: 2019-02-19-eine-ausbildung-eine-schule-ein-haus--drei-schwestern-4
 ---
 
 ### Girl-Power im Kolpinghaus

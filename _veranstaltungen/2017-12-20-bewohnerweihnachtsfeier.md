@@ -4,6 +4,7 @@ date: 2017-12-20
 img:
   third:
     id: 2017-12-20-bewohnerweihnachtsfeier
+    alt: 2017-12-20-bewohnerweihnachtsfeier
     w: 860
     h: 1224
 ---

@@ -6,35 +6,45 @@ description: Die Bücherbörse findet zweimal jährlich unter Federführung der 
 img:
   thumb:
     id: 2018-04-04-buecher-boerse-thumb
+    alt: 2018-04-04-buecher-boerse-thumb
     w: 5168
     h: 2088
   third:
     id: 2018-04-04-buecher-boerse-third
+    alt: 2018-04-04-buecher-boerse-third
     w: 324
     h: 456
 images:
   - id: 2018-04-04-buecher-boerse-1
+    alt: 2018-04-04-buecher-boerse-1
     w: 5184
     h: 3456
   - id: 2018-04-04-buecher-boerse-2
+    alt: 2018-04-04-buecher-boerse-2
     w: 5184
     h: 3456
   - id: 2018-04-04-buecher-boerse-3
+    alt: 2018-04-04-buecher-boerse-3
     w: 3456
     h: 5184
   - id: 2018-04-04-buecher-boerse-4
+    alt: 2018-04-04-buecher-boerse-4
     w: 5184
     h: 3456
   - id: 2018-04-04-buecher-boerse-5
+    alt: 2018-04-04-buecher-boerse-5
     w: 5184
     h: 3456
   - id: 2018-04-04-buecher-boerse-6
+    alt: 2018-04-04-buecher-boerse-6
     w: 5184
     h: 3456
   - id: 2018-04-04-buecher-boerse-7
+    alt: 2018-04-04-buecher-boerse-7
     w: 5184
     h: 3456
   - id: 2018-04-04-buecher-boerse-8
+    alt: 2018-04-04-buecher-boerse-8
     w: 5152
     h: 3864
 ---

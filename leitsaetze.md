@@ -7,7 +7,7 @@ img:
   folder: ueber-uns
 ---
 <div class="row" markdown="1">
-<img class="img-fluid rounded" src="{% include img-link id='leitsaetze' %}" alt="{{page.img.main.alt}}">
+<img class="img-fluid rounded" src="{% include img-link id='leitsaetze' %}" alt="leitsaetze">
 <br><br><br>
 <div class="col-12" markdown="1">
 

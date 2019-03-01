@@ -7,6 +7,7 @@ img:
     id: fahrradwerkstatt
     w: 4000
     h: 2667
+    alt: fahrradwerkstatt
 redirect_to:
   - /projekte/
 ---

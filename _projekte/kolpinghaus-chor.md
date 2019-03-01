@@ -7,6 +7,7 @@ img:
     id: musik
     w: 7360
     h: 4912
+    alt: musik
 redirect_to:
   - /projekte/
 ---

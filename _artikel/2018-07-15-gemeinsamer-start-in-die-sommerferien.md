@@ -6,9 +6,11 @@ images:
   - id: 2018-07-15-sommernachtskino-1
     w: 4032
     h: 3024
+    alt: 2018-07-15-sommernachtskino-1
   - id: 2018-07-15-sommernachtskino-2
     w: 4032
     h: 3024
+    alt: 2018-07-15-sommernachtskino-2
 ---
 
 <!--mehr-->

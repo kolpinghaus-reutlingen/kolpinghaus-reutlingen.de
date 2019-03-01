@@ -147,7 +147,6 @@ Außerdem können Sie sich auch direkt bei uns, im Kolpinghaus, für einen freiw
 
 * [Abendrealschule Reutlingen](http://www.abendrealschule-reutlingen.de/){:target="_blank"}
 * [Gewerbliche Schule Metzingen](http://www.gewerbeschule-metzingen.de/){:target="_blank"}
-* [Kerschensteiner Schule Reutlingen](http://www.kss-rt.de/){:target="_blank"}
 * [Caritas in der Region](http://www.caritas-fils-neckar-alb.de/){:target="_blank"}
 
 **ÜBERREGIONAL**
