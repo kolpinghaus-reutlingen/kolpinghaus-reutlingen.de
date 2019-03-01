@@ -4,12 +4,13 @@
 {% assign _dates = "2019-01-04 2019-02-01 2019-03-01 2019-05-03 2019-06-07 2019-07-05 2019-09-07 2019-11-01 2019-12-06" | split: " " | sort %}
 {% for _element in _dates %}
   {% capture _elementtime %}{{_element | date: '%s'}}{% endcapture %}
-  {% assign _elementtime = _elementtime | plus: 0 %}
+  {% assign _elementtime = _elementtime | plus: 86400 %}
   {% if _elementtime > nowunix %}
     {% assign _date = _element %}
     {% break %}
   {% endif %}
 {% endfor %}
+
 
 
 {% if _date %}
