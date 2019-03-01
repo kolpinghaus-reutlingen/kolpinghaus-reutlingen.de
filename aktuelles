@@ -13,6 +13,17 @@
 
 
 
+<div class="card mb-4">
+  <div class="card-body">
+    <h3 class="card-title">Entdecke den Künstler in Dir</h3>
+    <p class="card-text">neues Malprojekt des Kolpinghaus</p>
+    <a href="{% link _artikel/2019-02-27-fruehlingserwachen-entdecke-den-kuenstler-in-dir.md %}" class="btn btn-primary">Mehr &rarr;</a>
+  </div>
+</div>
+
+
+
+
 {% if _date %}
 <div class="card mb-4">
   <div class="card-body">
