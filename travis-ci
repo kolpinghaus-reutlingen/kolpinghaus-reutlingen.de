@@ -5,7 +5,7 @@ DEPLOY_REPO="https://${REPO_KEY}@github.com/kolpinghaus-rt/kolpinghaus-reutlinge
 function main {
 	clean_before
 	get_current_site
-    clean_after
+	clean_after
 	build_site
 	deploy
 }
@@ -28,6 +28,10 @@ function clean_after {
 function build_site {
 	echo "building site"
 	JEKYLL_ENV=production bundle exec jekyll build --trace
+}
+
+function htmlproofer {
+	bundle exec htmlproofer ./_site --disable-external
 }
 
 function deploy {
