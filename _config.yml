@@ -82,3 +82,11 @@ defaults:
       permalink: /projekt/:path/
       img:
         folder: projekte
+
+exclude:
+  - travis-build.sh
+  - travis-test.sh
+  - travis-deploy.sh
+  - README.md
+  - Gemfile
+  - Gemfile.lock

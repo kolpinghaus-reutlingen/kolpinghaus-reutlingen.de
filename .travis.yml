@@ -8,9 +8,12 @@ install:
   - bundle install
 
 before_script:
-    - chmod a+x travis-ci
+    - chmod a+x travis-*.sh
+    - export DEPLOY_REPO="https://${REPO_KEY}@github.com/kolpinghaus-rt/kolpinghaus-reutlingen.de.git"
 script:
- - "./travis-ci"
+ - "./travis-build.sh"
+ - "./travis-test.sh"
+ - "./travis-deploy.sh"
 
 branches:
   only:
