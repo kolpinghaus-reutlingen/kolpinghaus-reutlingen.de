@@ -68,10 +68,10 @@ function deploy {
 
 	cd _site
 	git config --global user.name "Travis CI"
-    git config --global user.email travis-ci@kolpinghaus-reutlingen.de
+	git config --global user.email travis-ci@kolpinghaus-reutlingen.de
 	git add -A
 	git status
-	git commit -m ""travisbuild $TRAVIS_BUILD_NUMBER" -m "${TRAVIS_COMMIT_MESSAGE}"
+	git commit -m "travisbuild $TRAVIS_BUILD_NUMBER" -m "${TRAVIS_COMMIT_MESSAGE}"
 	git push $DEPLOY_REPO master:master
 }
 
