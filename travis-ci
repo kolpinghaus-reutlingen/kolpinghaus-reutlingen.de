@@ -26,6 +26,7 @@ function get_current_site {
 
 function safe {
 	echo 'safe'
+	if [ -d "../temp" ]; then rm -Rf ../temp; fi
 	mkdir ../temp
 	mv _site/README.md _site/.gitignore _site/.git ../temp/
 }
@@ -44,6 +45,7 @@ function build_site {
 
 function restore {
 	echo 'restore'
+
 	mv ../temp/README.md ../temp/.gitignore ../temp/.git _site/
 }
 
@@ -69,7 +71,7 @@ function deploy {
     git config --global user.email travis-ci@kolpinghaus-reutlingen.de
 	git add -A
 	git status
-	git commit -m "travisbuild $TRAVIS_BUILD_NUMBER: '${TRAVIS_COMMIT_MESSAGE}'"
+	git commit -m ""travisbuild $TRAVIS_BUILD_NUMBER" -m "${TRAVIS_COMMIT_MESSAGE}"
 	git push $DEPLOY_REPO master:master
 }
 
