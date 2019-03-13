@@ -16,6 +16,7 @@ function main {
 function clean_before {
 	echo "cleaning _site folder"
 	if [ -d "_site" ]; then rm -Rf _site; fi
+	mkdir _site
 }
 
 function get_current_site {
@@ -25,13 +26,14 @@ function get_current_site {
 
 function safe {
 	echo 'safe'
-	mv _site/README.md _site/.README.md
+	mkdir ../temp
+	mv _site/README.md _site/.gitignore _site/.git ../temp/
 }
 
 
 function clean_after {
 	echo "cleaning _site folder again"
-	rm -Rf _site/*
+	rm -Rf _site/
 }
 
 function build_site {
@@ -41,8 +43,8 @@ function build_site {
 
 
 function restore {
-echo 'restore'
-mv _site/.README.md _site/README.md
+	echo 'restore'
+	mv ../temp/README.md ../temp/.gitignore ../temp/.git _site/
 }
 
 function htmlproofer {
