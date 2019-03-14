@@ -16,7 +16,7 @@ git clone --depth 1 $DEPLOY_REPO _site
 echo 'safe'
 if [ -d "../temp" ]; then rm -Rf ../temp; fi
 mkdir ../temp
-mv _site/README.md _site/.gitignore _site/.git ../temp/
+mv _site/.gitignore _site/.git ../temp/
 
 
 # clean_after
@@ -31,4 +31,4 @@ JEKYLL_ENV=production bundle exec jekyll build --trace
 
 # restore
 echo 'restore'
-mv ../temp/README.md ../temp/.gitignore ../temp/.git _site/
+mv ../temp/.gitignore ../temp/.git _site/
