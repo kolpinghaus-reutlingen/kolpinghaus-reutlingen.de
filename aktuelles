@@ -21,6 +21,9 @@
     <h3 class="card-title">Entdecke den Künstler in Dir</h3>
     <p class="card-text">neues Malprojekt des Kolpinghaus</p>
     <a href="{% link _artikel/2019-02-27-fruehlingserwachen-entdecke-den-kuenstler-in-dir.md %}" class="btn btn-primary">Mehr &rarr;</a>
+    <br><br><br>
+    <h4 class="card-title">Plakat für Austellungs- und Kirchenbesucher</h4>
+    <a href="{% include img-link id='2019-04-28-kirche-malprojekt-plakat.pdf' folder='artikel' %}" class="btn btn-primary">Mehr &rarr;</a>
   </div>
 </div>
 
