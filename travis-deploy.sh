@@ -13,18 +13,13 @@ if [ "$TRAVIS_BRANCH" != "master" ]; then
   exit 0
 fi
 
-
-git config --global user.name "Travis CI"
-git config --global user.email travis-ci@jekyll.test.5ls.de
-
-
 # pushing to github
 echo
 echo "pushing _site -----------------------------------------------"
 echo
 cd _site
 git config --global user.name "Travis CI"
-git config --global user.email travis-ci@kolpinghaus-reutlingen.de
+git config --global user.email travis-ci@5ls.de
 git add -A
 git status
 git commit -m "travisbuild $TRAVIS_BUILD_NUMBER" -m "${TRAVIS_COMMIT_MESSAGE}"
