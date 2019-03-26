@@ -16,6 +16,11 @@ script:
  - "./travis-test.sh"
  - "./travis-deploy.sh"
 
+notifications:
+  email:
+    recipients:
+      - travis-ci@5ls.de
+      
 branches:
   only:
   - master
