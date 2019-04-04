@@ -90,5 +90,3 @@ exclude:
   - README.md
   - Gemfile
   - Gemfile.lock
-  - css/
-  - js/
