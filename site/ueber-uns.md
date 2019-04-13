@@ -61,11 +61,14 @@ Adolph Kolping verstand es als Sozialreformer, schon in der damaligen Zeit für 
 **In dieser Tradition verstehen wir unseren Auftrag als Jugendwohnheim.**
 
 <br>
-<div class="row">
-  <div class="col text-right">
+<div class="row justify-content-center">
+  <div class="col-3">
+  <a href="{% link leitbild.md %}" class="btn btn-primary">Leitbild</a>
+  </div>
+  <div class="col-3">
   <a href="{% link leitsaetze.md %}" class="btn btn-primary">Leitsätze</a>
   </div>
-  <div class="col text-left">
+  <div class="col-3">
   <a href="{% link adolph-kolping.md %}" class="btn btn-primary">Adolph Kolping</a>
   </div>
 </div>
