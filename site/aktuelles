@@ -15,20 +15,19 @@
 
 
 
-{% assign _until = "2019-07-24" | date: '%s' | plus: 0 %}
+{% assign _until = "2019-12-31" | date: '%s' | plus: 0 %}
 {% if _until > nowunix %}
 <div class="card mb-4">
   <div class="card-body">
-    <h3 class="card-title">Einladung zum Sommerfest 2019</h3>
-    <a href="https://res.cloudinary.com/kolpinghaus-rt/image/upload/c_lfill,g_auto,cs_srgb,q_auto/v1532618032/veranstaltungen/2019-07-23-Sommerfest">
-      <img src="https://res.cloudinary.com/kolpinghaus-rt/image/upload/c_lfill,g_auto,cs_srgb,q_auto,w_250/v1532618032/veranstaltungen/2019-07-23-Sommerfest.jpg" style="max-width: 100%;" alt="2019-07-23-Sommerfest">
-    </a>
+    <h3 class="card-title">Infos für FSJ und BFD Bewerber</h3>
+    <p class="card-text">
+      Wir haben eine große Nachfrage nach unserem Angebot für FSJler und Bufdis.
+      
+      Zurzeit sind alle Plätze bis zum 01.09.2020 besetzt.
+    </p>
   </div>
-  <div class="card-footer text-muted">{% include pretty-date date="2019-07-23" mode=2 %} 17:30 Uhr</div>
 </div>
 {% endif %}
-
-
 
 
 
