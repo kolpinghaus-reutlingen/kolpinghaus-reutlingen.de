@@ -1,7 +1,7 @@
 ---
 title: Deutschkurs
 autor: Andrea Kintzler
-date: 2011-01-01
+date: 2013-01-01
 img:
   thumb:
     id: deutschkurs.2

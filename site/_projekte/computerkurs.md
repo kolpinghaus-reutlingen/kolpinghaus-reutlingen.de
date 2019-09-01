@@ -1,6 +1,6 @@
 ---
 title: Computerkurs
-date: 2008-01-01
+date: 2011-01-01
 autor: Jana Rach
 img:
   thumb:
