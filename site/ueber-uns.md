@@ -93,6 +93,9 @@ Weitere Informationen finden Sie unter:<br>
 [freiwilligendienste-rs.de](https://freiwilligendienste-rs.de/)<br><br>
 Außerdem können Sie sich auch direkt bei uns, im Kolpinghaus, für einen freiwilligen Dienst bewerben.
 </div>
+<div class="alert alert-warning" role="alert">
+  Wir haben eine große Nachfrage nach unserem Angebot für FSJler und Bufdis. Zurzeit sind alle Plätze bis zum 01.09.2020 besetzt.
+</div>
 <br>
 
 <div class="row gallery">
