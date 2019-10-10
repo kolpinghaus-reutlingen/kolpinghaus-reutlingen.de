@@ -92,18 +92,21 @@ Weitere Informationen finden Sie unter:<br>
 [fsj-baden-wuerttemberg.de/infos-zum-fsj](https://www.fsj-baden-wuerttemberg.de/infos-zum-fsj)<br>
 [freiwilligendienste-rs.de](https://freiwilligendienste-rs.de/)<br><br>
 Außerdem können Sie sich auch direkt bei uns, im Kolpinghaus, für einen freiwilligen Dienst bewerben.
-</div>
+</div><!-- 
 <div class="alert alert-warning" role="alert">
   Wir haben eine große Nachfrage nach unserem Angebot für FSJler und Bufdis. Zurzeit sind alle Plätze bis zum 01.09.2020 besetzt.
-</div>
+</div>-->
 <br>
 
 <div class="row gallery">
-    <a href="{% include img-link id="bfd_1" %}" data-size="1024x769" data-med-size="1024x769" data-med="{% include img-link id="bfd_1" %}" class="d-block mb-4 col-lg-3 col-md-4 col-xs-6" alt="bfd_1">
+    <a href="{% include img-link id="bfd_1" %}" data-size="1024x769" data-med-size="1024x769" data-med="{% include img-link id="bfd_1" %}" class="d-block mb-4 col-lg-3 col-md-4 col-xs-6">
         <img class="img-fluid img-thumbnail" src="{% include img-link id="bfd_1" options='w_300,h_200' %}" alt="bfd_1">
     </a>
-    <a href="{% include img-link id="bfd_2" %}" data-size="2704x2340" data-med-size="2704x2340" data-med="{% include img-link id="bfd_2" %}" class="d-block mb-4 col-lg-3 col-md-4 col-xs-6" alt="bfd_2">
+    <a href="{% include img-link id="bfd_2" %}" data-size="2704x2340" data-med-size="2704x2340" data-med="{% include img-link id="bfd_2" %}" class="d-block mb-4 col-lg-3 col-md-4 col-xs-6">
         <img class="img-fluid img-thumbnail" src="{% include img-link id="bfd_2" options='w_300,h_200' %}" alt="bfd_2">
+    </a>
+    <a href="{% include img-link id="2019-02-27-fruehlingserwachen-entdecke-den-kuenstler-in-dir-3" folder="artikel" %}" data-size="3024x4032" data-med-size="3024x4032" data-med="{% include img-link id="bfd_2" %}" class="d-block mb-4 col-lg-3 col-md-4 col-xs-6">
+      <img class="img-fluid img-thumbnail" src="{% include img-link id="2019-02-27-fruehlingserwachen-entdecke-den-kuenstler-in-dir-3" folder="artikel" options='w_300,h_200' %}" alt="bfd_3">
     </a>
 </div>
 

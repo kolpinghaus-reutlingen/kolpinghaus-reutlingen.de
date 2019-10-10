@@ -15,7 +15,7 @@
 
 
 
-{% assign _until = "2019-12-31" | date: '%s' | plus: 0 %}
+{% assign _until = "2019-09-31" | date: '%s' | plus: 0 %}
 {% if _until > nowunix %}
 <div class="card mb-4">
   <div class="card-body">
