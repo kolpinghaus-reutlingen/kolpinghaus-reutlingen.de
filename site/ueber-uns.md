@@ -92,10 +92,7 @@ Weitere Informationen finden Sie unter:<br>
 [fsj-baden-wuerttemberg.de/infos-zum-fsj](https://www.fsj-baden-wuerttemberg.de/infos-zum-fsj)<br>
 [freiwilligendienste-rs.de](https://freiwilligendienste-rs.de/)<br><br>
 Außerdem können Sie sich auch direkt bei uns, im Kolpinghaus, für einen freiwilligen Dienst bewerben.
-</div><!-- 
-<div class="alert alert-warning" role="alert">
-  Wir haben eine große Nachfrage nach unserem Angebot für FSJler und Bufdis. Zurzeit sind alle Plätze bis zum 01.09.2020 besetzt.
-</div>-->
+</div>
 <br>
 
 <div class="row gallery">
@@ -155,7 +152,7 @@ Außerdem können Sie sich auch direkt bei uns, im Kolpinghaus, für einen freiw
 
 **REGIONAL**
 
-* [Abendrealschule Reutlingen](http://www.abendrealschule-reutlingen.de/){:target="_blank"}
+* [Abendrealschule Reutlingen](https://abendrealschulereutlingen.com/){:target="_blank"}
 * [Gewerbliche Schule Metzingen](http://www.gewerbeschule-metzingen.de/){:target="_blank"}
 * [Caritas in der Region](http://www.caritas-fils-neckar-alb.de/){:target="_blank"}
 
