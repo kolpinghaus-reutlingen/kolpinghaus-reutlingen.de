@@ -34,11 +34,15 @@ layout: html
 <script src="/js/photoswipe-custom.js"></script>
 
 {% else %}
-<link rel="stylesheet" href=" https://cdn.jsdelivr.net/combine/gh/kolpinghaus-rt/kolpinghaus-reutlingen.de-jekyll@{{site.commit}}/css/bootstrap.min.css,gh/kolpinghaus-rt/kolpinghaus-reutlingen.de-jekyll@{{site.commit}}/css/main.min.css">
-<link rel="stylesheet" href=" https://cdn.jsdelivr.net/combine/gh/kolpinghaus-rt/kolpinghaus-reutlingen.de-jekyll@{{site.commit}}/css/photoswipe.min.css,gh/kolpinghaus-rt/kolpinghaus-reutlingen.de-jekyll@{{site.commit}}/css/photoswipe-skin.min.css">
+<link rel="stylesheet" href="combined.min.css">
+<script async src="combined.min.js"></script>
+{% comment %}
 
-<script async src="https://cdn.jsdelivr.net/combine/gh/kolpinghaus-rt/kolpinghaus-reutlingen.de-jekyll@{{site.commit}}/js/jquery.min.js,gh/kolpinghaus-rt/kolpinghaus-reutlingen.de-jekyll@{{site.commit}}/js/popper.min.js,gh/kolpinghaus-rt/kolpinghaus-reutlingen.de-jekyll@{{site.commit}}/js/bootstrap.min.js"></script>
-<script async src="https://cdn.jsdelivr.net/combine/gh/kolpinghaus-rt/kolpinghaus-reutlingen.de-jekyll@{{site.commit}}/js/photoswipe.min.js,gh/kolpinghaus-rt/kolpinghaus-reutlingen.de-jekyll@{{site.commit}}/js/photoswipe-ui.min.js,gh/kolpinghaus-rt/kolpinghaus-reutlingen.de-jekyll@{{site.commit}}/js/photoswipe-custom.min.js"></script>
+https://cdn.jsdelivr.net/combine/gh/kolpinghaus-reutlingen/kolpinghaus-reutlingen.de-jekyll/site/css/bootstrap.min.css,gh/kolpinghaus-reutlingen/kolpinghaus-reutlingen.de-jekyll/site/css/main.min.css,gh/kolpinghaus-reutlingen/kolpinghaus-reutlingen.de-jekyll/site/css/photoswipe.min.css,gh/kolpinghaus-reutlingen/kolpinghaus-reutlingen.de-jekyll/site/css/photoswipe-skin.min.css
+
+https://cdn.jsdelivr.net/combine/gh/kolpinghaus-reutlingen/kolpinghaus-reutlingen.de-jekyll/site/js/jquery.min.js,gh/kolpinghaus-reutlingen/kolpinghaus-reutlingen.de-jekyll/site/js/popper.min.js,gh/kolpinghaus-reutlingen/kolpinghaus-reutlingen.de-jekyll/site/js/bootstrap.min.js,gh/kolpinghaus-reutlingen/kolpinghaus-reutlingen.de-jekyll/site/js/photoswipe.min.js,gh/kolpinghaus-reutlingen/kolpinghaus-reutlingen.de-jekyll/site/js/photoswipe-ui.min.js,gh/kolpinghaus-reutlingen/kolpinghaus-reutlingen.de-jekyll/site/js/photoswipe-custom.min.js
+
+{% endcomment %}
 
 {% endif %}
 {% include photoswipe %}
