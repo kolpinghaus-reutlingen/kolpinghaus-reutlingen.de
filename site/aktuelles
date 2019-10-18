@@ -13,22 +13,22 @@
 
 
 
-
-
-{% assign _until = "2019-09-31" | date: '%s' | plus: 0 %}
+{% assign _until = "2019-10-20" | date: '%s' | plus: 0 %}
 {% if _until > nowunix %}
 <div class="card mb-4">
   <div class="card-body">
-    <h3 class="card-title">Infos für FSJ und BFD Bewerber</h3>
+    <div class="alert alert-warning" role="alert">
+      <strong class="card-title">Bücherbörse am Sa 19.10</strong>
+    </div>
     <p class="card-text">
-      Wir haben eine große Nachfrage nach unserem Angebot für FSJler und Bufdis.
-      
-      Zurzeit sind alle Plätze bis zum 01.09.2020 besetzt.
+      Zur Pressemitteilung    
+      <a href="{% include img-link id='buecherboerse-oktober-2019.pdf' folder='pdf' %}">
+        <img src="{% include img-link id='buecherboerse-oktober-2019.jpg' folder='pdf' options='h_400' %}" style="max-width: 100%;" alt="">
+      </a>
     </p>
   </div>
 </div>
 {% endif %}
-
 
 
 
@@ -56,11 +56,13 @@
     </div>
       <br>
       <small>ab 14:30 Uhr bis ca. 16:30 Uhr</small>
+<!--
       <hr>
       <h3>Bücherbörsen</h3>
       <ul style="text-align:left;">
         <li>{% include pretty-date date="2019-10-19" mode=2 %}</il>
       </ul>
+       -->
   </div>
 </div>
 {% endif %}

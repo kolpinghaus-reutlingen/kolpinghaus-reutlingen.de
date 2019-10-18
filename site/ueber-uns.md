@@ -137,9 +137,9 @@ Außerdem können Sie sich auch direkt bei uns, im Kolpinghaus, für einen freiw
 <br>
 <hr>
 <br>
+## Kooperationspartner
 <div class="row">
 <div class="col" markdown="1">
-## Kooperationspartner
 
 **KOLPINGWERK**
 
@@ -164,7 +164,12 @@ Außerdem können Sie sich auch direkt bei uns, im Kolpinghaus, für einen freiw
 * [Kolping-Hilfsfond e.V.](http://www.kolping-hilfsfonds.de/){:target="_blank"}
 
 </div>
-<div class="col">
-<img src="{% include img-link id='kooperationspartner' options='h_500' %}" alt="Kooperationspartner" style="max-width: 100%;">
+<div class="col" markdown="1">
+**TSG Reutlingen (Basketball)** <a href="https://www.basketball-reutlingen.net/spielplan/" style="float: right;" target="_blank">➜ zum Spielplan</a>
+<a href="https://www.basketball-reutlingen.net/">
+  <img src="{% include img-link id='tsg-reutlingen-crop' options='h_400' %}" alt="Kooperationspartner" style="max-width: 100%; padding: 1rem 0 2rem 0;">
+</a>
+<br>
+<img src="{% include img-link id='kooperationspartner-wide' options='h_400' %}" alt="Kooperationspartner" style="max-width: 100%;">
 </div>
 </div>
