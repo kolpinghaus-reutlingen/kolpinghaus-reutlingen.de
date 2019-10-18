@@ -23,7 +23,7 @@
     <p class="card-text">
       Zur Pressemitteilung    
       <a href="{% include img-link id='buecherboerse-oktober-2019.pdf' folder='pdf' %}">
-        <img src="{% include img-link id='buecherboerse-oktober-2019.jpg' folder='pdf' options='h_400' %}" style="max-width: 100%;" alt="">
+        <img src="{% include img-link id='buecherboerse-oktober-2019.jpg' folder='pdf' options='h_400' %}" style="max-width: 100%;" alt="buecherboerse-oktober-2019">
       </a>
     </p>
   </div>
