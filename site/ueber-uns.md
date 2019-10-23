@@ -148,7 +148,6 @@ Außerdem können Sie sich auch direkt bei uns, im Kolpinghaus, für einen freiw
 * [Kolpingwerk Deutschland](http://www.kolping.de/){:target="_blank"}
 * [Kolpingwerk Diözesanverband Rottenburg-Stuttgart](http://www.kolping-dvrs.de/){:target="_blank"}
 * [Kolpingjugend&nbsp;Rottenburg-Stuttgart](http://www.kolpingjugend-stuttgart.de/){:target="_blank"}
-* [Kolpingsfamilie Reutlingen und Metzingen](http://reutlingen.kolping-es-rt.de){:target="_blank"}
 
 **REGIONAL**
 
