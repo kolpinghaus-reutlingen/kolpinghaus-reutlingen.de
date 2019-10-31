@@ -12,32 +12,12 @@
 {% endfor %}
 
 
-
-{% assign _until = "2019-10-20" | date: '%s' | plus: 0 %}
-{% if _until > nowunix %}
-<div class="card mb-4">
-  <div class="card-body">
-    <div class="alert alert-warning" role="alert">
-      <strong class="card-title">Bücherbörse am Sa 19.10 <br>von 9.00 bis 13.00 Uhr </strong>
-    </div>
-    <p class="card-text">
-      Zur Pressemitteilung    
-      <a href="{% include img-link id='buecherboerse-oktober-2019.pdf' folder='pdf' %}">
-        <img src="{% include img-link id='buecherboerse-oktober-2019.jpg' folder='pdf' options='h_400' %}" style="max-width: 100%;" alt="buecherboerse-oktober-2019">
-      </a>
-    </p>
-  </div>
-</div>
-{% endif %}
-
-
-
 {% if _date %}
 <div class="card mb-4">
   <div class="card-body">
     <h3 class="card-title">nächste Bücher Annahme</h3>
       <p class="card-text">{% include pretty-date date=_date mode=2 %}</p>
-      <a data-toggle="collapse" href="#collapseList" aria-expanded="false" aria-controls="collapseList">Alle Termine</a>
+      <a data-toggle="collapse" href="#collapseList" aria-expanded="false" aria-controls="collapseList">Weitere Termine</a>
       <div class="collapse" id="collapseList">
         <br>
         <ul style="text-align:left;">
@@ -67,6 +47,13 @@
 </div>
 {% endif %}
 
+<div class="card mb-4">
+  <div class="card-body">
+    <p class="card-text">
+      Ab sofort bieten wir 2 Plätze <br>für FSJ/BFD an.    
+    </p>
+  </div>
+</div>
 
 <!--
 {% assign _until = "2010-01-01" | date: '%s' | plus: 0 %}
