@@ -8,5 +8,5 @@ img:
     h: 3245
     alt: malen
 redirect_to:
-  - /artikel/2019-02-27-fruehlingserwachen-entdecke-den-kuenstler-in-dir/
+  - /artikel/2019-11-22-malen-mal-anders/
 ---
