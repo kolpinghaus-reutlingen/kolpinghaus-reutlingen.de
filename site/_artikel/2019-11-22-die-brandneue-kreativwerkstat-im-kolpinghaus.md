@@ -20,5 +20,4 @@ Wir lassen den Herbst ausklingen mit einer Kürbisschnitzerei…
 <img class="img-fluid rounded mb-4" src="{% include img-link id='2019-11-22-die-brandneue-kreativwerkstat-im-kolpinghaus-2' options='w_300' %}" alt="Mitarbeiter des Kolpinghauses" style="float: right; padding: 0 0 20px 20px;"/>
 …und kommen zu schönen Ergebnissen.
 </div>
-<br><br>
-<img class="img-fluid rounded mb-4" src="{% include img-link id='2019-11-22-malen-mal-anders-3' options='w_600' %}" alt="Mitarbeiter des Kolpinghauses" />
+
