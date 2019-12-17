@@ -45,9 +45,9 @@ layout: default
   {% if page.img.third %}
   <div class="col-md-4 gallery">
     {% if page.img.third.w and page.img.third.h %}
-    <a href="{% include img-link id=page.img.third.id %}" data-size="{{page.img.third.w}}x{{page.img.third.h}}" data-med-size="{{page.img.third.w}}x{{page.img.third.h}}" data-med"{% include img-link id=page.img.third.id %}" alt="{{page.img.third.alt}}">
+    <a href="{% include img-link id=page.img.third.id %}" data-size="{{page.img.third.w}}x{{page.img.third.h}}" data-med-size="{{page.img.third.w}}x{{page.img.third.h}}" data-med="{% include img-link id=page.img.third.id %}" alt="{{page.img.third.alt}}">
     {% else %}
-    <a href="{% include img-link id=page.img.third.id %}" data-size="3000x2000" data-med-size="3000x2000" data-med"{% include img-link id=page.img.third.id %}">
+    <a href="{% include img-link id=page.img.third.id %}" data-size="3000x2000" data-med-size="3000x2000" data-med="{% include img-link id=page.img.third.id %}">
     {% endif %}
     <img class="img-fluid" src="{% include img-link id=page.img.third.id options='h_500' %}" alt="{{page.img.third.alt}}">
     </a>

@@ -2,4 +2,4 @@ set -e
 
 
 # htmlproofer
-bundle exec htmlproofer ./_site --disable-external
+bundle exec htmlproofer --assume-extension --enforce-https  ./_site --log-level :debug
