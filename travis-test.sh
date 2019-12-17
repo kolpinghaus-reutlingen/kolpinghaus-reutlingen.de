@@ -2,4 +2,4 @@ set -e
 
 
 # htmlproofer
-bundle exec htmlproofer --assume-extension --enforce-https  ./_site --log-level :debug
+bundle exec htmlproofer  --check-html --check-img-http --enforce-https  ./_site 

@@ -18,4 +18,4 @@ Für den Leiter des Kolpinghauses Reutlingen, Hermann Rist, war es selbstverstä
 ganze Gruppe anschließend zu Berlinern und Kaffee ins Kolpinghaus Reutlingen einzuladen.
 Vielen Dank für die Unterstützung!
 
-[Zum Zeitungsartikel der GEA ](http://www.gea.de/region+reutlingen/reutlingen/aktion+sternenfunkeln++die+hilfsbereitschaft+ist+enorm.5627388.htm)
+[Zum Zeitungsartikel der GEA ](https://www.gea.de/reutlingen_artikel,-aktion-sternenfunkeln-die-hilfsbereitschaft-ist-enorm-_arid,5627388.html)
