@@ -152,23 +152,21 @@ Außerdem können Sie sich auch direkt bei uns, im Kolpinghaus, für einen freiw
 **KOLPINGWERK**
 
 * [Flyer]({% include img-link id='flyer-foerderverein' folder='ueber-uns' options='w_1080' %})
-* [Internationales Kolpingwerk](http://www.kolping.net/){:target="_blank"}
-* [Kolpingwerk Deutschland](http://www.kolping.de/){:target="_blank"}
-* [Kolpingwerk Diözesanverband Rottenburg-Stuttgart](http://www.kolping-dvrs.de/){:target="_blank"}
-* [Kolpingjugend&nbsp;Rottenburg-Stuttgart](http://www.kolpingjugend-stuttgart.de/){:target="_blank"}
+* [Internationales Kolpingwerk](https://www.kolping.net/){:target="_blank"}
+* [Kolpingwerk Deutschland](https://www.kolping.de/){:target="_blank"}
+* [Kolpingwerk Diözesanverband Rottenburg-Stuttgart](https://www.kolping-dvrs.de/){:target="_blank"}
 
 **REGIONAL**
 
 * [Abendrealschule Reutlingen](https://abendrealschulereutlingen.com/){:target="_blank"}
-* [Gewerbliche Schule Metzingen](http://www.gewerbeschule-metzingen.de/){:target="_blank"}
-* [Caritas in der Region](http://www.caritas-fils-neckar-alb.de/){:target="_blank"}
+* [Gewerbliche Schule Metzingen](https://www.gewerbeschule-metzingen.de/willkommen){:target="_blank"}
+* [Caritas in der Region](https://www.caritas-fils-neckar-alb.de/){:target="_blank"}
 
 **ÜBERREGIONAL**
 
 * [Kolping Onlineshop](https://www.kolping-shop.eu/){:target="_blank"}
-* [Verband der Kolpinghäuser](http://www.kolpinghaeuser.de/){:target="_blank"}
-* [Jugendwohnheime in Deutschland (Auswärts Zuhause)](http://www.auswaerts-zuhause.de/){:target="_blank"}
-* [Kolping-Hilfsfond e.V.](http://www.kolping-hilfsfonds.de/){:target="_blank"}
+* [Verband der Kolpinghäuser](https://www.kolpinghaeuser.de/){:target="_blank"}
+* [Jugendwohnheime in Deutschland (Auswärts Zuhause)](https://auswaerts-zuhause.de/){:target="_blank"}
 
 </div>
 <div class="col" markdown="1">
