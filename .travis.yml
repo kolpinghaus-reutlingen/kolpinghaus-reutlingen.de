@@ -11,9 +11,13 @@ before_script:
     - chmod a+x travis-*.sh
     - export DEPLOY_REPO="https://${REPO_KEY}@github.com/kolpinghaus-reutlingen/kolpinghaus-reutlingen.de.git"
 
-script: "./travis-build.sh"
-before_deploy: "./travis-test.sh"
-deploy: "./travis-deploy.sh"
+script: travis-build.sh
+
+before_deploy: travis-test.sh
+
+deploy: 
+  provider: script
+  script: travis-deploy.sh
 
 notifications:
   email:
