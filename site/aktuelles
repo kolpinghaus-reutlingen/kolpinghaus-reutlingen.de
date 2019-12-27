@@ -49,6 +49,18 @@
 
 <div class="card mb-4">
   <div class="card-body">
+    <h3 class="card-title">Weihnachts- und Neujahrskarte</h3>
+    <a href="{% include img-link id='2019-12-16-weihnachts-und-neujahrskarte.pdf' options='w_300' folder='artikel' %}">
+        <img src="{% include img-link id='2019-12-16-weihnachts-und-neujahrskarte-1.jpg' options='w_300' folder='artikel' %}" style="max-width: 100%;" alt="weihnachts-und-neujahrskarte_1"></a>
+    <a href="{% include img-link id='2019-12-16-weihnachts-und-neujahrskarte.pdf' options='w_300' folder='artikel' %}">
+        <img src="{% include img-link id='2019-12-16-weihnachts-und-neujahrskarte-2.jpg' options='w_300' folder='artikel' %}" style="max-width: 100%;" alt="weihnachts-und-neujahrskarte_2"></a>
+  </div>
+</div>
+
+
+
+<div class="card mb-4">
+  <div class="card-body">
     <p class="card-text">
       Ab sofort bieten wir 2 Plätze <br>für FSJ/BFD an.    
     </p>
