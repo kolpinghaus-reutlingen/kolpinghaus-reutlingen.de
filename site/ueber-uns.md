@@ -93,13 +93,6 @@ Weitere Informationen finden Sie unter:<br>
 [freiwilligendienste-rs.de](https://freiwilligendienste-rs.de/)<br><br>
 Außerdem können Sie sich auch direkt bei uns, im Kolpinghaus, für einen freiwilligen Dienst bewerben.
  
-<div class="card" style="width: max-content;">
-  <div class="card-body" style="width: max-content;">
-    <p class="card-text">
-      Ab sofort bieten wir 2 Plätze für FSJ/BFD an.    
-    </p>
-  </div>
-</div>
 </div>
 <br>
 
