@@ -47,15 +47,6 @@
 </div>
 {% endif %}
 
-
-<div class="card mb-4">
-  <div class="card-body">
-    <p class="card-text">
-      Ab sofort bieten wir 2 Plätze <br>für FSJ/BFD an.    
-    </p>
-  </div>
-</div>
-
 <!--
 {% assign _until = "2010-01-01" | date: '%s' | plus: 0 %}
 {% if _until > nowunix %}
