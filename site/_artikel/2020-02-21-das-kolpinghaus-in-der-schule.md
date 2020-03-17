@@ -21,4 +21,4 @@ Die Schülerin Sophia Stor der Kursstufe 2 des Albert-Einstein-Gymnasiums besch�
 Außerdem stattet die Religionsklasse des Albert-Einstein-Gymnasiums auch einen Besuch im Kolpinghaus ab, wobei die Schülerinnen und Schüler noch einen eindrücklichen Einblick in das Leben und Geschehen des Hauses bekommen sollen. 
 
 [GFS: Adolph Kolping-
-Glaube als Motivation für soziales Engagement?]({% include img-link id='gfs-religion-adolph-kolping---glaube-als-motivation-fuer-soziales-engagement.pdf' %})
+Glaube als Motivation für soziales Engagement?]({% include img-link id='gfs-religion-adolph-kolping--glaube-als-motivation-fuer-soziales-engagement.pdf' %})
