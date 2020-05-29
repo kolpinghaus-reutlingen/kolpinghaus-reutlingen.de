@@ -21,9 +21,9 @@ Die Redaktion ist bestrebt, in allen Publikationen die Urheberrechte der verwend
 Alle innerhalb des Internetangebotes genannten und ggf. durch Dritte geschützten Marken- und Warenzeichen unterliegen uneingeschränkt den Bestimmungen des jeweils gültigen Kennzeichenrechts und den Besitzrechten der jeweiligen eingetragenen Eigentümer. Allein aufgrund der bloßen Nennung ist nicht der Schluss zu ziehen, dass Markenzeichen nicht durch Rechte Dritter geschützt sind!
 Das Copyright für veröffentlichte, von der Redaktion selbst erstellte Objekte bleibt allein beim Autor der Readaktion der Seiten. Eine Vervielfältigung oder Verwendung solcher Grafiken, Tondokumente, Videosequenzen und Texte in anderen elektronischen oder gedruckten Publikationen ist ohne ausdrückliche Zustimmung der Redaktion / des Autors nicht gestattet.
 
-## 4. Datenschutz
+## 4. Hosting mit GitHub Pages
 
-Sofern innerhalb des Internetangebotes die Möglichkeit zur Eingabe persönlicher oder geschäftlicher Daten (Emailadressen, Namen, Anschriften) besteht, so erfolgt die Preisgabe dieser Daten seitens des Nutzers auf ausdrücklich freiwilliger Basis. Die Inanspruchnahme aller angebotenen Dienste ist - soweit technisch möglich und zumutbar - auch ohne Angabe solcher Daten bzw. unter Angabe anonymisierter Daten oder eines Pseudonyms gestattet. Die Nutzung der im Rahmen des Impressums oder vergleichbarer Angaben veröffentlichten Kontaktdaten wie Postanschriften, Telefon- und Faxnummern sowie Emailadressen durch Dritte zur Übersendung von nicht ausdrücklich angeforderten Informationen ist nicht gestattet. Rechtliche Schritte gegen die Versender von sogenannten Spam-Mails bei Verstößen gegen dieses Verbot sind ausdrücklich vorbehalten.
+Diese Webseite wird gehostet auf Servern der Github Inc., 88 Colin P Kelly Jr. Street, San Francisco, CA 94107, USA. GitHub kann beim Aufruf dieser Webseiten technische Informationen inklusive ihrer IP Adresse aufzeichnen. Weitere Informationen zum Umgang mit Nutzerdaten finden Sie in der Datenschutzerklärung von GitHub unter https://help.github.com/articles/github-privacy-policy.
 
 ## 5. Rechtswirksamkeit dieses Haftungsausschlusses
 
