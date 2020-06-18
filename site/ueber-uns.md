@@ -21,6 +21,19 @@ Fun, Action, Kultur und Bildung bilden den Schwerpunkt unserer Freizeitangebote 
 
 <br>
 
+<div class="alert alert-info" role="alert">
+  <div class="row">
+    <div class="col-lg-6 my-auto" style="height:min-content;">
+      <h3 class="mb-0">Stellenangebot Nachtbereitschaft</h3>
+    </div>
+    <div class="col-lg-6">
+      <a href="{% include img-link id='stellenangebot-nachtbereitschaft.pdf' folder='pdf' %}" class="btn btn-primary">zur PDF</a> 
+    </div>
+  </div>
+</div>
+<br>
+
+
 <div class="row">
 <div class="col-lg-6 gallery">
 <a href="{% include img-link id='mitarbeiter' %}" data-size="1920x1080" data-med-size="1920x1080" data-med="{% include img-link id='mitarbeiter' %}">
@@ -30,6 +43,9 @@ Fun, Action, Kultur und Bildung bilden den Schwerpunkt unserer Freizeitangebote 
 <div class="col-lg-6" markdown="1">
 
 ## Das Kolpinghaus Team
+
+
+
 
 Das Mitarbeiter-Team besteht aus vielen unterschiedlichen Berufsbildern. PädagogInnen, Verwaltungskräfte, Reinigungsfachkräfte, Küchenpersonal, Hausmeister, aber auch Ehrenamtliche, FSJler und BFDler sind in diesem Haus tätig.
 

@@ -12,6 +12,16 @@
 {% endfor %}
 
 
+<div class="card mb-4">
+  <img class="card-img-top" src="" alt="">
+  <div class="card-body">
+    <h3 class="card-title">Stellenangebot Nachtbereitschaft</h3>
+    <p class="card-text"></p>
+    <a href="{% include img-link id='stellenangebot-nachtbereitschaft.pdf' folder='pdf' %}" class="btn btn-primary">zur PDF</a>
+  </div>
+</div>
+
+
 {% if _date %}
 <div class="card mb-4">
   <div class="card-body">
