@@ -3,12 +3,12 @@
 
 {% assign _dates = "2020-01-03 2020-02-07 2020-03-06 2020-05-08 2020-06-05 2020-07-03 2020-09-04 2020-11-06 2020-12-04" | split: " " | sort %}
 {% for _element in _dates %}
-  {% capture _elementtime %}{{_element | date: '%s'}}{% endcapture %}
-  {% assign _elementtime = _elementtime | plus: 86400 %}
-  {% if _elementtime > nowunix %}
-    {% assign _date = _element %}
-    {% break %}
-  {% endif %}
+{% capture _elementtime %}{{_element | date: '%s'}}{% endcapture %}
+{% assign _elementtime = _elementtime | plus: 86400 %}
+{% if _elementtime > nowunix %}
+{% assign _date = _element %}
+{% break %}
+{% endif %}
 {% endfor %}
 
 
@@ -16,7 +16,8 @@
   <div class="card-body">
     <h3 class="card-title">Stellenangebot Nachtbereitschaft</h3>
     <p class="card-text"></p>
-    <a href="{% include img-link id='stellenangebot-nachtbereitschaft.pdf' folder='pdf' %}" class="btn btn-primary">zur PDF</a>
+    <a href="{% include img-link id='stellenangebot-nachtbereitschaft.pdf' folder='pdf' %}" class="btn btn-primary">zur
+      PDF</a>
   </div>
 </div>
 
@@ -26,7 +27,8 @@
   <img class="card-img-top" src="" alt="">
   <div class="card-body">
     <h3 class="card-title">Bücherannahme in Zeiten von Corona</h3>
-    <a href="{% link _artikel/2020-07-13-buecherannahme-in-zeiten-von-corona.md %}" class="btn btn-primary">Mehr &rarr;</a>
+    <a href="{% link _artikel/2020-07-13-buecherannahme-in-zeiten-von-corona.md %}" class="btn btn-primary">Mehr
+      &rarr;</a>
   </div>
 </div>
 
@@ -34,11 +36,12 @@
 <div class="card mb-4">
   <div class="card-body">
     <h3 class="card-title">nächste Bücher Annahme</h3>
-      <p class="card-text">{% include pretty-date date=_date mode=2 %}</p>
-      <a data-toggle="collapse" href="#collapseList" aria-expanded="false" aria-controls="collapseList">Weitere Termine</a>
-      <div class="collapse" id="collapseList">
-        <br>
-        <ul style="text-align:left;">
+    <p class="card-text">{% include pretty-date date=_date mode=2 %}</p>
+    <a data-toggle="collapse" href="#collapseList" aria-expanded="false" aria-controls="collapseList">Weitere
+      Termine</a>
+    <div class="collapse" id="collapseList">
+      <br>
+      <ul style="text-align:left;">
         {% capture _datetime %}{{_date | date: '%s'}}{% endcapture %}
         {% assign _datetime = _datetime | plus: 1 %}
 
@@ -46,21 +49,22 @@
         {% capture _elementtime %}{{_element | date: '%s'}}{% endcapture %}
         {% assign _elementtime = _elementtime | plus: 0 %}
         {% if _elementtime > _datetime %}
-          <li>{% include pretty-date date=_element mode=2 %}</il>
-        {% endif %}
+        <li>{% include pretty-date date=_element mode=2 %}</il>
+          {% endif %}
 
-        {% endfor %}
-        </ul>
-    </div>
-      <br>
-      <small>ab 14:30 Uhr bis ca. 16:30 Uhr</small>
-      <hr>
-      <h3>Bücherbörsen</h3>
-      <ul style="text-align:left;">
-        <li>{% include pretty-date date="2020-04-25" mode=2 %}</il>
-        <li>{% include pretty-date date="2020-10-24" mode=2 %}</il>
+          {% endfor %}
       </ul>
-      <a href="{% include img-link id='2020-01-24-buecherboerse-2020' folder='veranstaltungen' %}">Weitere Informationen</a>
+    </div>
+    <br>
+    <small>ab 14:30 Uhr bis ca. 16:30 Uhr</small>
+    <hr>
+    <h3>Bücherbörsen</h3>
+    <ul style="text-align:left;">
+      <li>{% include pretty-date date="2020-04-25" mode=2 %}</il>
+      <li>{% include pretty-date date="2020-10-24" mode=2 %}</il>
+    </ul>
+    <a href="{% include img-link id='2020-01-24-buecherboerse-2020' folder='veranstaltungen' %}">Weitere
+      Informationen</a>
   </div>
 </div>
 {% endif %}
