@@ -1,5 +1,5 @@
 ---
-title: "Hallenmasters in Ausnahmezeiten"
+title: Hallenmasters in Ausnahmezeiten
 date: 2020-10-14
 autor: GEA
 img:
@@ -8,6 +8,11 @@ img:
      alt: Die Turnierveranstalter des Pfullinger Hallenmasters.
      w: 1164
      h: 714
+images:
+  - id: 2020-10-14-hallenmasters-in-ausnahmezeiten-2
+    w: 3738
+    h: 5134
+    alt: 2020-10-14-hallenmasters-in-ausnahmezeiten-2
 ---
 
 **CVJM Pfullingen**
