@@ -9,7 +9,7 @@ active: ueber-uns
 img:
   folder: ueber-uns
 redirect_from:
-  - /en/ueber-uns/  
+  - /en/ueber-uns/
 ---
 
 Das Kolpinghaus in Reutlingen bietet kostengünstige Wohn- und Übernachtungsmöglichkeiten für junge Menschen. Unser Angebot richtet sich an Blockschüler, Auszubildende, Studenten, Lehramtsanwärter, Meisterschüler, junge Berufstätige und seit 2015 auch an unbegleitete minderjährige Flüchtlinge. Außerdem befinden wir uns in Bahnhofs- und Zentrumsnähe und in infrastrukturell gut angebundenem Umfeld.
@@ -24,10 +24,11 @@ Fun, Action, Kultur und Bildung bilden den Schwerpunkt unserer Freizeitangebote 
 <div class="alert alert-info" role="alert">
   <div class="row">
     <div class="col-lg-6 my-auto" style="height:min-content;">
-      <h3 class="mb-0">Stellenangebot Nachtbereitschaft</h3>
+      <h3 class="mb-0">Stellenangebote</h3>
     </div>
     <div class="col-lg-6">
-      <a href="{% include img-link id='stellenangebot-nachtbereitschaft.pdf' folder='pdf' %}" class="btn btn-primary">zur PDF</a> 
+        <a href="{% include img-link id='stellenangebot-paedagogissches-team.pdf' folder='pdf' %}" class="btn btn-primary">Päd.Team</a>
+        <a href="{% include img-link id='stellenangebot-nachtbereitschaft.pdf' folder='pdf' %}" class="btn btn-primary">Nachtbereitschaft</a> 
     </div>
   </div>
 </div>
