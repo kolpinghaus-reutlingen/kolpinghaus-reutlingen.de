@@ -16,17 +16,8 @@
   <div class="card-body">
     <h3 class="card-title">Stellenangebote</h3>
     <a href="{% include img-link id='stellenangebot-paedagogisches-team.pdf' folder='pdf' %}" class="btn btn-primary">Päd.Team</a>
-    <p><p>
+    <p></p>
     <a href="{% include img-link id='stellenangebot-nachtbereitschaft.pdf' folder='pdf' %}" class="btn btn-primary">Nachtbereitschaft</a>
-  </div>
-</div>
-
-
-<div class="card mb-4">
-  <div class="card-body">
-    <h3 class="card-title">Bücherannahme in Zeiten von Corona</h3>
-    <a href="{% link _artikel/2020-07-13-buecherannahme-in-zeiten-von-corona.md %}" class="btn btn-primary">Mehr
-      &rarr;</a>
   </div>
 </div>
 
@@ -35,6 +26,9 @@
   <div class="card-body">
     <div id="naechstebuecherboerse" style="display: none;">
       <h3 class="card-title">nächste Bücher Annahme</h3>
+      <div class="alert alert-info" role="alert">
+        Aufgrund von Corona müssen wir die beiden Termine für die Bücherannahme im November und Dezember 2020 leider absagen.
+      </div>
       <p class="card-text" id="naechstebuecherboerse-first"></p>
       <a data-toggle="collapse" href="#collapseList" aria-expanded="false" aria-controls="collapseList">Weitere
         Termine</a>
@@ -50,10 +44,11 @@
     <div>
       <h3>Bücherbörsen</h3>
       <ul style="text-align:left;">
-        <li>{% include pretty-date date="2020-10-24" mode=2 %}</il>
+        <li>{% include pretty-date date="2021-04-17" mode=2 %}</il>
+        <li>{% include pretty-date date="2021-10-23" mode=2 %}</il>
       </ul>
-      <a href="{% include img-link id='2020-01-24-buecherboerse-2020' folder='veranstaltungen' %}">Weitere
-        Informationen</a>
+      <!-- <a href="{% include img-link id='2020-01-24-buecherboerse-2020' folder='veranstaltungen' %}">Weitere
+        Informationen</a> -->
     </div>
   </div>
 </div>
@@ -76,7 +71,7 @@
   let dates = []
   let now = new Date()
 
-  "2020-01-03,2020-02-07,2020-03-06,2020-05-08,2020-06-05,2020-07-03,2020-09-04,2020-11-06,2020-12-04".split(",").forEach(element => {
+  "2021-02-05,2021-03-05".split(",").forEach(element => {
     let date = new Date(element)
     if (date < now) return
     dates.push(date)
