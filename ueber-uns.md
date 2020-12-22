@@ -138,10 +138,10 @@ Außerdem können Sie sich auch direkt bei uns, im Kolpinghaus, für einen freiw
 
 <div class="col" markdown="1">
 ### Weihnachts- und Neujahrskarte
-<a href="{% include img-link id='2019-12-16-weihnachts-und-neujahrskarte.pdf' options='w_300' folder='artikel' %}">
-<img src="{% include img-link id='2019-12-16-weihnachts-und-neujahrskarte-1.jpg' options='w_300' folder='artikel' %}" style="max-width: 100%;" alt="weihnachts-und-neujahrskarte_1"></a>
-<a href="{% include img-link id='2019-12-16-weihnachts-und-neujahrskarte.pdf' options='w_300' folder='artikel' %}">
-<img src="{% include img-link id='2019-12-16-weihnachts-und-neujahrskarte-2.jpg' options='w_300' folder='artikel' %}" style="max-width: 100%;" alt="weihnachts-und-neujahrskarte_2"></a>
+<a href="{% include img-link id='weihnachtskarte2020.pdf' folder='pdf' %}">
+<img src="{% include img-link id='weihnachtskarte2020.jpg' options='w_300,pg_1' folder='pdf' %}" style="max-width: 100%;" alt="weihnachts-und-neujahrskarte_1"></a>
+<a href="{% include img-link id='weihnachtskarte2020.pdf' folder='pdf' %}">
+<img src="{% include img-link id='weihnachtskarte2020.jpg' options='w_300,pg_2' folder='pdf' %}" style="padding-top: 5px;max-width: 100%;" alt="weihnachts-und-neujahrskarte_2"></a>
 </div>
 
 
