@@ -51,3 +51,5 @@
 <meta name="og:image" content="{% include img-link id='kolping-k' options='w_35,h_35' folder='assets' %}">
 <link rel="icon" href="{% include img-link id='favicon.ico' folder='assets' %}">
 <meta name="google-site-verification" content="{{site.google-site-verification}}" />
+<script async defer data-domain="kolpinghaus-reutlingen.de" src="https://plausible.io/js/plausible.js"></script>
+
