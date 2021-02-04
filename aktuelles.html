@@ -25,7 +25,7 @@
   <div class="card-body">
     <div id="naechstebuecherboerse" style="display: none;">
       <h3 class="card-title">nächste Bücher Annahme</h3>
-      <p class="card-text" id="naechstebuecherboerse-first"></p>
+      <p class="card-text" id="naechstebuecherboerse-first">Zurzeit gibt es keine Bücherannahmen</p>
       <a data-toggle="collapse" href="#collapseList" aria-expanded="false" aria-controls="collapseList" id="naechstebuecherboerse-expand" style="display: none;">Weitere
         Termine</a>
       <div class="collapse" id="collapseList">
@@ -40,8 +40,8 @@
     <div>
       <h3>Bücherbörsen</h3>
       <ul style="text-align:left;">
-        <li>{% include pretty-date date="2021-04-17" mode=2 %}</il>
         <li>{% include pretty-date date="2021-10-23" mode=2 %}</il>
+        Die Bücherbörse am {% include pretty-date date="2021-04-17" mode=2 %} ist abgesagt
       </ul>
       <!-- <a href="{% include img-link id='2020-01-24-buecherboerse-2020' folder='veranstaltungen' %}">Weitere
         Informationen</a> -->
@@ -68,7 +68,7 @@
   let dates = []
   let now = new Date()
 
-  "2021-03-05".split(",").forEach(element => {
+  "".split(",").forEach(element => {
     let date = new Date(element)
     if (date < now) return
     dates.push(date)
