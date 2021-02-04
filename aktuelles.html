@@ -26,7 +26,7 @@
     <div id="naechstebuecherboerse" style="display: none;">
       <h3 class="card-title">nächste Bücher Annahme</h3>
       <p class="card-text" id="naechstebuecherboerse-first"></p>
-      <a data-toggle="collapse" href="#collapseList" aria-expanded="false" aria-controls="collapseList">Weitere
+      <a data-toggle="collapse" href="#collapseList" aria-expanded="false" aria-controls="collapseList" id="naechstebuecherboerse-expand" style="display: none;">Weitere
         Termine</a>
       <div class="collapse" id="collapseList">
         <br>
@@ -61,6 +61,7 @@
   }
 
   let div_naechstebuecherboerse = document.getElementById("naechstebuecherboerse")
+  let a_naechstebuecherboerse = document.getElementById("naechstebuecherboerse-expand")
   let ul_naechstebuecherboerse = document.getElementById("naechstebuecherboerse-liste")
   let p_naechstebuecherboerse = document.getElementById("naechstebuecherboerse-first")
 
@@ -74,6 +75,9 @@
   })
 
   if (dates.length > 0) {
+    if (dates.length > 1) {
+      a_naechstebuecherboerse.style.display = "inherit"
+    }
     div_naechstebuecherboerse.style.display = "inherit"
     p_naechstebuecherboerse.innerHTML = format(dates.shift())
   }
