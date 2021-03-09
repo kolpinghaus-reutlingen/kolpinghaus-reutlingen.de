@@ -21,19 +21,6 @@ Fun, Action, Kultur und Bildung bilden den Schwerpunkt unserer Freizeitangebote 
 
 <br>
 
-<div class="alert alert-info" role="alert">
-  <div class="row">
-    <div class="col-lg-6 my-auto" style="height:min-content;">
-      <h3 class="mb-0">Stellenangebote</h3>
-    </div>
-    <div class="col-lg-6">
-        <a href="{% include img-link id='stellenangebot-paedagogisches-team.pdf' folder='pdf' %}" class="btn btn-primary">Päd.Team</a>
-        <a href="{% include img-link id='stellenangebot-nachtbereitschaft.pdf' folder='pdf' %}" class="btn btn-primary">Nachtbereitschaft</a> 
-    </div>
-  </div>
-</div>
-<br>
-
 
 <div class="row">
 <div class="col-lg-6 gallery">
