@@ -13,7 +13,7 @@
 
 <div class="card mb-4">
   <div class="card-body">
-    <div id="naechstebuecherboerse" style="display: none;">
+    <div id="naechstebuecherboerse">
       <h3 class="card-title">nächste Bücher Annahme</h3>
       <p class="card-text" id="naechstebuecherboerse-first">Zurzeit gibt es keine Bücherannahmen.</p>
       <a data-toggle="collapse" href="#collapseList" aria-expanded="false" aria-controls="collapseList" id="naechstebuecherboerse-expand" style="display: none;">Weitere
@@ -62,17 +62,19 @@
   let now = new Date()
 
   "".split(",").forEach(element => {
+    if (element == "") continue; 
     let date = new Date(element)
     if (date < now) return
     dates.push(date)
   })
+  
+
 
   if (dates.length > 0) {
     if (dates.length > 1) {
       a_naechstebuecherboerse.style.display = "inherit"
     }
     small_naechstebuecherboerse.style.display = "inherit"
-    div_naechstebuecherboerse.style.display = "inherit"
     p_naechstebuecherboerse.innerHTML = format(dates.shift())
   }
 
