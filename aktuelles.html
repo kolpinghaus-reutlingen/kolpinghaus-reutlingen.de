@@ -24,7 +24,7 @@
         </ul>
       </div>
       <br>
-      <small>ab 14:30 Uhr bis ca. 16:30 Uhr</small>
+      <small id="naechstebuecherboerse-time" style="display: none;">ab 14:30 Uhr bis ca. 16:30 Uhr</small>
       <hr>
     </div>
     <div>
@@ -56,6 +56,7 @@
   let a_naechstebuecherboerse = document.getElementById("naechstebuecherboerse-expand")
   let ul_naechstebuecherboerse = document.getElementById("naechstebuecherboerse-liste")
   let p_naechstebuecherboerse = document.getElementById("naechstebuecherboerse-first")
+  let small_naechstebuecherboerse = document.getElementById("naechstebuecherboerse-time")
 
   let dates = []
   let now = new Date()
@@ -70,6 +71,7 @@
     if (dates.length > 1) {
       a_naechstebuecherboerse.style.display = "inherit"
     }
+    small_naechstebuecherboerse.style.display = "inherit"
     div_naechstebuecherboerse.style.display = "inherit"
     p_naechstebuecherboerse.innerHTML = format(dates.shift())
   }
