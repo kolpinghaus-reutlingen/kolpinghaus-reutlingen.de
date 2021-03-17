@@ -37,6 +37,10 @@ layout: default
 				{% else %}
 					<h2 class="card-title">{{ item.title }}</h2>
 				{% endif %}
+
+        {% if item.subtitle %}
+        <h5> {{ item.subtitle }} </h5>
+        {% endif %}
 					<p class="card-text">
           			{% if item.description %}
           				{{ item.description }}
