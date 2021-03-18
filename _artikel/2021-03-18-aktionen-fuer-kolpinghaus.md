@@ -13,8 +13,6 @@ Viele der 10- bis 14-Jährigen sind zwar mit dem Ganztagsangebot der Schulen bes
 
 Und dieses bietet das Just For Kids-Konzept. Träger, die bereits auf reichlich Erfahrung in der Kinder- und Jugendarbeit zurückblicken können, haben spezielle Angebote für diese Altersgruppe in ihrem jeweiligen Stadtteil entwickelt. Unterstützt werden sie hierbei von der Stat Reutlingen un geben den Kindern dadurch Raum, sich zu entwickeln, Kompetenzen zu erwerben und gemeinsam zu wachsen.
 
----
-
 Der Tradition des Gesellenvaters Adolph Kolping folgend, bietet das Kolpinghaus Reutlingen als Wohnheim für junge Menschen "viel mehr als ein Dach über dem Kopf" - und das nun nicht mehr nur für Jugendliche, sondern als Teil des Just-for-Kids-Konzepts auch für insgesamt 505 Kinder im Alter zwischen 10 und 14 Jahren, die in der Stadtmitte leben. Das Team des Kolpinghauses hat sich einiges einfallen lassen: Malen und zeichnen, Theater, Fußball oder Tischtennis spielen, gemeinsam kochen oder backen, Fahrradausflüge, musizieren und singen, eine Bäckerei besichtigen oder den Zoo besuchen.
 
 Auftakt nach der Corona-Zwangspause wird pünktlich zu Ostern eine Osternest-Suche sein. Dazu werden in der Stadtmitte Osterkarten verteilt. Wenn das kleine Rätsel auf der Osterkarte gelöst und der Briefkasten des Osterhasen gefunden wurde, gibt es verschiedene Osternester zu gewinnen, die der Osterhase am 3. April am Kolpinghaus übergibt. Nähere Informationen gibt es auf den Karten und auf der [Homepage]({% link _veranstaltungen/2021-03-15-der-just-for-kids-osterhase-kommt-ins-kolpinghaus.md %}).
