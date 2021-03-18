@@ -2,7 +2,7 @@
 title: Aktionen für Kinder
 subtitle: Das Kolpinghaus bietet wieder Aktionen unter dem Motto "Just for Kids" für Zehn- bis 15-Jährige an
 date: 2021-03-18
-autor: GEA
+autor: Reutlinger Nachrichten
 ---
 
 <!--mehr-->
