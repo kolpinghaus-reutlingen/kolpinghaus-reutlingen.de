@@ -3,7 +3,6 @@ title: Osterhase kommt ins Kolpinghaus
 subtitle: Viele Angebote bei Just for Kids
 date: 2021-03-17
 autor: GEA
-published: false
 ---
 
 <!--mehr-->
