@@ -58,12 +58,12 @@
   let now = new Date()
 
   "".split(",").forEach(element => {
-    if (element == "") continue; 
+    if (element == "") return;
     let date = new Date(element)
     if (date < now) return
     dates.push(date)
   })
-  
+
 
 
   if (dates.length > 0) {
