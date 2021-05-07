@@ -5,10 +5,10 @@ autor: GEA
 description: Unser Mitarbeiter Nikola Gaurina, glänzte am Samstag gegen den SG EK Karlsruhe mit einer fantastischen Leistung. Dazu wollen wir ihm gratulieren und hoffen, dass er an diese Leistung weiter anknüpfen kann. Wir Kolleginnen und Kollegen im Kolpinghaus sind stolz auf ihn!
 img:
    third:
-     id: 2020-10-08-gala-auftritt-von-gaurina
+     id: 2020-10-08-gala-auftritt-von-gaurina-2
      alt: Nikola Gaurina (links) war der Garant dür den Auftakssieg der Ravens
-     w: 357
-     h: 470
+     w: 670
+     h: 374
 ---
 
 Er könnte mit seinen bereits 37 Jahren theoretisch der Vater von Zweidrittel seiner 20 Jahren und jüngeren Mitspieler sein. Wenn man Nikola Gaurina dann aber Basketballspielen erlebt, merkt man ihm sein Alter überhaupt nicht negativ an. Ganz im Gegenteil. Der Kroate war schon in der vergangenen Saison hinter den Punktesammlern Damir Dronjic und dem mittlerweile in die USA zurückgekehrten Marques Charlton der Garant für den Erfolg der TSG Volksbank Reutlingen in der 2. Regionalliga Baden-Württemberg.
