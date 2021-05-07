@@ -16,8 +16,7 @@ Die Basketballer der TSG Volksbank Reutlingen lassen nichts unversucht, um von d
 
 Sebastian Boschert, der für Sportorganisation und Spielbetrieb zuständige Vizepräsident beim Basketballverband, Baden-Württemberg (BBW), bestätigte eine geplante Aufstiegsrunde, zu der sich aus der 2. Regio neben den Reutlingern auch der USC Freiburg und die TSV Wieblignen Füchse angemeldet haben. "Das Ganze Angebot an die Vereine, die unbedingt aufsteigen wollen", erklärte der Verbandsfunktionär.
 
-
----
+<!-- -->
 
 Die Reutlinger habe diesbezüglich bereits ihren Hut in den Ring geworfen. Erste Gespräche mit dem Sportamt der Stadt Reutlingen seien bereits geführt worden, berichten die Tsuknidis-Brüder. Als Ort wurde die TSG-Heimspielstätte IKG-Halle in der Charlottenstraße anvisiert; als Termin wurde entweder der 12. oder 9. Juni ins Auge gefasst. Es soll sogar bereits ein Hygiene-Konzept vorliegen, das durch eine Kooperation mit dem Fitnessstudio easysports tagesaktuelle Coronatests ermöglichen würde.
 
@@ -27,7 +26,7 @@ Völlig unklar ist allen drei teilnehmenden Vereinen noch, wie sie sich auf dies
 
 Sollte das Turnier nicht gespielt werden können, gibt es für die Reutlinger nach ersten Plätzen in der aktuellen und der vorangegangenen Spielzeit, die beide coronabedingt abgebrochen und später annulliert wurden, sowie den drei Runden zuvor, in denen die TSG jeweils Zweiter wurde, eine weitere Aufstiegshoffnung. Der Verband hat nämlich die Möglichkeit, eine Wildcard für die 1. Regio zu vergeben - und diese hätte aus Sicht der Tsuknidis-Brüder natürlich nur ihr Team verdient.
 
----
+<!-- -->
 
 ## "Das ist ein Angebot an die Vereine, die unbedingt aufsteigen wollen"
 
