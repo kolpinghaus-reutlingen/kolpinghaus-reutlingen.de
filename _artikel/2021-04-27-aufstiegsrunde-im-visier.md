@@ -34,6 +34,8 @@ Die Saison wurde aufgrund der steigenden Fallzahlen durch die Corona-Pandemie En
 
 Dabei tritt der BBW nur als Veranstalter auf. Ausrichter soll einer der drei teilnehmenden Vereine sein. Diese haben vom Verband bereits den Hinweis bekommen, dass sie zwar bei der Umsetzung der Veranstaltung unterstützt würden, "dass sie sich um Genehmigungen aber selbst kümmern müssen" (Boschert). Welcher bürokratischer Aufwand auf den ausrichtenden Verein zukommt, vermochte der BBW-Vizepräsident nicht sagen.
 
+<br>
+<br>
 
 ## Kolpinghaus Reutlingen ist Partner der TSG Basketballer Ravens.
 
