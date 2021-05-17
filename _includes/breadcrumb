@@ -21,6 +21,11 @@
 		<a href="{% link projekte.html %}">Projekte</a>
 	</li>
 	{% endif %}
+	{% if page.collection == "posts" %}
+	<!-- <li class="breadcrumb-item">
+		Beiträge
+	</li>  -->
+	{% endif %}
 	{% if page.active == "ueber-uns" and page.title != "Über uns" and page.title != "About Us"  %}
 	<li class="breadcrumb-item">
 		{% if page.i18n.language == "en" %}
