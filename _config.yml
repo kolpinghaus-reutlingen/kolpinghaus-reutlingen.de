@@ -48,6 +48,8 @@ collections:
     output: true
   projekte:
     output: true
+  posts:
+    output: true
 
 defaults:
   - scope:
@@ -77,6 +79,15 @@ defaults:
       permalink: /projekt/:path/
       img:
         folder: projekte
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      active: posts
+      permalink: /posts/:path/
+      img:
+        folder: posts
 
 exclude:
   - README.md
