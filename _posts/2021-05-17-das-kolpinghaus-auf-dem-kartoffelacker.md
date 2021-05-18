@@ -10,7 +10,7 @@ Unter dem Motto **Zusammen Wachsen lassen** verschenkt die Diözese Rottenburg-S
 <img style="height: 2rem;" src="{% include img-link id='2021-05-17-das-kolpinghaus-auf-dem-kartoffelacker-kartoffeln-openmoji-27A1' %}">Begleitet uns und die Kartoffeln in unserem Kartoffeltagebuch von der Entstehung des Kartoffelackers bis zur Ernte und unserem Kartoffelfest im Herbst.
 
 <div class="gallery">
-<a href="{% include img-link options='c_fill,g_south,h_0.8,w_1.0/c_fill,g_south,h_1.0,w_0.7' id='2021-05-17-das-kolpinghaus-auf-dem-kartoffelacker-kartoffelkiste' %}" data-size="1496x844" data-med-size="1496x844" data-med="{% include img-link options='c_fill,g_south,h_0.8,w_1.0/c_fill,g_south,h_1.0,w_0.7' id='2021-05-17-das-kolpinghaus-auf-dem-kartoffelacker-kartoffelkiste' %}">
+<a href="{% include img-link options='c_fill,g_south,h_0.8,w_1.0/c_fill,g_south,h_1.0,w_0.7' id='2021-05-17-das-kolpinghaus-auf-dem-kartoffelacker-kartoffelkiste' %}" data-size="1047x675" data-med-size="1047x675" data-med="{% include img-link options='c_fill,g_south,h_0.8,w_1.0/c_fill,g_south,h_1.0,w_0.7' id='2021-05-17-das-kolpinghaus-auf-dem-kartoffelacker-kartoffelkiste' %}">
 <img class="img-fluid mb-4 rounded mx-auto d-block w-75" src="{% include img-link id='2021-05-17-das-kolpinghaus-auf-dem-kartoffelacker-kartoffelkiste' options='c_fill,g_south,h_0.8,w_1.0/c_fill,g_south,h_1.0,w_0.7/w_800' %}" alt="kartoffelkiste" />
 </a>
 </div>
