@@ -22,7 +22,7 @@
         </ul>
       </div>
       <br>
-      <small id="naechstebuecherboerse-time" style="display: none;">ab 13:00 Uhr bis ca. 16:00 Uhr</small>
+      <small id="naechstebuecherboerse-time" style="display: none;">ab 14:00 Uhr bis ca. 16:00 Uhr</small>
       <hr>
     </div>
     <div>
@@ -59,7 +59,7 @@
   let dates = []
   let now = new Date()
 
-  "2021-06-11".split(",").forEach(element => {
+  "2021-06-11,2021-07-02".split(",").forEach(element => {
     if (element == "") return;
     let date = new Date(element)
     if (date < now) return
