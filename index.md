@@ -30,7 +30,7 @@ redirect_from:
 
 ---
 <br>
-Wir sind ein multikulturelles Haus, in dem Blockschüler, Auszubildende, Studenten, Lehramtsanwärter, Meisterschüler, junge Berufstätige und unbegleitete minderjährige Flüchtlinge zusammen leben.
+Das Kolpinghaus in Reutlingen bietet kostengünstige Wohn- und Übernachtungsmöglichkeiten für junge Menschen. Unser Angebot richtet sich an Blockschüler, Auszubildende, Studenten, Lehramtsanwärter, Meisterschüler und junge Berufstätige.
 
 ---
 
