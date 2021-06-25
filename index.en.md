@@ -29,7 +29,7 @@ redirect_from:
 
 ---
 <br>
-We are a multicultural house, where trainees, students, teaching-candidates, master students, young workers and unaccompanied underaged refugees live together.
+The Kolping House in Reutlingen offers low-cost accommodation for young people. Our offer is aimed at apprentice, students, trainee teachers, master students and young employees.
 
 ---
 
