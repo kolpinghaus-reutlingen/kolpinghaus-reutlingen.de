@@ -29,7 +29,7 @@ redirect_from:
 
 ---
 <br>
-The Kolping House in Reutlingen offers low-cost accommodation for young people. Our offer is aimed at apprentice, students, trainee teachers, master students and young employees.
+The Kolping House in Reutlingen offers low-cost accommodation for young people. Our offer is aimed at apprentice, students, master students and young employees.
 
 ---
 
