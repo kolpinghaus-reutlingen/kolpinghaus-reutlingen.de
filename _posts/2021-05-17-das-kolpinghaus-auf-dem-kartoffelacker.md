@@ -36,7 +36,7 @@ Weitere Informationen zur Geschichte der Kartoffel und der Kartoffelaktion gibt 
 
 Die Kartoffeln keimen noch geduldig bis sie nach den Eisheiligen endlich in die Erde dürfen. Neben den verschenkten Kartoffelsorten dürfen auch noch einige andere - neue und alte - Sorten auf unserem Kartoffelacker gemeinsam wachsen: Rosa Tannenzapfen, Jubel, Bambercha Grumbern oder Asperga sind nur einige der vielen spannenden Sorten, die es zu entdecken gibt! 
 
-Hier in unserem Kartoffeltagebuch berichten wir, wie es mit den Kartoffeln weitergeht und in der Bildergalerie könnt ihr schon einige Fotos von der Entstehung des Kartoffelackers sehen! <br>Viel Spaß <img style="height: 2rem;" src="{% include img-link id='2021-05-17-das-kolpinghaus-auf-dem-kartoffelacker-kartoffeln-openmoji-1F600' %}">
+Hier in unserem Kartoffeltagebuch berichten wir, wie es mit den Kartoffeln weitergeht und in der Bildergalerie könnt ihr schon einige Fotos von der Entstehung des Kartoffelackers sehen! <br>Viel Spaß <img class="openmoji" src="{% include img-link id='2021-05-17-das-kolpinghaus-auf-dem-kartoffelacker-kartoffeln-openmoji-1F600' %}">
 
 <div class="row gallery">
 <a class="col" href="{% include img-link id='2021-05-17-das-kolpinghaus-auf-dem-kartoffelacker-Umgraben-1' %}" data-size="1200x1600" data-med-size="1200x1600" data-med="{% include img-link id='2021-05-17-das-kolpinghaus-auf-dem-kartoffelacker-Umgraben-1' %}">
