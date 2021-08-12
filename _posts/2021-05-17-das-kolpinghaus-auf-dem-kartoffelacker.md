@@ -33,6 +33,8 @@ Weitere Informationen zur Geschichte der Kartoffel und der Kartoffelaktion gibt 
 
 ### Kartoffeltagebuch
 
+<br>
+
 **Mai**
 
 Die Kartoffeln keimen noch geduldig bis sie nach den Eisheiligen endlich in die Erde dürfen. Neben den verschenkten Kartoffelsorten dürfen auch noch einige andere - neue und alte - Sorten auf unserem Kartoffelacker gemeinsam wachsen: Rosa Tannenzapfen, Jubel, Bambercha Grumbern oder Asperga sind nur einige der vielen spannenden Sorten, die es zu entdecken gibt!
@@ -50,6 +52,8 @@ Hier in unserem Kartoffeltagebuch berichten wir, wie es mit den Kartoffeln weite
 <img class="img-fluid mb-4 rounded" src="{% include img-link id='2021-05-17-das-kolpinghaus-auf-dem-kartoffelacker-mai-3' options='w_800' %}" alt="Mai-3" />
 </a>
 </div>
+
+<hr><br>
 
 **Juni**
 
@@ -96,5 +100,15 @@ Frei nach dem Motto „ein Bild sagt mehr als tausend Worte“ haben wir euch hi
 </a>
 <a class="col-lg-3 col-md-4 col-xs-6" href="{% include img-link id='2021-05-17-das-kolpinghaus-auf-dem-kartoffelacker-juni-13' %}" data-size="6000x4000" data-med-size="6000x4000" data-med="{% include img-link id='2021-05-17-das-kolpinghaus-auf-dem-kartoffelacker-juni-13' %}">
 <img class="img-fluid mb-4 rounded" src="{% include img-link id='2021-05-17-das-kolpinghaus-auf-dem-kartoffelacker-juni-13' options='w_800' %}" alt="Juni-13" />
+</a>
+</div>
+
+<hr><br>
+
+**Juli**
+
+<div class="row">
+<a class="col" href="{% include img-link id='2021-05-17-das-kolpinghaus-auf-dem-kartoffelacker-juli.pdf' %}">
+<img class="img-fluid mb-4 rounded img-thumbnail" src="{% include img-link id='2021-05-17-das-kolpinghaus-auf-dem-kartoffelacker-juli.jpg' %}" alt="kartoffelschilder" />
 </a>
 </div>
