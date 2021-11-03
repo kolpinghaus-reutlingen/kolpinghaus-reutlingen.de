@@ -8,7 +8,7 @@ date: 2021-05-17
 
 Unter dem Motto **Zusammen Wachsen lassen** verschenkt die Diözese Rottenburg-Stuttgart fünf seltene Kartoffelsorten, die wir als Kolpinghaus auf unserem Gütle an der Achalm anbauen.
 
-<img style="height: 2rem;" src="{% include img-link id='2021-05-17-das-kolpinghaus-auf-dem-kartoffelacker-kartoffeln-openmoji-27A1' %}">Begleitet uns und die Kartoffeln in unserem Kartoffeltagebuch von der Entstehung des Kartoffelackers bis zur Ernte und unserem Kartoffelfest im Herbst.
+<img class="openmoji" src="{% include img-link id='openmoji-27A1' folder='' %}">Begleitet uns und die Kartoffeln in unserem Kartoffeltagebuch von der Entstehung des Kartoffelackers bis zur Ernte und unserem Kartoffelfest im Herbst.
 
 <div class="gallery">
 <a href="{% include img-link options='c_fill,g_south,h_0.8,w_1.0/c_fill,g_south,h_1.0,w_0.7' id='2021-05-17-das-kolpinghaus-auf-dem-kartoffelacker-kartoffelkiste' %}" data-size="1047x675" data-med-size="1047x675" data-med="{% include img-link options='c_fill,g_south,h_0.8,w_1.0/c_fill,g_south,h_1.0,w_0.7' id='2021-05-17-das-kolpinghaus-auf-dem-kartoffelacker-kartoffelkiste' %}">
@@ -39,7 +39,7 @@ Weitere Informationen zur Geschichte der Kartoffel und der Kartoffelaktion gibt 
 
 Die Kartoffeln keimen noch geduldig bis sie nach den Eisheiligen endlich in die Erde dürfen. Neben den verschenkten Kartoffelsorten dürfen auch noch einige andere - neue und alte - Sorten auf unserem Kartoffelacker gemeinsam wachsen: Rosa Tannenzapfen, Jubel, Bambercha Grumbern oder Asperga sind nur einige der vielen spannenden Sorten, die es zu entdecken gibt!
 
-Hier in unserem Kartoffeltagebuch berichten wir, wie es mit den Kartoffeln weitergeht und in der Bildergalerie könnt ihr schon einige Fotos von der Entstehung des Kartoffelackers sehen! <br>Viel Spaß <img class="openmoji" src="{% include img-link id='2021-05-17-das-kolpinghaus-auf-dem-kartoffelacker-kartoffeln-openmoji-1F600' %}">
+Hier in unserem Kartoffeltagebuch berichten wir, wie es mit den Kartoffeln weitergeht und in der Bildergalerie könnt ihr schon einige Fotos von der Entstehung des Kartoffelackers sehen! <br>Viel Spaß <img class="openmoji" src="{% include img-link id='openmoji-1F600' folder='' %}">
 
 <div class="row gallery">
 <a class="col" href="{% include img-link id='2021-05-17-das-kolpinghaus-auf-dem-kartoffelacker-mai-1' %}" data-size="1200x1600" data-med-size="1200x1600" data-med="{% include img-link id='2021-05-17-das-kolpinghaus-auf-dem-kartoffelacker-mai-1' %}">
@@ -59,7 +59,7 @@ Hier in unserem Kartoffeltagebuch berichten wir, wie es mit den Kartoffeln weite
 
 Die Eisheiligen haben uns besonders hier an der Alb länger in Schach gehalten als gedacht, doch jetzt sind die Kartoffeln endlich in der Erde und bereit, zu wachsen. Nach längeren Kälteperioden als üblich hoffen wir nun, dass sich die Kartoffeln trotz des - bis dato - recht regnerischen Frühjahrs gut entwickeln können.
 
-Frei nach dem Motto „ein Bild sagt mehr als tausend Worte“ haben wir euch hier eine Bilderserie zur Setzung der Kartoffeln eingestellt. Das Pflanzen hat uns mit unseren vierbeinigen Zuschauern gleich doppelt so viel Spaß gemacht und wir wünschen euch mindestens genauso viel beim Anschauen! <img class="openmoji" src="{% include img-link id='2021-05-17-das-kolpinghaus-auf-dem-kartoffelacker-kartoffeln-openmoji-1F600' %}">
+Frei nach dem Motto „ein Bild sagt mehr als tausend Worte“ haben wir euch hier eine Bilderserie zur Setzung der Kartoffeln eingestellt. Das Pflanzen hat uns mit unseren vierbeinigen Zuschauern gleich doppelt so viel Spaß gemacht und wir wünschen euch mindestens genauso viel beim Anschauen! <img class="openmoji" src="{% include img-link id='openmoji-1F600' folder='' %}">
 
 <div class="row gallery">
 <a class="col-lg-3 col-md-4 col-xs-6" href="{% include img-link id='2021-05-17-das-kolpinghaus-auf-dem-kartoffelacker-juni-01' %}" data-size="6000x4000" data-med-size="6000x4000" data-med="{% include img-link id='2021-05-17-das-kolpinghaus-auf-dem-kartoffelacker-juni-01' %}">
