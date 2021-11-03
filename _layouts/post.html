@@ -19,11 +19,11 @@ layout: default
     {% if page.img.main %}
     <div class="gallery">
       {% if page.img.main.w and page.img.main.h %}
-      <a href="{% include img-link id=page.img.main.id %}" data-size="{{page.img.main.w}}x{{page.img.main.h}}" data-med-size="{{page.img.main.w}}x{{page.img.main.h}}" data-med="{% include img-link id=page.img.main.id %}" alt="{{page.img.main.alt}}">
+      <a href="{% include img-link id=page.img.main.id options=page.img.main.options %}" data-size="{{page.img.main.w}}x{{page.img.main.h}}" data-med-size="{{page.img.main.w}}x{{page.img.main.h}}" data-med="{% include img-link id=page.img.main.id %}" alt="{{page.img.main.alt}}">
       {% else %}
-      <a href="{% include img-link id=page.img.main.id %}" data-size="3000x2000" data-med-size="3000x2000" data-med="{% include img-link id=page.img.main.id %}" alt="{{page.img.main.alt}}">
-      {% endif %}
-      <img class="img-fluid rounded" src="{% include img-link id=page.img.main.id options='w_700' %}" alt="{{page.img.main.alt}}">
+      <a href="{% include img-link id=page.img.main.id options=page.img.main.options %}" data-size="3000x2000" data-med-size="3000x2000" data-med="{% include img-link id=page.img.main.id %}" alt="{{page.img.main.alt}}">
+      {% endif %} {% assign img-options = 'w_700' | append: page.img.main.options %}
+      <img class="img-fluid rounded" src="{% include img-link id=page.img.main.id options=img-options %}" alt="{{page.img.main.alt}}">
       </a>
     </div>
     <br><br><br>
