@@ -1,7 +1,6 @@
 ---
 title: Theater der Generationen
 date: 2021-11-03
-autor: Luisa Tamm
 img:
   main:
     id: theater-der-generationen
