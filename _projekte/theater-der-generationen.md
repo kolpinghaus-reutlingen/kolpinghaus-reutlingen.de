@@ -26,7 +26,7 @@ Falls du Lust hättest, mich und natürlich **neue Leute** (aus Fleisch und Blut
 
 **Wo?** Kolpinghaus Reutlingen, Liststraße 26, Theatersaal
 
-Ich freue mich auf dich und hoffe, dass wir uns ineinander verlieben! 😉
+Ich freue mich auf dich und hoffe, dass wir uns ineinander verlieben! <img class="openmoji" src="{% include img-link id='openmoji-1F609' folder='' %}">
 
 ---
 {: class="mt-5"}
