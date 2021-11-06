@@ -36,7 +36,8 @@ Ach, und noch etwas …
 <div class="row" markdown=1>
 ![Tara]({% include img-link id='theater-der-generationen-tara' options='w_300' %}){: style="width:10rem" class="col img-fluid float-start rounded"}
 
-Das hier ist Tara, eine meiner Freundinnen. Sie ist 22 Jahre alt und studiert Psychologie. In ihrer Freizeit liest sie gerne humorvolle, aber auch melancholische Prosa und Poesie, sie schreibt – Briefe, Tagebuch und Gedichte –, und gerne steigt sie auf Hügel und Berge oder tanzt Swing bis tief in die Nacht, bis sie ganz nass und aus der Puste ist. Und noch etwas: wenn sie ins Theater geht, flattern kleine Schmetterlinge in ihrem Bauch. Deshalb wird sie mich, das **Theater der Generationen**, dieses Jahr im Rahmen ihres Praktikums im Kolpinghaus Reutlingen leiten.
+
+Das hier ist Tara, eine meiner Freundinnen. Sie kommt aus Slowenien (zur Hälfte ist sie aber auch Deutsche) und studiert Psychologie. In ihrer Freizeit liest sie gerne humorvolle, aber auch melancholische Prosa und Poesie, sie schreibt – Briefe, Tagebuch und Gedichte –, und gerne steigt sie auf Hügel und Berge oder tanzt Swing bis tief in die Nacht, bis sie ganz nass und aus der Puste ist. Und noch etwas: wenn sie ins Theater geht, flattern kleine Schmetterlinge in ihrem Bauch. Deshalb wird sie mich, das **Theater der Generationen**, dieses Jahr im Kolpinghaus Reutlingen leiten. 
 {: class="col"}
 </div>
 
