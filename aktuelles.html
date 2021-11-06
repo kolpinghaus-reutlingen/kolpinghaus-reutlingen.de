@@ -35,9 +35,31 @@
 
 <div class="card mb-4">
   <div class="card-body">
+    <div>
+      <p class="card-text" id="naechstebuecherboerse-first">Derzeit <strong>keine</strong> Bücherannahme.</p>
+    </div>
+    <hr>
+    <div>
+      <h3 class="card-title">Bücherverkauf in der Oberen Gerberstraße</h3>
+      <p class="card-text">{% include pretty-date date="2021-07-23" mode=2 %}</p>
+      <a href="{% link _veranstaltungen/2021-11-13-buecherverkauf-in-der-oberen-gerberstrasse.md %}" class="btn btn-primary">Mehr &rarr;</a>
+    </div>
+    <hr>
+    <div>
+      <h3>Bücherbörsen</h3>
+      <ul style="text-align:left;">
+        <li>{% include pretty-date date="2022-07-23" mode=2 %}</il>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<!-- 
+<div class="card mb-4">
+  <div class="card-body">
     <div id="naechstebuecherboerse">
       <h3 class="card-title">nächste Bücher Annahme</h3>
-      <p class="card-text" id="naechstebuecherboerse-first">Zurzeit gibt es keine Bücherannahmen.</p>
+      <p class="card-text" id="naechstebuecherboerse-first">Derzeit <strong>keine</strong> Bücherannahme.</p>
       <a data-toggle="collapse" href="#collapseList" aria-expanded="false" aria-controls="collapseList" id="naechstebuecherboerse-expand" style="display: none;">Weitere
         Termine</a>
       <div class="collapse" id="collapseList">
@@ -54,11 +76,6 @@
       <ul style="text-align:left;">
         <li>{% include pretty-date date="2022-07-23" mode=2 %}</il>
       </ul>
-      <!-- <div class="alert alert-danger" role="alert">
-        Die Bücherbörse am {% include pretty-date date="2021-04-17" mode=2 %} ist abgesagt.
-      </div> -->
-      <!-- <a href="{% include img-link id='2020-01-24-buecherboerse-2020' folder='veranstaltungen' %}">Weitere
-        Informationen</a> -->
     </div>
   </div>
 </div>
@@ -107,7 +124,7 @@
   })
 
 
-</script>
+</script> -->
 
 <!--
 <div class="card mb-4">
