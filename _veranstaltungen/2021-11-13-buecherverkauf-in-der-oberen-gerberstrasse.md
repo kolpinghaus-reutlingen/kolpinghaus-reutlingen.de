@@ -1,6 +1,7 @@
 ---
 title: Bücherverkauf in der Oberen Gerberstraße
 date: 2021-11-13
+published: false
 ---
 <!--mehr--> 
 Da die vergangenen Bücherbörsen leider abgesagt wurden, hat sich das Kolpinghaus entschieden einen Ladenverkauf zu organisieren.
