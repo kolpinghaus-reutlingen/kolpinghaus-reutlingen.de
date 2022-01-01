@@ -165,7 +165,7 @@ Außerdem können Sie sich auch direkt bei uns, im Kolpinghaus, für einen freiw
 
 </div>
 <div class="col" markdown="1">
-**TSG Reutlingen (Basketball)** <a href="https://www.basketball-reutlingen.net/spielplan/" style="float: right;" target="_blank">➜ zum Spielplan</a>
+**TSG Reutlingen (Basketball)** <a href="https://www.basketball-reutlingen.net/tabelle-spielplan/" style="float: right;" target="_blank">➜ zum Spielplan</a>
 <a href="https://www.basketball-reutlingen.net/">
   <img src="{% include img-link id='tsg-reutlingen-crop' options='h_400' %}" alt="tsg-reutlingen" style="max-width: 100%; padding: 1rem 0 2rem 0;">
 </a>
