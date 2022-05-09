@@ -2,15 +2,16 @@
 title: Malen mal anders
 date: 2019-11-22
 autor: Daniela Lurie
-
 ---
+
 <!--mehr-->
-Das Kolpinghaus zeigt sich erneut von seiner künstlerischen Seite und setzt das Malprojekt, welches letztes Jahr schon großes Interesse geweckt hat, fort. 
-Unter dem Motto „Paint more – stress less“ bietet das Kolpinghaus die Möglichkeit, der Fantasie freien Lauf zu lassen und somit dem Stress des Alltags zu entfliehen. 
-Dabei entstehen individuelle neue Motive, die die Persönlichkeit der KünstlerInnen widerspiegeln und in denen die BewohnerInnen sich schließlich selbsterkennen können. 
+
+Das Kolpinghaus zeigt sich erneut von seiner künstlerischen Seite und setzt das Malprojekt, welches letztes Jahr schon großes Interesse geweckt hat, fort.
+Unter dem Motto „Paint more – stress less“ bietet das Kolpinghaus die Möglichkeit, der Fantasie freien Lauf zu lassen und somit dem Stress des Alltags zu entfliehen.
+Dabei entstehen individuelle neue Motive, die die Persönlichkeit der KünstlerInnen widerspiegeln und in denen die BewohnerInnen sich schließlich selbsterkennen können.
 Wir laden alle herzlichst ein, zu einer Zeit voller Kreativität und künstlerischer Freiheit, der keine Grenzen gesetzt werden!
 
-Einige KünstlerInnen, die sich freundlicherweise dazu bereit erklärt haben werden nun hier vorgestellt. 
+Einige KünstlerInnen, die sich freundlicherweise dazu bereit erklärt haben werden nun hier vorgestellt.
 
 <div style="overflow:auto;">
 <img class="img-fluid rounded mb-4" src="{% include img-link id='2019-11-22-malen-mal-anders-1' options='w_300' %}" alt="Mitarbeiter des Kolpinghauses" style="float: left; padding: 0 20px 20px 0;"/>

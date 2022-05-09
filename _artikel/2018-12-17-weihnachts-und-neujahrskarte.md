@@ -2,7 +2,9 @@
 title: Weihnachts- und Neujahrskarte
 date: 2018-12-17
 ---
+
 <!--mehr-->
+
 ### Weihnachts- und Neujahrskarte
 
 <div class="gallery row">

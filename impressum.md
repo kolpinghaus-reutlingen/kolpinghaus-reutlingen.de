@@ -16,6 +16,7 @@ img:
 
 Telefon: {{site.kontakt.phone}} <br>
 Fax: {{site.kontakt.fax}} <br>
+
 <p style="color:#212529">E-Mail: {{site.kontakt.email.user}}@<span class="d-print-none" style="display:none !important;">NOSPAM</span>{{site.domain}}</p><br>
 {{site.domain}}
 
@@ -27,6 +28,7 @@ Fax: {{site.kontakt.fax}} <br>
 
 Telefon: {{site.kontakt.phone}} <br>
 Telefax: {{site.kontakt.fax}} <br>
+
 <p style="color:#212529">E-Mail: {{site.kontakt.email.user}}@<span class="d-print-none" style="display:none !important;">NOSPAM</span>{{site.domain}}</p><br>
 
 Vertreten durch: Herr {{site.kontakt.heimleiter}}

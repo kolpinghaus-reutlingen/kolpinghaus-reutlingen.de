@@ -1,15 +1,16 @@
 ---
 title: Neues Konzept für Jugendarbeit
-subtitle: "\"Just for Kids\" - Bislang gab es wenig offene Angebote für Zehn- bis 14-Jährige. Freie Träger der Jugendarbeit und städtische Jugendhäuser haben das nun geändert"
+subtitle: '"Just for Kids" - Bislang gab es wenig offene Angebote für Zehn- bis 14-Jährige. Freie Träger der Jugendarbeit und städtische Jugendhäuser haben das nun geändert'
 date: 2021-04-27
 autor: Reutlinger General-Anzeiger
 img:
-   third:
-     id: 2021-08-25-neues-konzept-fuer-jugendarbeit
-     alt: "\"Just for Kids\" - Koordinator Floria Kern und Silas Pfeifer von der Kulturwerkstatt mit dem Logo vor der Fotoausstellung, die aus dem Online-Fotowettbewerb im ersten Jahr unter Corona-Bedingungen entstanden ist"
-     w: 670
-     h: 374
+  third:
+    id: 2021-08-25-neues-konzept-fuer-jugendarbeit
+    alt: '"Just for Kids" - Koordinator Floria Kern und Silas Pfeifer von der Kulturwerkstatt mit dem Logo vor der Fotoausstellung, die aus dem Online-Fotowettbewerb im ersten Jahr unter Corona-Bedingungen entstanden ist'
+    w: 670
+    h: 374
 ---
+
 <!--mehr-->
 
 Sie sind noch keine Jugendlichen, weil noch nicht 14 Jahre alt, aber sie sind auch keine Kinder mehr, sondern hängen irgendwo dazwischen: die Zehn- bis 14-Jährigen. Für sie gab es lange Zeit keine offenen Angebote - die Jugendhäuser hatten auftragsgemäß die über 14-Jährigen im Blick, Vereine oder kirchliche Jugendorganisationen haben vor allem auf Dauer angelegte Gruppen, keine Spontanangebote im Programm. 2020 hat sich das in Reutlingen geändert.

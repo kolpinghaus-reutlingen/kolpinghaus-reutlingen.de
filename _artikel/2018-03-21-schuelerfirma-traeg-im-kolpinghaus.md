@@ -17,13 +17,13 @@ images:
     h: 4128
     alt: 2018-03-21-schuelerfirma-traeg-im-kolpinghaus-3
 ---
+
 ### Kooperation mit der Schülerfirma TRAEG des Albert-Einstein-Gymnasiums Reutlingen<br><br>
 
 #### „Traege“ Handyladestationen aus Bambusholz<br><br>
 
-
 Wissen Sie was „träg“ – nein, eher im Gegenteil – „Traeg“ bedeutet?
-„Trae“ ist das dänische Wort für  Holz und die Abkürzung „AEG“ steht für das Albert-Einstein- Gymnasium in Reutlingen. Zusammen ergibt das „Traeg“, den Namen einer Schülerfirma, die Handyladestationen aus Bambusholz herstellt.
+„Trae“ ist das dänische Wort für Holz und die Abkürzung „AEG“ steht für das Albert-Einstein- Gymnasium in Reutlingen. Zusammen ergibt das „Traeg“, den Namen einer Schülerfirma, die Handyladestationen aus Bambusholz herstellt.
 
 Am Mittwoch, den 21. März 2018 wird ein Tisch im Speisesaal zu einer kleinen Künstlerwerkstatt umfunktioniert. Zwei Schülerinnen des AEG sind zu Besuch: Laeticia Talmon-Gros, die zusammen mit Ivana Kretic den gewählten Vorstand von Traeg bildet, und Finja Eiber, die mit zwei weiteren Schülern/innen die Finanzabteilung der Firma besetzt. Die beiden haben eine Handvoll Handyladestationen mitgebracht, die von den Bewohnern des Kolpinghauses, überwiegend von unbegleiteten minderjährigen Flüchtlingen, mit Acrylfarben angemalt werden. Die Jugendlichen malen Flaggen und Muster, dazu läuft Musik aus einer Bluetoothbox und jeder gibt sich Mühe beim Gestalten der eigenen Handyladestation. Alle entscheiden sich dafür nur den unteren Teil der Ladestation zu bemalen, der obere Teil, also die „Handy-Lehne“, bleibt so wie er ist: das Firmenlogo im Bambusholz-Look. Das Logo besteht aus dem chinesischen Schriftzeichen für Baum mit einer um die Spitze gezeichneten Baumkrone. Das Material wurde ebenfalls sorgfältig gewählt: Bambusholz ist das nachhaltigste Holz, weil es sehr schnell wächst. „Man sollte es sich nicht zu einfach machen und irgendwas machen“, kommentiert Laeticia Talmon-Gros.“ Bei der Benotung durch die Lehrer wird darauf geachtet, wie viel man sich dabei gedacht hat, also auch, ob es nachhaltig ist und welche Zielgruppen man erreicht.“ Dieses Verkaufsmodell scheint zu funktionieren; Traeg war bei der Gründermesse in Reutlingen und auf einer Jugendmesse vertreten. Vergleichbare Workshops wie der im Kolpinghaus sind in Schulen geplant, sie haben ihre eigene Website, sind auf Instagram aktiv und verteilen Poster, Flyer, Visitenkarten.
 

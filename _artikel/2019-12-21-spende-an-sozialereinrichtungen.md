@@ -26,8 +26,6 @@ Hermann Rist, Leiter des Kolpinghauses, will mit dem Geld einen neuen Billardtis
 
 Das Spendenparlament vertrat bei der Spendenübergabe Schatzmeister Eberhard Schwille. Das Spendenparlament unterstützt jedes Jahr eine Riehe von Vereine und Organisationen. Seit seiner Gründung hat es insgesamt 250 Projekte mit einer Gesamtsumme von 700 000 Euro gefördert und ist aus der Region Reutlingen, Pfullingen und Tübingen nicht mehr wegzudenken. Derzeit zählt das Parlament 140 Mitgliedern und eine Vielzahl von Spendern.
 
-
-
-----
+---
 
 > 20000 Euro spendete Bäckermeister Hugo Berger (Mitte) an sechs soziale Organisationen in Reutlingen, deren Vertreter die Spenden entgegennahmen (von links): Sebastian Weigle (AWO), Barbara Chiumento (AK Leben), Thomas Heinzelmann (Brückenpflege), Spender Hugo Berger, Eberhard Schwille (Spendenparlament) und Hermann Rist (Kolpinghaus).

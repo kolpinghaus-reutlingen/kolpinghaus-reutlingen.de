@@ -8,10 +8,12 @@ img:
     w: 1328
     h: 747
     alt: 2019-12-03-zuflucht-fuer-buecher
-
 ---
+
 ### Kolpinghaus in Reutlingen findet ein neues zu Hause für Bücher
+
 <!--mehr-->
+
 **Reutlingen**
 Jeden ersten Freitag im Monat wird vom Kolpinghaus dazu
 aufgerufen gebrauchte, aussortierte oder alte Bücher in der List Straße 26
@@ -23,26 +25,26 @@ gestaltet.
 #### Was passiert dort mit ihren Büchern?
 
 1. Das Kolpinghaus und die engagierten Freiwilligen sortieren die gespendeten
-Bücher direkt nach der Abgabe aus. Natürlich setzen sich alle Beteiligten dafür
-ein, dass so viel gute Bücher wie nur möglich in die Börse aufgenommen
-werden. Jedoch bitten die Ehrenamtlichen sowie die Leiter der Bücherbörse
-Herr Rist und Frau Abele um Verständnis, dass nicht alle Bücher bewahrt
-werden können und natürlich das ein oder andere Buch nicht weiterverkauft
-werden kann. Wenn Sie die Arbeit etwas erleichtern wollen, wird darum
-gebeten, dass Sie die Bücher im Vorhinein durchgehen und im Notfall die
-Entsorgung des ein oder anderen Buches selbst vornehmen.
+   Bücher direkt nach der Abgabe aus. Natürlich setzen sich alle Beteiligten dafür
+   ein, dass so viel gute Bücher wie nur möglich in die Börse aufgenommen
+   werden. Jedoch bitten die Ehrenamtlichen sowie die Leiter der Bücherbörse
+   Herr Rist und Frau Abele um Verständnis, dass nicht alle Bücher bewahrt
+   werden können und natürlich das ein oder andere Buch nicht weiterverkauft
+   werden kann. Wenn Sie die Arbeit etwas erleichtern wollen, wird darum
+   gebeten, dass Sie die Bücher im Vorhinein durchgehen und im Notfall die
+   Entsorgung des ein oder anderen Buches selbst vornehmen.
 2. Die nächsten Schritte werden in der Gerber Straße ebenfalls in Reutlingen
-abgewickelt. Hier findet das Sortieren nach Themengebieten wie Romane,
-Krimi Thriller, fremdsprachige Bücher (...) und das Verstauen in Kisten mit der
-Beschriftung der einzelnen Themengebiete statt.
+   abgewickelt. Hier findet das Sortieren nach Themengebieten wie Romane,
+   Krimi Thriller, fremdsprachige Bücher (...) und das Verstauen in Kisten mit der
+   Beschriftung der einzelnen Themengebiete statt.
 3. Bei drei, dem letzten Schritt, werden die Bücherkisten am Heilbrunnen 107
-in einer Lagerhalle, die der Technische Betriebsdienst von Reutlingen, zur
-Verfügung stellt, für die Börse aufgestellt. Bei Regen bleiben die Türen offen,
-da alles überdacht ist. Zum Erfolg der Bücherbörse trägt auch d ie
-Abschlussklasse des Kepler-Gymnasiums bei. Diese hilft nicht nur beim Auf -
-und Abbau, sondern ist auch für die Verpflegung verantwortlich.
-Die nächsten Termine sowie weitere Informationen werden auf der Homepage
-des Kolpinghauses oder unter der Telefonnummer 07121 43340 angegeben.
+   in einer Lagerhalle, die der Technische Betriebsdienst von Reutlingen, zur
+   Verfügung stellt, für die Börse aufgestellt. Bei Regen bleiben die Türen offen,
+   da alles überdacht ist. Zum Erfolg der Bücherbörse trägt auch d ie
+   Abschlussklasse des Kepler-Gymnasiums bei. Diese hilft nicht nur beim Auf -
+   und Abbau, sondern ist auch für die Verpflegung verantwortlich.
+   Die nächsten Termine sowie weitere Informationen werden auf der Homepage
+   des Kolpinghauses oder unter der Telefonnummer 07121 43340 angegeben.
 
 #### Warum der ganze Aufwand?
 

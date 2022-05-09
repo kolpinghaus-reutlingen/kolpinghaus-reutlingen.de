@@ -15,9 +15,9 @@ img:
     alt: 2021-08-14-buechermarkt-im-kolpinghaus-4
 ---
 
-<!--mehr--> 
+<!--mehr-->
 
-Der Pandemie geschuldet konnten die letzte Bücherbörsen in Kooperation mit den Technischen Betriebsdiensten Reutlingen auf dem Gelände der TBR nicht wie gewohnt stattfinden. Doch die fleißigen Helfer*innen der Bücherannahme lassen sich nicht entmutigen und haben während der letzten Monate viele neue und spannende Wege gefunden, Menschen und Bücher zueinander und einander näher zu bringen.
+Der Pandemie geschuldet konnten die letzte Bücherbörsen in Kooperation mit den Technischen Betriebsdiensten Reutlingen auf dem Gelände der TBR nicht wie gewohnt stattfinden. Doch die fleißigen Helfer\*innen der Bücherannahme lassen sich nicht entmutigen und haben während der letzten Monate viele neue und spannende Wege gefunden, Menschen und Bücher zueinander und einander näher zu bringen.
 
 Trotz aller Phantasie fehlt ihnen, wie sicherlich ganz vielen Menschen momentan, der reale Kontakt. Deswegen haben wir uns entschieden hier im Kolpinghaus am Samstag, 14.08.2021, einen Büchermarkt zu veranstalten. Getreu dem Motto „klein, aber fein“ wird dieser überschaubarer ausfallen als die Bücherbörse, jedoch nicht weniger abwechslungsreich. Denn wie jedes Jahr ist für alle Geschmäcker etwas dabei, von Romanen über Kinderbücher bis zu hin zu Krimis und noch einigem mehr. Für kleines Geld lassen sich in unserem großen Saal so einige Kostbarkeiten finden, die Ihnen den verregneten Sommer versüßen.
 

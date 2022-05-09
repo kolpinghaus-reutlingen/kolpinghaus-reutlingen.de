@@ -9,9 +9,11 @@ img:
     w: 409
     h: 413
 ---
+
 <!--mehr-->
+
 „Wir gehen mit dir“ – Der Slogan des Fitnessstudios Easy Sports lädt zur aktiven Teilnahme am beweglichen und sportlichen Leben ein - und das Kolpinghaus Reutlingen ermöglicht dies auch.
-Durch die Kooperation mit Easy Sports haben wir zwei Fitnesskarten, die den Bewohner*Innen zur Verfügung stehen. Diese können dann einmal täglich kostenlos genutzt werden.
+Durch die Kooperation mit Easy Sports haben wir zwei Fitnesskarten, die den Bewohner\*Innen zur Verfügung stehen. Diese können dann einmal täglich kostenlos genutzt werden.
 
 Melde dich einfach im Glasbüro und frage nach einer Karte.
 

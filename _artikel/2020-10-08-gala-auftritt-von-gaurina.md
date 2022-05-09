@@ -4,11 +4,11 @@ date: 2020-10-08
 autor: GEA
 description: Unser Mitarbeiter Nikola Gaurina, glänzte am Samstag gegen den SG EK Karlsruhe mit einer fantastischen Leistung. Dazu wollen wir ihm gratulieren und hoffen, dass er an diese Leistung weiter anknüpfen kann. Wir Kolleginnen und Kollegen im Kolpinghaus sind stolz auf ihn!
 img:
-   third:
-     id: 2020-10-08-gala-auftritt-von-gaurina-2
-     alt: Nikola Gaurina (links) war der Garant dür den Auftakssieg der Ravens
-     w: 670
-     h: 374
+  third:
+    id: 2020-10-08-gala-auftritt-von-gaurina-2
+    alt: Nikola Gaurina (links) war der Garant dür den Auftakssieg der Ravens
+    w: 670
+    h: 374
 ---
 
 Er könnte mit seinen bereits 37 Jahren theoretisch der Vater von Zweidrittel seiner 20 Jahren und jüngeren Mitspieler sein. Wenn man Nikola Gaurina dann aber Basketballspielen erlebt, merkt man ihm sein Alter überhaupt nicht negativ an. Ganz im Gegenteil. Der Kroate war schon in der vergangenen Saison hinter den Punktesammlern Damir Dronjic und dem mittlerweile in die USA zurückgekehrten Marques Charlton der Garant für den Erfolg der TSG Volksbank Reutlingen in der 2. Regionalliga Baden-Württemberg.
@@ -24,4 +24,3 @@ Neben Dominic Phillippi (15 Punkte/13 Rebounds) war Gaurina (10/11) der einzige 
 Schon bald zeigten die vielen Youngster um ihre Routiniers Dronjic, Gaurina sowie den Charlton-Ersatz Jonathan Patterson gegen Karlsruhe ihr Potenzial. In einer früheren Auszeit hatten sie sich von Tsuknidis wachrütteln lassen, schafften bis zum Ende des ersten Viertels dank eines 10:0-Laufs des Ausgleich (16:16).
 
 Mit vielen Ballgewinnen, guter Verteidigung und schnellen Angriffen durch die flinken und schnellen Angriffen durch die flinken Guards Dronjic, Louis Thieme und Noel Duarte ließ der Vizemeister den Badenern im zweiten Spieleabschnitt dann keine Chance. Viertelübergreifend gelang der Ravens ein 30:5-Lauf, der für eine komfortable Halbzeit-Führung sorgte. Diese brachten die Hausherren dann trotz Leistungsschwankungen in der zweiten Spielehälfte ins Ziel.
-

@@ -14,7 +14,9 @@ img:
     h: 2531
     alt: 2018-07-09-dankeskarte-st-wolfgangsgemeinde-unterschriften
 ---
+
 <!--mehr-->
+
 Liebe Mitarbeiterinnen und Mitarbeiter und Bewohner im Kolpinghaus
 
 für Ihre Mitarbeit und Vorbereitungen für das Gemeindefest am Fronleichnamsfest bedanken wir uns ganz herzlich

@@ -9,25 +9,26 @@ img:
   folder: ueber-uns
 redirect_from:
   - /css/
-  - /js/  
+  - /js/
 ---
 
 ## The Kolpinghaus offers a lot more ...
 
-* sports and fitness
-* bicycle workshop
-* theatre
-* garden projects
-* music with the Philharmonie
-* drumming
-* painting
-* language training
-* trips
-* ...
+- sports and fitness
+- bicycle workshop
+- theatre
+- garden projects
+- music with the Philharmonie
+- drumming
+- painting
+- language training
+- trips
+- ...
 
 ## ... than only a roof over your head
 
 ---
+
 <br>
 The Kolping House in Reutlingen offers low-cost accommodation for young people. Our offer is aimed at apprentice, students, master students and young employees.
 

@@ -21,7 +21,7 @@ images:
     w: 4032
     h: 3024
   - id: 2019-04-02-buecherboerse-april-2019-04
-    alt: 2019-04-02-buecherboerse-april-2019-04  
+    alt: 2019-04-02-buecherboerse-april-2019-04
     w: 4032
     h: 3024
   - id: 2019-04-02-buecherboerse-april-2019-05
@@ -80,15 +80,16 @@ images:
     alt: 2019-04-02-buecherboerse-april-2019-18
     w: 5184
     h: 3456
-
 ---
+
 ## Paradies für Leseratten und Schnäppchenjäger
+
 <!--mehr-->
 
 <br>
 
-*Mit einer Bücherbörse tut das Kolpinghaus viel Gutes für Menschen, die nicht viel Geld
-haben, und für die Natur.*
+_Mit einer Bücherbörse tut das Kolpinghaus viel Gutes für Menschen, die nicht viel Geld
+haben, und für die Natur._
 
 Rund 1500 Interessenten, Leseratten, Bücherwürmer und Schnäppchenjäger wurden
 bei der letzten Bücherbörse am Samstag, den 6. April 2019 in der Halle der
@@ -130,8 +131,8 @@ eingespeist.
 
 <br>
 
-*GUT ERHALTENE BÜCHER SIND ERBETEN AN JEDEM ERSTEN FREITAG IM MONAT (AUSSER
+_GUT ERHALTENE BÜCHER SIND ERBETEN AN JEDEM ERSTEN FREITAG IM MONAT (AUSSER
 FEIERTAGE): ABGABE IM KOLPINGHAUS; LISTSTRASSE 26, REUTLINGEN.
 DIE NÄCHSTE BÜCHERBÖRSE IST AM SAMSTAG, 19. OKTOBER 2019 IN DEN RÄUMEN DER
 TECHNISCHEN BETRIEBSDIENSTE REUTLINGEN (AM HEILBRUNNEN 107, PARKPLÄTZE SIND
-VORHANDEN).*
+VORHANDEN)._

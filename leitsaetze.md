@@ -6,6 +6,7 @@ active: ueber-uns
 img:
   folder: ueber-uns
 ---
+
 <div class="row" markdown="1">
 <img class="img-fluid rounded" src="{% include img-link id='leitsaetze' %}" alt="leitsaetze">
 <br><br><br>
@@ -68,6 +69,7 @@ Wir bleiben nicht stehen, sondern gehen gemeinsam den Weg in die Zukunft!
 Informationen zur Kolpingjugend bitte hier klicken
 
 ## Kolping in 12 Sätzen
+
 </div>
 
 <div class="col-12" markdown="1">

@@ -21,6 +21,7 @@ images:
     h: 4000
     alt: ""
 ---
+
 <!--mehr-->
 
 Im Gegensatz zu den vorherigen, großen Bücherbörsen in Kooperation mit den TBR, fand der weitaus kleinere Büchermarkt diesen Sommer ganz beschaulich in den eigenen vier Wänden des Kolpinghauses statt.

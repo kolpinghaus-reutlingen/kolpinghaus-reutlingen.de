@@ -3,7 +3,9 @@ title: NetHope & Google spenden elf Chromebooks
 date: 2017-11-27
 autor: Jana Mayer
 ---
+
 <!--mehr-->
+
 Aufgrund der großen Nachfrage – insbesondere durch unsere unbegleiteten minderjährigen
 Flüchtlinge – haben wir nach Spendern von Computern gesucht. Der Wunsch der
 Jugendlichen ist es den Umgang mit dem Computer sowie die Einsatzmöglichkeiten zu

@@ -8,7 +8,9 @@ images:
     h: 2480
     alt: 2017-11-23-sonderaktion-sternenfunkeln
 ---
+
 <!--mehr-->
+
 Die Kita Hägle hat sich am Donnerstag, den 23.11.17 mit 40 Kindern und fünf Erzieherinnen
 mit dem Bus auf den Weg nach Reutlingen gemacht.
 Hier haben sie im Spitalhof drei Sterne des Projekts Sternenfunkelnfür

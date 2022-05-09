@@ -10,8 +10,9 @@ images:
 ---
 
 <!--mehr-->
-Am 05.03.2020 besuchte die Religionsklasse des Albert-Einstein-Gymnasiums das Kolpinghaus Reutlingen. Dieser Besuch vollendete den 
-[Vortrag der Schülerin Sophia Stor]({% link _artikel/2020-02-21-das-kolpinghaus-in-der-schule.md %}) und rundete somit den Eindruck, den die SchülerInnen über Adolph Kolping und seine philosophische Weltanschauung bekommen haben, ab. 
 
-Nach einer Vorstellung des Hauses und einer kurzen Fragerunde nahmen die SchülerInnen außerdem noch am regulären Mittagessen teil. 
+Am 05.03.2020 besuchte die Religionsklasse des Albert-Einstein-Gymnasiums das Kolpinghaus Reutlingen. Dieser Besuch vollendete den
+[Vortrag der Schülerin Sophia Stor]({% link _artikel/2020-02-21-das-kolpinghaus-in-der-schule.md %}) und rundete somit den Eindruck, den die SchülerInnen über Adolph Kolping und seine philosophische Weltanschauung bekommen haben, ab.
+
+Nach einer Vorstellung des Hauses und einer kurzen Fragerunde nahmen die SchülerInnen außerdem noch am regulären Mittagessen teil.
 Wir freuen uns über das rege Interesse der jungen Leute und wünschen den angehenden Abiturienten und Abiturientinnen viel Glück bei ihren Prüfungen.

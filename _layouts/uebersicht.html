@@ -2,68 +2,63 @@
 layout: default
 ---
 
-{% assign sorted = site[page.active] | sort: 'date' | reverse %}
-
-{% if page.active == "projekte" %}
-    {% assign type = "p" %}
-{% else %}
-    {% assign type = "0" %}
-{% endif %}
-
+{% assign sorted = site[page.active] | sort: 'date' | reverse %} {% if
+page.active == "projekte" %} {% assign type = "p" %} {% else %} {% assign type =
+"0" %} {% endif %}
 
 <div class="row">
-    {% if type == "0" %}<div class="col-md-8">{% endif %}
-    {% for item in sorted %}
-      {% if item.pdf %}
-        {% capture url %}{% include img-link id=item.pdf %}{% endcapture %}
-      {% else %}
-        {% assign url = item.url %}
-      {% endif %}
-        {% if type == "p" %}<div class="col-lg-6 portfolio-item">
-          <div class="card h-100">
+  {% if type == "0" %}
+  <div class="col-md-8">
+    {% endif %} {% for item in sorted %} {% if item.pdf %} {% capture url %}{%
+    include img-link id=item.pdf %}{% endcapture %} {% else %} {% assign url =
+    item.url %} {% endif %} {% if type == "p" %}
+    <div class="col-lg-6 portfolio-item">
+      <div class="card h-100">
         {% else %}
-          <div class="card mb-4">
-        {% endif %}
-        		{% if item.img.thumb %}
-        			<a href="{{ url }}"> {% assign img-options = 'h_200,w_600' | append: item.img.thumb.options %}
-          				<img class="card-img-top" src="{% include img-link id=item.img.thumb.id options=img-options %}" alt="{{item.img.thumb.alt}}">
-        			</a>
-				{% endif %}
-				<div class="card-body">
-				  {% if type == "p" %}<a href="{{ url }}">
-					<h4 class="card-title">{{ item.title }}</h4>
-               				 </a>
+        <div class="card mb-4">
+          {% endif %} {% if item.img.thumb %}
+          <a href="{{ url }}">
+            {% assign img-options = 'h_200,w_600' | append:
+            item.img.thumb.options %}
+            <img
+              class="card-img-top"
+              src="{% include img-link id=item.img.thumb.id options=img-options %}"
+              alt="{{item.img.thumb.alt}}"
+            />
+          </a>
+          {% endif %}
+          <div class="card-body">
+            {% if type == "p" %}<a href="{{ url }}">
+              <h4 class="card-title">{{ item.title }}</h4>
+            </a>
 
-				{% else %}
-					<h2 class="card-title">{{ item.title }}</h2>
-				{% endif %}
+            {% else %}
+            <h2 class="card-title">{{ item.title }}</h2>
+            {% endif %} {% if item.subtitle %}
+            <h5>{{ item.subtitle }}</h5>
+            {% endif %}
+            <p class="card-text">
+              {% if item.description %} {{ item.description }} {% else %} {% if
+              item.excerpt %} {{ item.excerpt | strip_html }} {% endif %} {%
+              endif %}
+            </p>
+            {% if page.active == "artikel"%}
+            <a href="{{ url }}" class="btn btn-primary">zum Artikel &rarr;</a>
+            {% endif %} {% if page.active == "veranstaltungen"%}
+            <a href="{{ url }}" class="btn btn-primary">mehr &rarr;</a>
+            {% endif %}
+          </div>
 
-        {% if item.subtitle %}
-        <h5> {{ item.subtitle }} </h5>
-        {% endif %}
-					<p class="card-text">
-          			{% if item.description %}
-          				{{ item.description }}
-          			{% else %}
-          				{% if item.excerpt %}
-          					{{ item.excerpt | strip_html }}
-          				{% endif %}
-          			{% endif %}</p>
-                  	{% if page.active == "artikel"%}
-						<a href="{{ url }}" class="btn btn-primary">zum Artikel &rarr;</a>
-                  	{% endif %}
-                    {% if page.active == "veranstaltungen"%}
-                    	<a href="{{ url }}" class="btn btn-primary">mehr &rarr;</a>
-                  	{% endif %}
-				</div>
-
-                {% if type == "0" %}
-				<div class="card-footer text-muted">
-					{% include pretty-date date=item.date %}
-				</div>
-                {% endif %}
-			</div>
-              {% if type == "p" %}</div>{% endif %}
-		{% endfor %}
-        {% if type == "0" %}</div>{% endif %}
+          {% if type == "0" %}
+          <div class="card-footer text-muted">
+            {% include pretty-date date=item.date %}
+          </div>
+          {% endif %}
+        </div>
+        {% if type == "p" %}
+      </div>
+      {% endif %} {% endfor %} {% if type == "0" %}
+    </div>
+    {% endif %}
+  </div>
 </div>

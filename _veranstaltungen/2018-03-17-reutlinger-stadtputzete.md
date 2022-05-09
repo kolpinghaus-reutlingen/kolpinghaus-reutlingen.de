@@ -12,7 +12,9 @@ images:
     w: 1800
     h: 1350
 ---
+
 ### Flotte Feger aus dem Kolpinghaus in luftigen Höhen<br><br>
+
 <!--mehr-->
 
 Am Samstag, den 17. März 2018 stehen eine Handvoll Bewohner des Kolpinghauses früher auf als sonst bzw. lassen sich wecken, um an der alljährlichen Reutlinger Stadtputzete teilzunehmen. Der Heimleiter Herr Rist und zwei Mitarbeiterinnen fahren mit den Jugendlichen zum Verein der Reutlinger Sportfreunde 02 in der Nähe von der Pizzeria da Franca und dann geht es auch schon los.

@@ -3,69 +3,70 @@ layout: default
 ---
 
 {% if page.active == "projekte" %}
-<hr>
+  <hr>
 {% else %}
-<hr>
-<p>{% include pretty-date date=page.date mode =1 %}</p>
-<hr>
+  <hr>
+  <p>{% include pretty-date date=page.date mode =1 %}</p>
+  <hr>
 {% endif %}
 {% if page.pdf %}
-<a href="{% include img-link id=page.pdf %}">
-<img class="img-fluid rounded" src="{% include img-link id=page.pdf %}" alt="{{page.pdf}}">
-</a>
+  <a href="{% include img-link id=page.pdf %}">
+  <img class="img-fluid rounded" src="{% include img-link id=page.pdf %}" alt="{{page.pdf}}">
+  </a>
 {% else %}
-<div class="row">
-  <div class="col-lg-8">
-    {% if page.img.main %}
-    <div class="gallery">
-      {% if page.img.main.w and page.img.main.h %}
-      <a href="{% include img-link id=page.img.main.id options=page.img.main.options %}" data-size="{{page.img.main.w}}x{{page.img.main.h}}" data-med-size="{{page.img.main.w}}x{{page.img.main.h}}" data-med="{% include img-link id=page.img.main.id %}" alt="{{page.img.main.alt}}">
-      {% else %}
-      <a href="{% include img-link id=page.img.main.id options=page.img.main.options %}" data-size="3000x2000" data-med-size="3000x2000" data-med="{% include img-link id=page.img.main.id %}" alt="{{page.img.main.alt}}">
-      {% endif %} {% assign img-options = 'w_700' | append: page.img.main.options %}
-      <img class="img-fluid rounded" src="{% include img-link id=page.img.main.id options=img-options %}" alt="{{page.img.main.alt}}">
-      </a>
+  <div class="row">
+    <div class="col-lg-8">
+      {% if page.img.main %}
+        <div class="gallery">
+          {% if page.img.main.w and page.img.main.h %}
+            <a href="{% include img-link id=page.img.main.id options=page.img.main.options %}" data-size="{{page.img.main.w}}x{{page.img.main.h}}" data-med-size="{{page.img.main.w}}x{{page.img.main.h}}" data-med="{% include img-link id=page.img.main.id %}" alt="{{page.img.main.alt}}">
+          {% else %}
+            <a href="{% include img-link id=page.img.main.id options=page.img.main.options %}" data-size="3000x2000" data-med-size="3000x2000" data-med="{% include img-link id=page.img.main.id %}" alt="{{page.img.main.alt}}">
+          {% endif %}
+          {% assign img-options = 'w_700' | append: page.img.main.options %}
+          <img class="img-fluid rounded" src="{% include img-link id=page.img.main.id options=img-options %}" alt="{{page.img.main.alt}}">
+          </a>
+        </div>
+        <br><br><br>
+      {% endif %}
+
+      {% if page.subtitle %}
+        <h3> {{ page.subtitle }} </h3>
+      {% endif %}
+
+      {{content}}
+      <br>
+      {% if page.autor %}
+        <br>
+
+        <footer class="blockquote-footer">{{page.autor}}</footer>
+      {% endif %}
+
     </div>
-    <br><br><br>
+    {% if page.img.third %}
+      <div class="col-md-4 gallery">
+        {% if page.img.third.w and page.img.third.h %}
+          <a href="{% include img-link id=page.img.third.id %}" data-size="{{page.img.third.w}}x{{page.img.third.h}}" data-med-size="{{page.img.third.w}}x{{page.img.third.h}}" data-med="{% include img-link id=page.img.third.id %}" alt="{{page.img.third.alt}}">
+        {% else %}
+          <a href="{% include img-link id=page.img.third.id %}" data-size="3000x2000" data-med-size="3000x2000" data-med="{% include img-link id=page.img.third.id %}">
+        {% endif %}
+        <img class="img-fluid" src="{% include img-link id=page.img.third.id options='h_500' %}" alt="{{page.img.third.alt}}">
+        </a>
+      </div>
     {% endif %}
-
-    {% if page.subtitle %}
-    <h3> {{ page.subtitle }} </h3>
-    {% endif %}
-
-    {{content}}
-    <br>
-    {% if page.autor %}
-    <br>
-
-     <footer class="blockquote-footer">{{page.autor}}</footer>
-     {% endif %}
-
   </div>
-  {% if page.img.third %}
-  <div class="col-md-4 gallery">
-    {% if page.img.third.w and page.img.third.h %}
-    <a href="{% include img-link id=page.img.third.id %}" data-size="{{page.img.third.w}}x{{page.img.third.h}}" data-med-size="{{page.img.third.w}}x{{page.img.third.h}}" data-med="{% include img-link id=page.img.third.id %}" alt="{{page.img.third.alt}}">
-    {% else %}
-    <a href="{% include img-link id=page.img.third.id %}" data-size="3000x2000" data-med-size="3000x2000" data-med="{% include img-link id=page.img.third.id %}">
-    {% endif %}
-    <img class="img-fluid" src="{% include img-link id=page.img.third.id options='h_500' %}" alt="{{page.img.third.alt}}">
-    </a>
-  </div>
+  <hr>
+  {% if page.images %}
+    <div class="row text-center text-lg-left gallery">
+      {% for picture in page.images %}
+        {% if picture.w and picture.h %}
+          <a href="{% include img-link id=picture.id %}" data-size="{{picture.w}}x{{picture.h}}" data-med-size="{{picture.w}}x{{picture.h}}" data-med="{% include img-link id=picture.id %}" class="d-block mb-4 col-lg-3 col-md-4 col-xs-6" alt="{{picture.alt}}">
+        {% else %}
+          <a href="{% include img-link id=picture.id %}" data-size="3000x2000" data-med-size="3000x2000" data-med="{% include img-link id=picture.id %}" class="d-block mb-4 col-lg-3 col-md-4 col-xs-6" alt="{{picture.alt}}">
+        {% endif %}
+        <img class="img-fluid img-thumbnail" src="{% include img-link id=picture.id options='w_300,h_200' %}" alt="{{picture.alt}}">
+        </a>
+      {% endfor %}
+    </div>
   {% endif %}
-</div>
-<hr>
-{% if page.images %}
-<div class="row text-center text-lg-left gallery">
-  {% for picture in page.images %}
-    {% if picture.w and picture.h %}
-      <a href="{% include img-link id=picture.id %}" data-size="{{picture.w}}x{{picture.h}}" data-med-size="{{picture.w}}x{{picture.h}}" data-med="{% include img-link id=picture.id %}" class="d-block mb-4 col-lg-3 col-md-4 col-xs-6" alt="{{picture.alt}}">
-    {% else %}
-      <a href="{% include img-link id=picture.id %}" data-size="3000x2000" data-med-size="3000x2000" data-med="{% include img-link id=picture.id %}" class="d-block mb-4 col-lg-3 col-md-4 col-xs-6" alt="{{picture.alt}}">
-    {% endif %}
-    <img class="img-fluid img-thumbnail" src="{% include img-link id=picture.id options='w_300,h_200' %}" alt="{{picture.alt}}">
-    </a>
-  {% endfor %}
-</div>
-{% endif %}
 {% endif %}

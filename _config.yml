@@ -19,7 +19,7 @@ future: true
 excerpt_separator: <!--mehr-->
 
 plugins:
-   - jekyll-redirect-from
+  - jekyll-redirect-from
 
 kontakt:
   city: 72764 Reutlingen

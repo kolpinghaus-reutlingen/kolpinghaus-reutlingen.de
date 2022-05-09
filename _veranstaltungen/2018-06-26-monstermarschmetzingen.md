@@ -37,10 +37,12 @@ images:
     w: 1280
     h: 720
 ---
-<!--mehr-->
-### MonsterMarschMetzingen - an seine Grenzen gehen
-#### Gebäudereiniger/innen auf neuen Wegen<br><br>
 
+<!--mehr-->
+
+### MonsterMarschMetzingen - an seine Grenzen gehen
+
+#### Gebäudereiniger/innen auf neuen Wegen<br><br>
 
 Im zweiten Ausbildungsjahr zum/zur Gebäudereiniger/in ist es an der Gewerblichen Schule Metzingen üblich, einen Erlebnistag durchzuführen.
 
@@ -53,7 +55,7 @@ Die Auszubildenden wurden zuvor nach ihrer Selbsteinschätzung gefragt. Auf eine
 
 Besonderen Wert legten die Lehrerinnen und Lehrer darauf, dass die Schülerinnen und Schüler während des Laufs aufeinander Acht gaben und sich gegenseitig halfen sowie Keinen zurückließen. Da einer der Schüler privat als Rettungssanitäter ausgebildet ist, war auch die Frage der Ersten Hilfe geklärt. Eine Lehrerin befuhr als „Sonder-Einsatzkommando“ mit dem Elektrofahrrad die Strecke und war telefonisch schnell zu jeder Stelle abrufbereit. Eine Telefonliste für alle Teilnehmer garantierte die Erreichbarkeit.
 
-Ein wichtiges Thema war die finanzielle Seite. Die Schülerinnen und Schüler sollten kein Geld für den Lauf bezahlen müssen. Dank mehrerer Sachspenden – auch durch die Wohnheime -  und einer großzügigen finanziellen Unterstützung durch die Landesinnung der Gebäudereiniger Baden-Württemberg konnte der MonsterMarsch durchgezogen werden. Es gab Brötchen mit Wurst und Käse, Wasser, Müsliriegel, Kaffee, Kuchen, Obst und vieles andere mehr. Als sehr wichtig erwiesen sich die Blasenpflaster, die ein Apotheker aus Ludwigsburg gestiftet hatte.
+Ein wichtiges Thema war die finanzielle Seite. Die Schülerinnen und Schüler sollten kein Geld für den Lauf bezahlen müssen. Dank mehrerer Sachspenden – auch durch die Wohnheime - und einer großzügigen finanziellen Unterstützung durch die Landesinnung der Gebäudereiniger Baden-Württemberg konnte der MonsterMarsch durchgezogen werden. Es gab Brötchen mit Wurst und Käse, Wasser, Müsliriegel, Kaffee, Kuchen, Obst und vieles andere mehr. Als sehr wichtig erwiesen sich die Blasenpflaster, die ein Apotheker aus Ludwigsburg gestiftet hatte.
 
 Am 26. Juni war alles bereit. Mit dem Bus des Reutlinger Unternehmers Hahn – ebenfalls kostenlos zur Verfügung gestellt - fuhren die Azubis und die Lehrer/innen, die sich bei der Wanderung beteiligen wollten, nach Plochingen. Am Bahnhof wurde zunächst ein Gruppenfoto gemacht. Insgesamt waren 64 Schülerinnen und Schüler sehr ambitioniert am Start. Manche zu ambitioniert, denn trotz Hinweisschilder und Pfeilen auf der Strecke, die den Verlauf der Tour Richtung Nürtingen kennzeichneten, warteten viele der potenziellen Wanderer nicht und stürmten einfach los. So kam es, dass eine Gruppe in Richtung Göppingen entlang der Fils, eine Gruppe in Richtung Esslingen und eine Gruppe sogar in Richtung Stuttgart lief. Einzig die Lehrergruppe, die als letzte loslief, ging in die richtige Richtung und wunderte sich, dass weit und breit keine Gebäudereiniger in Sicht waren. Viele Anrufe später klärte sich der Streckenverlauf und konnte korrigiert werden, was so manchem Übereifrigen 5 Extra-Kilometer bescherte. Die Lehrergruppe wartete, bis sich alle Schülerinnen und Schüler wieder auf dem richtigen Weg befanden und setzte die Wanderung dann fort.
 

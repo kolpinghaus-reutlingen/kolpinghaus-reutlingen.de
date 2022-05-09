@@ -21,7 +21,6 @@ Fun, Action, Kultur und Bildung bilden den Schwerpunkt unserer Freizeitangebote 
 
 <br>
 
-
 <div class="row">
 <div class="col-lg-6 gallery">
 <a href="{% include img-link id='mitarbeiter' %}" data-size="1920x1080" data-med-size="1920x1080" data-med="{% include img-link id='mitarbeiter' %}">
@@ -31,9 +30,6 @@ Fun, Action, Kultur und Bildung bilden den Schwerpunkt unserer Freizeitangebote 
 <div class="col-lg-6" markdown="1">
 
 ## Das Kolpinghaus Team
-
-
-
 
 Das Mitarbeiter-Team besteht aus vielen unterschiedlichen Berufsbildern. PädagogInnen, Verwaltungskräfte, Reinigungsfachkräfte, Küchenpersonal, Hausmeister, aber auch Ehrenamtliche, FSJler und BFDler sind in diesem Haus tätig.
 
@@ -47,6 +43,7 @@ Das gesamte Team arbeitet nach dem Motto „wir bieten viel mehr als ein Dach ü
 <img class="rounded-circle img-fluid d-block mx-auto" width="200" height="200" src="{% include img-link id='rist' options='w_200,h_200' %}" alt="Hermann Rist">
 
 ### Hermann Rist <small style="font-size: 70%;">Internatsleiter</small>
+
 </div>
 <div class="col-lg-6 text-center mb-4" markdown="1">
 <img class="rounded-circle img-fluid d-block mx-auto" width="200" height="200" src="{% include img-link id='abele' options='w_200,h_200' %}" alt="Yvonne Abele">
@@ -77,7 +74,6 @@ Adolph Kolping verstand es als Sozialreformer, schon in der damaligen Zeit für 
   </div>
 </div>
 
-
 </div>
 <div class="col-lg-6 text-center" style="height: 30rem;">
 <img class="img-fluid rounded mb-4" style="max-height: 100% !important; width: auto;" src="{% include img-link id='adolph-kolping' options='h_500' %}" alt="Adolph Kolping">
@@ -96,7 +92,7 @@ Weitere Informationen finden Sie unter:<br>
 [fsj-baden-wuerttemberg.de/infos-zum-fsj](https://www.fsj-baden-wuerttemberg.de/infos-zum-fsj)<br>
 [freiwilligendienste-rs.de](https://freiwilligendienste-rs.de/)<br><br>
 Außerdem können Sie sich auch direkt bei uns, im Kolpinghaus, für einen freiwilligen Dienst bewerben.
- 
+
 </div>
 <br>
 
@@ -131,11 +127,7 @@ Außerdem können Sie sich auch direkt bei uns, im Kolpinghaus, für einen freiw
 <img src="{% include img-link id='weihnachtskarte-2020.jpg' options='w_300,pg_2' folder='pdf' %}" style="padding-top: 5px;max-width: 100%;" alt="weihnachts-und-neujahrskarte_2"></a>
 </div>
 
-
-
 </div>
-
-
 
 <br>
 <hr>
@@ -146,22 +138,22 @@ Außerdem können Sie sich auch direkt bei uns, im Kolpinghaus, für einen freiw
 
 **KOLPINGWERK**
 
-* [Flyer]({% include img-link id='flyer-foerderverein' folder='ueber-uns' options='w_1080' %})
-* [Internationales Kolpingwerk](https://www.kolping.net/){:target="_blank"}
-* [Kolpingwerk Deutschland](https://www.kolping.de/){:target="_blank"}
-* [Kolpingwerk Diözesanverband Rottenburg-Stuttgart](https://www.kolping-dvrs.de/){:target="_blank"}
+- [Flyer]({% include img-link id='flyer-foerderverein' folder='ueber-uns' options='w_1080' %})
+- [Internationales Kolpingwerk](https://www.kolping.net/){:target="\_blank"}
+- [Kolpingwerk Deutschland](https://www.kolping.de/){:target="\_blank"}
+- [Kolpingwerk Diözesanverband Rottenburg-Stuttgart](https://www.kolping-dvrs.de/){:target="\_blank"}
 
 **REGIONAL**
 
-* [Abendrealschule Reutlingen](https://abendrealschulereutlingen.com/){:target="_blank"}
-* [Gewerbliche Schule Metzingen](https://www.gewerbeschule-metzingen.de/willkommen){:target="_blank"}
-* [Caritas in der Region](https://www.caritas-fils-neckar-alb.de/){:target="_blank"}
+- [Abendrealschule Reutlingen](https://abendrealschulereutlingen.com/){:target="\_blank"}
+- [Gewerbliche Schule Metzingen](https://www.gewerbeschule-metzingen.de/willkommen){:target="\_blank"}
+- [Caritas in der Region](https://www.caritas-fils-neckar-alb.de/){:target="\_blank"}
 
 **ÜBERREGIONAL**
 
-* [Kolping Onlineshop](https://www.kolping-shop.eu/){:target="_blank"}
-* [Verband der Kolpinghäuser](https://www.kolpinghaeuser.de/){:target="_blank"}
-* [Jugendwohnheime in Deutschland (Auswärts Zuhause)](https://auswaerts-zuhause.de/){:target="_blank"}
+- [Kolping Onlineshop](https://www.kolping-shop.eu/){:target="\_blank"}
+- [Verband der Kolpinghäuser](https://www.kolpinghaeuser.de/){:target="\_blank"}
+- [Jugendwohnheime in Deutschland (Auswärts Zuhause)](https://auswaerts-zuhause.de/){:target="\_blank"}
 
 </div>
 <div class="col" markdown="1">

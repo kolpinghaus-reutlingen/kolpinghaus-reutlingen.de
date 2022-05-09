@@ -28,16 +28,17 @@ images:
     h: 512
     alt: 2019-12-20-weihnachtszeit-schoenste-zeit-6
 ---
+
 <!--mehr-->
 
 Die Adventszeit im Kolpinghaus ist ein ganz besonderes Erlebnis.
 Weihnachtsstimmung wurde erstmals durch das gemeinsame
 Zusammenstellen und Errichten eines Adventskranzes erzeugt.
-So bekamen Blockschüler*innen aus aller Welt einen Einblick in die
+So bekamen Blockschüler\*innen aus aller Welt einen Einblick in die
 traditionelle christliche Vorweihnachtsfreude.
 
 Auch weihnachtliche Leckereien kamen nicht zu kurz.
-Alle Bewohner*innen hatten die Möglichkeit im Rahmen der
+Alle Bewohner\*innen hatten die Möglichkeit im Rahmen der
 Kreativwerkstatt Plätzchen und anderes Weihnachtsgebäck zu backen
 und die gelungenen Kreationen natürlich auch zu verspeisen.
 
@@ -45,7 +46,7 @@ Zum Ausklang des Jahres gab es am 17.12 schließlich auch die jährliche
 Bewohnerweihnachtsfeier. Gestaltet durch ein Theaterstück und kreative
 Bastelaktionen, umrahmt durch ein schmackhaftes Weihnachtsessen
 und begleitet durch musikalische Einlagen verbrachten sowohl
-Bewohner*innen des Kolpinghauses, als auch externe Gäste einen sehr
+Bewohner\*innen des Kolpinghauses, als auch externe Gäste einen sehr
 angenehmen und besinnlichen Abend. Der krönende Abschluss war
 dann zweifellos die Bescherung, bei der alle Gäste ein leckeres
 Geschenk erhielten.

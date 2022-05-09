@@ -10,6 +10,7 @@ img:
     h: 1754
     alt: 2018-12-09-einladung-kolpinggedenktag
 ---
+
 Was wohl der 1865 verstorbene katholische Priester Adolph Kolping zu dem schmucken, weiß verputzten Reutlinger Kolpinghaus sagen würde? Und nicht nur zu dem renovierten Gebäude, sondern zu dem modernen Geist, der seit 2015 mit Hermann Rist, dem neuen Leiter, dort eingezogen ist? Sicher würde er sich freuen, dass seine Idee immer noch lebendig und ihre Umsetzung heute mindestens ebenso wichtig ist wie zu seiner Zeit.
 
 Die Räume sind hell und freundlich, der Umgangston ist locker und entspannt – und die jungen Menschen aus verschiedenen Nationen genießen diese angenehme Atmosphäre und fühlen sich wohl. Das merkt man bereits deutlich, wenn man das Bistro im Eingangsbereich betritt: Hier liegen Zeitschriften und Spiele in Regalen aus, auf den Fensterbrettern stehen dicht an dicht verschiedene Grünpflanzen, an der Wand neben dem großen Fernseher hängt ein „Danke“-Plakat für die beliebte Bistro-Mutti, die am Abend die jungen Leute bedient – und der Raum wirkt nicht penibel ordentlich, sondern eher etwas kreativ-chaotisch. Das alles ist die zeitgemäße Weiterentwicklung der großartigen Initiative Adolph Kolpings aus dem 19. Jahrhundert.

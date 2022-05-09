@@ -8,4 +8,5 @@ images:
     h: 3024
     alt: Meisterschüler verabschieden sich vom Kolpinghaus
 ---
+
 Tobias Dunzinger, Maxim Kornilov, Jascha Rudloff und Daniel Weidenmüller haben es geschafft! Sie werden demnächst stolze Meister im Gebäudereinigerhandwerk. Bei einer kleinen Verabschiedungsfeier am 09.04.2019 im Bistro des Kolpinghauses, "geizten" sie nicht mit Lob für die Einrichtung. Stolz und Wehmütig sagten alle vier Adieu. Zum Gruppenbild stellten sie sich mit den Mitarbeiterinnen Anna Kunz, Daria Gilzatova und Marie Alber zusammen.

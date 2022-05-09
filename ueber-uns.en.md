@@ -9,8 +9,9 @@ active: ueber-uns
 img:
   folder: ueber-uns
 redirect_from:
-  - /about-us/  
+  - /about-us/
 ---
+
 The Kolpinghaus in Reutlingen is a reasonably priced possibility to live or spend the night in as a young person. Our offer addresses trainees, students, teaching-candidates, master students, young workers and since 2015 also unaccompanied underaged refugees.
 Besides, we are near the station and center in an area with good infrastructure.
 
@@ -43,6 +44,7 @@ The entire team works according to the motto "we offer much more than a roof ove
 <img class="rounded-circle img-fluid d-block mx-auto" width="200" height="200" src="{% include img-link id='rist' options='w_200,h_200' %}" alt="Hermann Rist">
 
 ### Hermann Rist <small style="font-size: 70%;">Institution Head</small>
+
 </div>
 <div class="col-lg-6 text-center mb-4" markdown="1">
 <img class="rounded-circle img-fluid d-block mx-auto" width="200" height="200" src="{% include img-link id='abele' options='w_200,h_200' %}" alt="Yvonne Abele">
