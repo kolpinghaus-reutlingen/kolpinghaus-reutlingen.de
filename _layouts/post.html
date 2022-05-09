@@ -51,7 +51,7 @@ layout: default
           <a href="{% include img-link id=page.img.third.id folder=page.img.third.folder options=page.img.third.options %}" data-size="3000x2000" data-med-size="3000x2000" data-med="{% include img-link id=page.img.third.id folder=page.img.third.folder options=page.img.third.options %}">
         {% endif %}
         {% assign img-options = 'h_500' | append: page.img.main.options %}
-        <img class="img-fluid" src="{% include img-link id=page.img.third.id folder=item.img.third.folder options=img-options %}" alt="{{page.img.third.alt}}">
+        <img class="img-fluid" src="{% include img-link id=page.img.third.id folder=page.img.third.folder options=img-options %}" alt="{{page.img.third.alt}}">
         </a>
       </div>
     {% endif %}
