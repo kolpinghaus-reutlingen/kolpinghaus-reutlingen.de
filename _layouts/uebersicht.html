@@ -15,7 +15,7 @@ layout: default
     {% if type == "0" %}<div class="col-md-8">{% endif %}
     {% for item in sorted %}
       {% if item.pdf %}
-        {% capture url %}{% include img-link id=item.pdf folder=item.folder %}{% endcapture %}
+        {% capture url %}{% include img-link id=item.pdf folder=item.folder options=item.options %}{% endcapture %}
       {% else %}
         {% assign url = item.url %}
       {% endif %}

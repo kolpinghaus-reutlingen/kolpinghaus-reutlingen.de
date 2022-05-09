@@ -10,8 +10,8 @@ layout: default
   <hr>
 {% endif %}
 {% if page.pdf %}
-  <a href="{% include img-link id=page.pdf %}">
-  <img class="img-fluid rounded" src="{% include img-link id=page.pdf %}" alt="{{page.pdf}}">
+  <a href="{% include img-link id=page.pdf folder=item.folder options=item.options %}">
+  <img class="img-fluid rounded" src="{% include img-link id=page.pdf folder=item.folder options=item.options %}" alt="{{page.pdf}}">
   </a>
 {% else %}
   <div class="row">
@@ -19,12 +19,12 @@ layout: default
       {% if page.img.main %}
         <div class="gallery">
           {% if page.img.main.w and page.img.main.h %}
-            <a href="{% include img-link id=page.img.main.id options=page.img.main.options %}" data-size="{{page.img.main.w}}x{{page.img.main.h}}" data-med-size="{{page.img.main.w}}x{{page.img.main.h}}" data-med="{% include img-link id=page.img.main.id %}" alt="{{page.img.main.alt}}">
+            <a href="{% include img-link id=page.img.main.id folder=page.img.main.folder options=page.img.main.options %}" data-size="{{page.img.main.w}}x{{page.img.main.h}}" data-med-size="{{page.img.main.w}}x{{page.img.main.h}}" data-med="{% include img-link id=page.img.main.id folder=page.img.main.folder options=page.img.main.options %}" alt="{{page.img.main.alt}}">
           {% else %}
-            <a href="{% include img-link id=page.img.main.id options=page.img.main.options %}" data-size="3000x2000" data-med-size="3000x2000" data-med="{% include img-link id=page.img.main.id %}" alt="{{page.img.main.alt}}">
+            <a href="{% include img-link id=page.img.main.id folder=page.img.main.folder options=page.img.main.options %}" data-size="3000x2000" data-med-size="3000x2000" data-med="{% include img-link id=page.img.main.id folder=page.img.main.folder options=page.img.main.options %}" alt="{{page.img.main.alt}}">
           {% endif %}
           {% assign img-options = 'w_700' | append: page.img.main.options %}
-          <img class="img-fluid rounded" src="{% include img-link id=page.img.main.id options=img-options %}" alt="{{page.img.main.alt}}">
+          <img class="img-fluid rounded" src="{% include img-link id=page.img.main.id folder=page.img.main.folder options=img-options %}" alt="{{page.img.main.alt}}">
           </a>
         </div>
         <br><br><br>
@@ -46,11 +46,12 @@ layout: default
     {% if page.img.third %}
       <div class="col-md-4 gallery">
         {% if page.img.third.w and page.img.third.h %}
-          <a href="{% include img-link id=page.img.third.id %}" data-size="{{page.img.third.w}}x{{page.img.third.h}}" data-med-size="{{page.img.third.w}}x{{page.img.third.h}}" data-med="{% include img-link id=page.img.third.id %}" alt="{{page.img.third.alt}}">
+          <a href="{% include img-link id=page.img.third.id folder=page.img.third.folder options=page.img.third.options %}" data-size="{{page.img.third.w}}x{{page.img.third.h}}" data-med-size="{{page.img.third.w}}x{{page.img.third.h}}" data-med="{% include img-link id=page.img.third.id folder=page.img.third.folder options=page.img.third.options %}" alt="{{page.img.third.alt}}">
         {% else %}
-          <a href="{% include img-link id=page.img.third.id %}" data-size="3000x2000" data-med-size="3000x2000" data-med="{% include img-link id=page.img.third.id %}">
+          <a href="{% include img-link id=page.img.third.id folder=page.img.third.folder options=page.img.third.options %}" data-size="3000x2000" data-med-size="3000x2000" data-med="{% include img-link id=page.img.third.id folder=page.img.third.folder options=page.img.third.options %}">
         {% endif %}
-        <img class="img-fluid" src="{% include img-link id=page.img.third.id options='h_500' %}" alt="{{page.img.third.alt}}">
+        {% assign img-options = 'h_500' | append: page.img.main.options %}
+        <img class="img-fluid" src="{% include img-link id=page.img.third.id folder=item.img.third.folder options=img-options %}" alt="{{page.img.third.alt}}">
         </a>
       </div>
     {% endif %}
@@ -60,11 +61,12 @@ layout: default
     <div class="row text-center text-lg-left gallery">
       {% for picture in page.images %}
         {% if picture.w and picture.h %}
-          <a href="{% include img-link id=picture.id %}" data-size="{{picture.w}}x{{picture.h}}" data-med-size="{{picture.w}}x{{picture.h}}" data-med="{% include img-link id=picture.id %}" class="d-block mb-4 col-lg-3 col-md-4 col-xs-6" alt="{{picture.alt}}">
+          <a href="{% include img-link id=picture.id folder=picture.folder options=picture.options %}" data-size="{{picture.w}}x{{picture.h}}" data-med-size="{{picture.w}}x{{picture.h}}" data-med="{% include img-link id=picture.id folder=picture.folder options=picture.options %}" class="d-block mb-4 col-lg-3 col-md-4 col-xs-6" alt="{{picture.alt}}">
         {% else %}
-          <a href="{% include img-link id=picture.id %}" data-size="3000x2000" data-med-size="3000x2000" data-med="{% include img-link id=picture.id %}" class="d-block mb-4 col-lg-3 col-md-4 col-xs-6" alt="{{picture.alt}}">
+          <a href="{% include img-link id=picture.id folder=picture.folder options=picture.options %}" data-size="3000x2000" data-med-size="3000x2000" data-med="{% include img-link id=picture.id folder=picture.folder options=picture.options %}" class="d-block mb-4 col-lg-3 col-md-4 col-xs-6" alt="{{picture.alt}}">
         {% endif %}
-        <img class="img-fluid img-thumbnail" src="{% include img-link id=picture.id options='w_300,h_200' %}" alt="{{picture.alt}}">
+        {% assign img-options = 'w_300,h_200' | append: picture.options %}
+        <img class="img-fluid img-thumbnail" src="{% include img-link id=picture.id folder=picture.folder options=options %}" alt="{{picture.alt}}">
         </a>
       {% endfor %}
     </div>
