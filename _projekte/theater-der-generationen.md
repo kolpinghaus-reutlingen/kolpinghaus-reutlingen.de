@@ -15,11 +15,11 @@ img:
     h: 771
 ---
 
+<!--mehr-->
+
 ### Das Theater und du ein Match?
 
 #### Komm ins Theater der Generationen!
-
-<!--mehr-->
 
 Hallo! Ich bin das Theater der Generationen. Mein Lebensziel ist es, einen Raum zu schaffen, in dem sich **verschiedene Generationen** durch ein spielerisches, improvisatorisches und gruppenorientiertes Theaterspielen begegnen und **voneinander lernen** können. Dabei ist es mir wichtig, dass alle Teilnehmer\*innen während der Proben ihre **Ideen und Themen einbringen** – bis hin zur abschließenden **Aufführung**!
 
