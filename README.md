@@ -3,8 +3,10 @@
 # Development setup
 
 ```bash
-sudo apt-get install bundler
+sudo apt-get install -y bundler
 bundler install
 
 bundle exec jekyll serve
+# or
+jekyll serve
 ```
