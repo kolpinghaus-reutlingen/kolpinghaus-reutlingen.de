@@ -66,7 +66,7 @@ layout: default
           <a href="{% include img-link id=picture.id folder=picture.folder options=picture.options %}" data-size="3000x2000" data-med-size="3000x2000" data-med="{% include img-link id=picture.id folder=picture.folder options=picture.options %}" class="d-block mb-4 col-lg-3 col-md-4 col-xs-6" alt="{{picture.alt}}">
         {% endif %}
         {% assign img-options = 'w_300,h_200' | append: picture.options %}
-        <img class="img-fluid img-thumbnail" src="{% include img-link id=picture.id folder=picture.folder options=options %}" alt="{{picture.alt}}">
+        <img class="img-fluid img-thumbnail" src="{% include img-link id=picture.id folder=picture.folder options=img-options %}" alt="{{picture.alt}}">
         </a>
       {% endfor %}
     </div>
