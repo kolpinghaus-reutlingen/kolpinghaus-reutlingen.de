@@ -1,17 +1,25 @@
 <div class="card mb-4">
   <a href="{% include img-link id='Eden_Hotel' folder='pdf' %}">
-    <img class="card-img-top" src="{% include img-link options='pg_1,c_crop,h_0.67,g_north,w_0.99/c_crop,h_0.75,g_south,w_1/w_400' id='Eden_Hotel.jpg' folder='pdf' %}" alt="">
+    <img
+      class="card-img-top"
+      src="{% include img-link options='pg_1,c_crop,h_0.67,g_north,w_0.99/c_crop,h_0.75,g_south,w_1/w_400' id='Eden_Hotel.jpg' folder='pdf' %}"
+      alt=""
+    />
   </a>
   <div class="card-body">
     <h3 class="card-title">Theateraufführungen des Theater der Generationen</h3>
-    <p class="card-text">
+    <div class="card-text">
       <ul style="text-align: left">
         <li>{% include pretty-date date="2022-05-24" mode=2 %}</li>
         <li>{% include pretty-date date="2022-05-27" mode=2 %}</li>
         <li>{% include pretty-date date="2022-05-28" mode=2 %}</li>
       </ul>
-    </p>
-    <a href="{% include img-link id='Eden_Hotel' folder='pdf' %}" class="btn btn-primary">Zum Plakat &rarr;</a>
+    </div>
+    <a
+      href="{% include img-link id='Eden_Hotel' folder='pdf' %}"
+      class="btn btn-primary"
+      >Zum Plakat &rarr;</a
+    >
   </div>
 </div>
 
@@ -62,11 +70,42 @@
 
 <div class="card mb-4">
   <div class="card-body">
-    <div>
-      <p class="card-text" id="naechstebuecherboerse-first">
-        Derzeit <strong>keine</strong> Bücherannahme.
-      </p>
+    <div id="naechstebuecherboerse-default">
+      <p class="card-text">Derzeit <strong>keine</strong> Bücherannahme.</p>
     </div>
+
+    <div id="naechstebuecherboerse" style="display: none">
+      <h3 class="card-title">nächste Bücher Annahme</h3>
+      <p class="card-text" id="naechstebuecherboerse-first"></p>
+      <a
+        data-toggle="collapse"
+        href="#collapseList"
+        aria-expanded="false"
+        aria-controls="collapseList"
+        id="naechstebuecherboerse-expand"
+        style="display: none"
+        >Weitere Termine</a
+      >
+      <div class="collapse" id="collapseList">
+        <br />
+        <ul style="text-align: left; width: fit-content; margin: auto; padding: 0;" id="naechstebuecherboerse-liste"></ul>
+      </div>
+      <br />
+      <small>ab 14:00 Uhr bis ca. 16:00 Uhr</small>
+    </div>
+    <!-- <div id="naechstebuecherboerse">
+      <h3 class="card-title">nächste Bücher Annahme</h3>
+      <p class="card-text" id="naechstebuecherboerse-first">Derzeit <strong>keine</strong> Bücherannahme.</p>
+      <a data-toggle="collapse" href="#collapseList" aria-expanded="false" aria-controls="collapseList" id="naechstebuecherboerse-expand" style="display: none;">Weitere
+        Termine</a>
+      <div class="collapse" id="collapseList">
+        <br>
+        <ul style="text-align:left;" id="naechstebuecherboerse-liste">
+        </ul>
+      </div>
+      <br>
+      <small id="naechstebuecherboerse-time" style="display: none;">ab 14:00 Uhr bis ca. 16:00 Uhr</small>
+    </div> -->
     <hr />
     <div>
       <h3 class="card-title">Bücherverkauf</h3>
@@ -90,8 +129,7 @@
   </div>
 </div>
 
-<!--
-<div class="card mb-4">
+<!-- <div class="card mb-4">
   <div class="card-body">
     <div id="naechstebuecherboerse">
       <h3 class="card-title">nächste Bücher Annahme</h3>
@@ -114,53 +152,67 @@
       </ul>
     </div>
   </div>
-</div>
+</div> -->
 
 <script>
-
   function format(date) {
-    const weekday = new Intl.DateTimeFormat('de-de', { weekday: 'long' }).format(date)
-    const year = new Intl.DateTimeFormat('de-de', { year: 'numeric' }).format(date)
-    const month = new Intl.DateTimeFormat('de-de', { month: 'long' }).format(date)
-    const day = new Intl.DateTimeFormat('de-de', { day: '2-digit' }).format(date)
+    const weekday = new Intl.DateTimeFormat("de-de", {
+      weekday: "long",
+    }).format(date);
+    const year = new Intl.DateTimeFormat("de-de", { year: "numeric" }).format(
+      date
+    );
+    const month = new Intl.DateTimeFormat("de-de", { month: "long" }).format(
+      date
+    );
+    const day = new Intl.DateTimeFormat("de-de", { day: "2-digit" }).format(
+      date
+    );
 
-    return weekday + ", " + day + ". " + month + " " + year
+    return weekday + ", " + day + ". " + month + " " + year;
   }
 
-  let div_naechstebuecherboerse = document.getElementById("naechstebuecherboerse")
-  let a_naechstebuecherboerse = document.getElementById("naechstebuecherboerse-expand")
-  let ul_naechstebuecherboerse = document.getElementById("naechstebuecherboerse-liste")
-  let p_naechstebuecherboerse = document.getElementById("naechstebuecherboerse-first")
-  let small_naechstebuecherboerse = document.getElementById("naechstebuecherboerse-time")
+  let div_naechstebuecherboerse = document.getElementById(
+    "naechstebuecherboerse"
+  );
+  let div_naechstebuecherboerse_default = document.getElementById(
+    "naechstebuecherboerse-default"
+  );
+  let a_naechstebuecherboerse = document.getElementById(
+    "naechstebuecherboerse-expand"
+  );
+  let ul_naechstebuecherboerse = document.getElementById(
+    "naechstebuecherboerse-liste"
+  );
+  let p_naechstebuecherboerse = document.getElementById(
+    "naechstebuecherboerse-first"
+  );
 
-  let dates = []
-  let now = new Date()
+  let dates = [];
+  let now = new Date();
 
-  "2021-06-11,2021-07-02".split(",").forEach(element => {
+  "2021-06-11,2022-06-03".split(",").forEach((element) => {
     if (element == "") return;
-    let date = new Date(element)
-    if (date < now) return
-    dates.push(date)
-  })
-
-
+    let date = new Date(element);
+    if (date < now) return;
+    dates.push(date);
+  });
 
   if (dates.length > 0) {
     if (dates.length > 1) {
-      a_naechstebuecherboerse.style.display = "inherit"
+      a_naechstebuecherboerse.style.display = "inherit";
     }
-    small_naechstebuecherboerse.style.display = "inherit"
-    p_naechstebuecherboerse.innerHTML = format(dates.shift())
+    div_naechstebuecherboerse.style.display = "inherit";
+    div_naechstebuecherboerse_default.style.display = "none";
+    p_naechstebuecherboerse.innerHTML = format(dates.shift());
   }
 
-  dates.forEach(date => {
-    let li = document.createElement("li")
-    li.innerHTML = format(date)
-    ul_naechstebuecherboerse.appendChild(li)
-  })
-
-
-</script> -->
+  dates.forEach((date) => {
+    let li = document.createElement("li");
+    li.innerHTML = format(date);
+    ul_naechstebuecherboerse.appendChild(li);
+  });
+</script>
 
 <!--
 <div class="card mb-4">
