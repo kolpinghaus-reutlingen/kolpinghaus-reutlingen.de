@@ -22,6 +22,10 @@ Mit der Aktion wird verhindert, dass die unverkaufte Ware zum Teil vernichtet we
 
 Vor allem aber wird mit dem Shoppingerlebnis ein guter Zweck verfolgt. Die Überschüsse aus dem Outletmarkt werden den nachhaltigen Sozialprojekten zur Verfügung gestellt. So wird ein Teil der Einnahmen für die katholische Jugendarbeit den BDKJ-Mitgliedsverbänden zur Verfügung gestellt. Der andere Teil fließt zur Aktion Hoffnung zurück, die damit zur Aktion Hoffnung zurück, die damit unter anderem eine Suppenküche für alte, bedürftige Menschen in Georgien unterstützt. Auch weitere nachhaltige Sozialprojekte der katholischen Mitgliederverbände der Aktion Hoffnung können damit finanziert werden.
 
+<div class="alert alert-success" role="alert">
+  <a href="{% include img-link id='2022-04-26-nachhaltig-shoppen-pressemitteilung.pdf'%}">Pressemitteilung vom 12.05.2022 zum Ergebnis der Aktion</a>
+</div>
+
 ---
 
 <!-- prettier-ignore -->
