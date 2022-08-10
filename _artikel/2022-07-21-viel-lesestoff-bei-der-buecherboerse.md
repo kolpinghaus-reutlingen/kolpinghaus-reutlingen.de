@@ -2,6 +2,74 @@
 title: Viel Lesestoff bei der Bücherbörse
 date: 2022-07-21
 autor: Reutlinger General-Anzeiger
+img:
+  thumb:
+    id: 2022-07-21-viel-lesestoff-bei-der-buecherboerse-14
+    w: 4160
+    h: 3120
+    alt: 2022-07-21-viel-lesestoff-bei-der-buecherboerse-14
+images:
+  - id: 2022-07-21-viel-lesestoff-bei-der-buecherboerse-01
+    w: 4160
+    h: 3120
+    alt: 2022-07-21-viel-lesestoff-bei-der-buecherboerse-01
+  - id: 2022-07-21-viel-lesestoff-bei-der-buecherboerse-02
+    w: 4160
+    h: 3120
+    alt: 2022-07-21-viel-lesestoff-bei-der-buecherboerse-02
+  - id: 2022-07-21-viel-lesestoff-bei-der-buecherboerse-03
+    w: 4160
+    h: 3120
+    alt: 2022-07-21-viel-lesestoff-bei-der-buecherboerse-03
+  - id: 2022-07-21-viel-lesestoff-bei-der-buecherboerse-04
+    w: 4160
+    h: 3120
+    alt: 2022-07-21-viel-lesestoff-bei-der-buecherboerse-04
+  - id: 2022-07-21-viel-lesestoff-bei-der-buecherboerse-05
+    w: 4160
+    h: 3120
+    alt: 2022-07-21-viel-lesestoff-bei-der-buecherboerse-05
+  - id: 2022-07-21-viel-lesestoff-bei-der-buecherboerse-06
+    w: 4160
+    h: 3120
+    alt: 2022-07-21-viel-lesestoff-bei-der-buecherboerse-06
+  - id: 2022-07-21-viel-lesestoff-bei-der-buecherboerse-07
+    w: 4160
+    h: 3120
+    alt: 2022-07-21-viel-lesestoff-bei-der-buecherboerse-07
+  - id: 2022-07-21-viel-lesestoff-bei-der-buecherboerse-08
+    w: 4160
+    h: 3120
+    alt: 2022-07-21-viel-lesestoff-bei-der-buecherboerse-08
+  - id: 2022-07-21-viel-lesestoff-bei-der-buecherboerse-09
+    w: 4160
+    h: 3120
+    alt: 2022-07-21-viel-lesestoff-bei-der-buecherboerse-09
+  - id: 2022-07-21-viel-lesestoff-bei-der-buecherboerse-10
+    w: 4160
+    h: 3120
+    alt: 2022-07-21-viel-lesestoff-bei-der-buecherboerse-10
+  - id: 2022-07-21-viel-lesestoff-bei-der-buecherboerse-11
+    w: 4160
+    h: 3120
+    alt: 2022-07-21-viel-lesestoff-bei-der-buecherboerse-11
+  - id: 2022-07-21-viel-lesestoff-bei-der-buecherboerse-12
+    w: 4160
+    h: 3120
+    alt: 2022-07-21-viel-lesestoff-bei-der-buecherboerse-12
+  - id: 2022-07-21-viel-lesestoff-bei-der-buecherboerse-13
+    w: 4160
+    h: 3120
+    alt: 2022-07-21-viel-lesestoff-bei-der-buecherboerse-13
+  - id: 2022-07-21-viel-lesestoff-bei-der-buecherboerse-14
+    w: 4160
+    h: 3120
+    alt: 2022-07-21-viel-lesestoff-bei-der-buecherboerse-14
+  - id: 2022-07-21-viel-lesestoff-bei-der-buecherboerse-15
+    w: 4160
+    h: 3120
+    alt: 2022-07-21-viel-lesestoff-bei-der-buecherboerse-15
+    
 ---
 Am Samstag gibt's Literatur, Fachbücher und vieles mehr bei der Bücherbörse von TBR und Kolpinghaus.
 <!--mehr-->
