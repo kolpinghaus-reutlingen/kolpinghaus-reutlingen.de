@@ -12,6 +12,19 @@ redirect_from:
   - /js/
 ---
 
+<div>
+  <a href="{% include img-link id='Eden_Hotel_Derniere.pdf' folder='pdf' %}">
+    <div class="alert alert-danger text-dark" id="alert-derniere">
+      <strong>Dernière | Letzte Aufführung!</strong><br>
+      Eden Hotel des Theater der Generationen<br>
+      Freitag 30. September 2022, 20:00 Uhr
+    </div>
+  </a>
+</div>
+<script>
+  if (+new Date() > +new Date("2022-10-01")) document.getElementById("alert-derniere").style.display = "none";
+</script>
+
 ## Das Kolpinghaus bietet viel mehr...
 
 - Sport und Fitness

@@ -1,6 +1,6 @@
 ---
 title: Theaterafführungen des Theater der Generationen
-date: 2022-05-24
+date: 2022-09-30
 description: "Titel: Eden Hotel<br>Neun Schattenseiten des Lebenteilens<br><a href='https://res.cloudinary.com/kolpinghaus-rt/image/upload/v1655898890/veranstaltungen/Eden_Hotel_Programmheft.pdf'>Programmheft</a>"
 folder: pdf
 pdf: Eden_Hotel
