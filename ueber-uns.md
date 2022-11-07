@@ -39,15 +39,20 @@ Das gesamte Team arbeitet nach dem Motto „wir bieten viel mehr als ein Dach ü
 </div>
 <br>
 <div class="row">
-<div class="col-lg-6  text-center mb-4" markdown="1">
-<img class="rounded-circle img-fluid d-block mx-auto" width="200" height="200" src="{% include img-link id='rist' options='w_200,h_200' %}" alt="Hermann Rist">
+<div class="col-lg-6 gallery text-center mb-4" markdown="1">
+<a href="{% include img-link id='H.Rist' %}" data-size="628x627" data-med-size="628x627" data-med="{% include img-link id='H.Rist' %}">
+<img class="rounded-circle img-fluid d-block mx-auto" width="200" height="200" src="{% include img-link id='H.Rist' options='w_200,h_200' %}" alt="Hermann Rist">
+</a>
 
 ### Hermann Rist <small style="font-size: 70%;">Internatsleiter</small>
 
 </div>
-<div class="col-lg-6 text-center mb-4" markdown="1">
-<img class="rounded-circle img-fluid d-block mx-auto" width="200" height="200" src="{% include img-link id='abele' options='w_200,h_200' %}" alt="Yvonne Abele">
-### Yvonne Abele <small style="font-size: 70%;">Stellvertretende Leitung</small>
+<div class="col-lg-6 gallery text-center mb-4" markdown="1">
+<a href="{% include img-link id='J.Schiller' %}" data-size="1236x1656" data-med-size="1236x1656" data-med="{% include img-link id='J.Schiller' %}">
+<img class="rounded-circle img-fluid d-block mx-auto" width="200" height="200" src="{% include img-link id='J.Schiller' options='w_200,h_200' %}" alt="Julia Schiller">
+</a>
+
+### Julia Schiller <small style="font-size: 70%;">Internatsleiterin</small>
 </div>
 </div>
 <hr>
