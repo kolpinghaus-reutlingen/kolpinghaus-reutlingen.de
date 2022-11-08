@@ -1,12 +1,28 @@
 <div class="card mb-4">
   <div class="card-body">
     <h3 class="card-title">Theaterprojekt</h3>
+    <a href="{% include img-link id='Theater_Plakat.pdf' folder='pdf' %}">
+      <img
+        class="rounded"
+        src="{% include img-link id='Theater_Plakat.png' options='c_crop,g_north,h_0.47,w_1.0' folder='pdf' %}"
+        style="max-width: 100%"
+        alt="Theater_Plakat"
+      />
+    </a>
     <div class="card-text">
-      Das Theaterprojekt im Kolpinghaus Reutlingen startet erneut!<br>
-      Das erste Treffen findet statt am<br>
-      {% include pretty-date date="2022-11-10" mode=2 %}<br>um 19.30Uhr bis ca. 21.00Uhr.<br><br>
-      Die weiteren zwei Termine sind:<br>{% include pretty-date date="2022-11-17" mode=2 %} und<br>{% include pretty-date date="2022-11-24" mode=2 %}<br>zur gleichen Uhrzeit. 
+      Das Theaterprojekt im Kolpinghaus Reutlingen startet erneut!<br />
+      Das erste Treffen findet statt am<br />
+      {% include pretty-date date="2022-11-10" mode=2 %}<br />um 19.30Uhr bis
+      ca. 21.00Uhr.<br /><br />
+      Die weiteren zwei Termine sind:<br />{% include pretty-date
+      date="2022-11-17" mode=2 %} und<br />{% include pretty-date
+      date="2022-11-24" mode=2 %}<br />zur gleichen Uhrzeit.
     </div>
+    <a
+      href="{% include img-link id='Theater_Plakat.pdf' folder='pdf' %}"
+      class="btn btn-primary"
+      >Mehr &rarr;</a
+    >
   </div>
 </div>
 
@@ -75,7 +91,10 @@
       >
       <div class="collapse" id="collapseList">
         <br />
-        <ul style="text-align: left; width: fit-content; margin: auto; padding: 0;" id="naechstebuecherboerse-liste"></ul>
+        <ul
+          style="text-align: left; width: fit-content; margin: auto; padding: 0"
+          id="naechstebuecherboerse-liste"
+        ></ul>
       </div>
       <br />
       <small>ab 14:00 Uhr bis ca. 16:00 Uhr</small>
