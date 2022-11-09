@@ -170,3 +170,9 @@ Außerdem können Sie sich auch direkt bei uns, im Kolpinghaus, für einen freiw
 <img src="{% include img-link id='kooperationspartner-wide' options='h_400' %}" alt="Kooperationspartner" style="max-width: 100%;">
 </div>
 </div>
+
+<br>
+### Antrag auf Mitgliedschaft für den Förderverein
+<a href="{% include img-link id='Antrag_auf_Mitgliedschaft_für_den_Förderverein.pdf' folder='pdf' %}">
+<img src="{% include img-link id='Antrag_auf_Mitgliedschaft_für_den_Förderverein.png' folder='pdf' %}" style="max-width: 100%;" alt="Antrag">
+</a>
