@@ -1,7 +1,17 @@
 ---
 title: Internationales Buffet
 date: 2021-09-21
+img:
+  third:
+    id: 2021-09-21-internationales-buffet-banner
+    alt: 2021-09-21-internationales-buffet-banner
+    w: 505
+    h: 991
 images:
+  - id: 2021-09-21-internationales-buffet-00
+    alt: 2021-09-21-internationales-buffet-00
+    w: 595
+    h: 511
   - id: 2021-09-21-internationales-buffet-01
     alt: 2021-09-21-internationales-buffet-01
     w: 6000
