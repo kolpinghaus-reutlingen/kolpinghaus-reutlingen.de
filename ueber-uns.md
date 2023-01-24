@@ -23,7 +23,7 @@ Fun, Action, Kultur und Bildung bilden den Schwerpunkt unserer Freizeitangebote 
 
 <div class="row">
 <div class="col-lg-6 gallery">
-<a href="{% include img-link id='mitarbeiter' %}" data-size="1920x1080" data-med-size="1920x1080" data-med="{% include img-link id='mitarbeiter' %}">
+<a href="{% include img-link id='mitarbeiter' %}" data-pswp-width="1920" data-pswp-height="1080">
 <img class="img-fluid rounded mb-4" src="{% include img-link id='mitarbeiter' options='w_600' %}" alt="Mitarbeiter des Kolpinghauses" />
 </a>
 </div>
@@ -40,7 +40,7 @@ Das gesamte Team arbeitet nach dem Motto „wir bieten viel mehr als ein Dach ü
 <br>
 <div class="row">
 <div class="col-lg-6 gallery text-center mb-4" markdown="1">
-<a href="{% include img-link id='H.Rist' %}" data-size="628x627" data-med-size="628x627" data-med="{% include img-link id='H.Rist' %}">
+<a href="{% include img-link id='H.Rist' %}" data-pswp-width="628" data-pswp-height="627">
 <img class="rounded-circle img-fluid d-block mx-auto" width="200" height="200" src="{% include img-link id='H.Rist' options='w_200,h_200' %}" alt="Hermann Rist">
 </a>
 
@@ -48,7 +48,7 @@ Das gesamte Team arbeitet nach dem Motto „wir bieten viel mehr als ein Dach ü
 
 </div>
 <div class="col-lg-6 gallery text-center mb-4" markdown="1">
-<a href="{% include img-link id='J.Schiller' %}" data-size="1236x1656" data-med-size="1236x1656" data-med="{% include img-link id='J.Schiller' %}">
+<a href="{% include img-link id='J.Schiller' %}" data-pswp-width="1236" data-pswp-height="1656">
 <img class="rounded-circle img-fluid d-block mx-auto" width="200" height="200" src="{% include img-link id='J.Schiller' options='w_200,h_200' %}" alt="Julia Schiller">
 </a>
 
@@ -102,14 +102,14 @@ Außerdem können Sie sich auch direkt bei uns, im Kolpinghaus, für einen freiw
 <br>
 
 <div class="row gallery">
-    <a href="{% include img-link id="bfd_1" %}" data-size="1024x769" data-med-size="1024x769" data-med="{% include img-link id="bfd_1" %}" class="d-block mb-4 col-lg-3 col-md-4 col-xs-6">
-        <img class="img-fluid img-thumbnail" src="{% include img-link id="bfd_1" options='w_300,h_200' %}" alt="bfd_1">
+    <a href="{% include img-link id='bfd_1' %}" data-pswp-width="1024" data-pswp-height="769" class="d-block mb-4 col-lg-3 col-md-4 col-xs-6">
+        <img class="img-fluid img-thumbnail" src="{% include img-link id='bfd_1' options='w_300,h_200' %}" alt="bfd_1">
     </a>
-    <a href="{% include img-link id="bfd_2" %}" data-size="2704x2340" data-med-size="2704x2340" data-med="{% include img-link id="bfd_2" %}" class="d-block mb-4 col-lg-3 col-md-4 col-xs-6">
-        <img class="img-fluid img-thumbnail" src="{% include img-link id="bfd_2" options='w_300,h_200' %}" alt="bfd_2">
+    <a href="{% include img-link id='bfd_2' %}" data-pswp-width="2704" data-pswp-height="2340" class="d-block mb-4 col-lg-3 col-md-4 col-xs-6">
+        <img class="img-fluid img-thumbnail" src="{% include img-link id='bfd_2' options='w_300,h_200' %}" alt="bfd_2">
     </a>
-    <a href="{% include img-link id="2019-02-27-fruehlingserwachen-entdecke-den-kuenstler-in-dir-3" folder="artikel" %}" data-size="3024x4032" data-med-size="3024x4032" data-med="{% include img-link id="bfd_2" %}" class="d-block mb-4 col-lg-3 col-md-4 col-xs-6">
-      <img class="img-fluid img-thumbnail" src="{% include img-link id="2019-02-27-fruehlingserwachen-entdecke-den-kuenstler-in-dir-3" folder="artikel" options='w_300,h_200' %}" alt="bfd_3">
+    <a href="{% include img-link id='2019-02-27-fruehlingserwachen-entdecke-den-kuenstler-in-dir-3' folder='artikel' %}" data-pswp-width="3024" data-pswp-height="4032" class="d-block mb-4 col-lg-3 col-md-4 col-xs-6">
+      <img class="img-fluid img-thumbnail" src="{% include img-link id='2019-02-27-fruehlingserwachen-entdecke-den-kuenstler-in-dir-3' folder='artikel' options='w_300,h_200' %}" alt="bfd_3">
     </a>
 </div>
 
@@ -120,7 +120,7 @@ Außerdem können Sie sich auch direkt bei uns, im Kolpinghaus, für einen freiw
 <div class="row">
 <div class="col gallery" markdown="1">
 ### Flyer
-<a href="{% include img-link id='flyer-foerderverein' folder='ueber-uns' options='w_1080' %}" data-size="1080x2050" data-med-size="1080x2050" data-med="{% include img-link id='flyer-foerderverein' folder='ueber-uns' options='w_1080' %}">
+<a href="{% include img-link id='flyer-foerderverein' folder='ueber-uns' options='w_1080' %}" data-pswp-width="1080" data-pswp-height="2050">
     <img src="{% include img-link id='flyer-foerderverein' folder='ueber-uns' options='w_300' %}" style="max-width: 100%;" alt="Flyer"></a>
 </div>
 

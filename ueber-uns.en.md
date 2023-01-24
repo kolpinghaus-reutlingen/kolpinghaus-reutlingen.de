@@ -24,7 +24,7 @@ Fun, action, culture and education are the main emphasis of our free time activi
 
 <div class="row">
 <div class="col-lg-6 gallery">
-<a href="{% include img-link id='mitarbeiter' %}" data-size="1920x1080" data-med-size="1920x1080" data-med="{% include img-link id='mitarbeiter' %}">
+<a href="{% include img-link id='mitarbeiter' %}" data-pswp-width="1920" data-pswp-height="1080">
 <img class="img-fluid rounded mb-4" src="{% include img-link id='mitarbeiter' options='w_600' %}" alt="The team of employees" />
 </a>
 </div>
