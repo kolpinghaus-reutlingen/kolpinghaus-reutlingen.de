@@ -25,7 +25,7 @@ layout: default
           <div class="card mb-4">
         {% endif %}
         		{% if item.img.thumb %}
-        			<a href="{{ url }}"> {% assign img-options = 'h_200,w_600' | append: item.img.thumb.options %}
+        			<a href="{{ url }}"> {% assign img-options = 'h_200,w_600,' | append: item.img.thumb.options %}
           				<img class="card-img-top" src="{% include img-link id=item.img.thumb.id folder=item.img.thumb.folder options=img-options %}" alt="{{item.img.thumb.alt}}">
         			</a>
 				{% endif %}

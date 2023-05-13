@@ -23,7 +23,7 @@ layout: default
           {% else %}
             <a href="{% include img-link id=page.img.main.id folder=page.img.main.folder options=page.img.main.options %}" data-pswp-width="3000" data-pswp-height="2000" alt="{{page.img.main.alt}}">
           {% endif %}
-          {% assign img-options = 'w_700' | append: page.img.main.options %}
+          {% assign img-options = 'w_700,' | append: page.img.main.options %}
           <img class="img-fluid rounded" src="{% include img-link id=page.img.main.id folder=page.img.main.folder options=img-options %}" alt="{{page.img.main.alt}}">
           </a>
         </div>
@@ -50,7 +50,7 @@ layout: default
         {% else %}
           <a href="{% include img-link id=page.img.third.id folder=page.img.third.folder options=page.img.third.options %}" data-pswp-width="3000" data-pswp-height="2000" alt="{{page.img.third.alt}}>
         {% endif %}
-        {% assign img-options = 'h_500' | append: page.img.main.options %}
+        {% assign img-options = 'h_500,' | append: page.img.main.options %}
         <img class="img-fluid" src="{% include img-link id=page.img.third.id folder=page.img.third.folder options=img-options %}" alt="{{page.img.third.alt}}">
         </a>
       </div>
@@ -70,7 +70,7 @@ layout: default
           <!-- data-pswp-width="3000" data-pswp-height="2000" -->
           <a href="{% include img-link id=picture.id folder=picture.folder options=picture.options %}" class="d-block mb-4 col-lg-3 col-md-4 col-xs-6" alt="{{img-alt}}">
         {% endif %}
-        {% assign img-options = 'w_300,h_200' | append: picture.options %}
+        {% assign img-options = 'w_300,h_200,' | append: picture.options %}
         <img class="img-fluid img-thumbnail" src="{% include img-link id=picture.id folder=picture.folder options=img-options %}" alt="{{img-alt}}">
         </a>
       {% endfor %}
