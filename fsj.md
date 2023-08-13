@@ -29,3 +29,28 @@ Sprache ist wichtig, ein Schlüssel und hilft enorm sich hier zurecht zu finden.
 
 
 Wir freuen uns auf dich und deine Bewerbung unter: [fsj@kolpinghaus-reutlingen.de](mailto:fsj@kolpinghaus-reutlingen.de) 😊
+
+
+<br>
+
+<div class="row">
+<div class="row gallery">
+<a class="d-block mb-4 col-lg-3 col-md-4 col-xs-6" href="{% include img-link id='fsj-1' %}" data-pswp-width="6000" data-pswp-height="4000">
+<img class="img-fluid rounded mb-4" src="{% include img-link id='fsj-1' options='w_600' %}" alt="fsj-1" />
+</a>
+<a class="d-block mb-4 col-lg-3 col-md-4 col-xs-6" href="{% include img-link id='fsj-2' %}" data-pswp-width="6000" data-pswp-height="4000">
+<img class="img-fluid rounded mb-4" src="{% include img-link id='fsj-2' options='w_600' %}" alt="fsj-1" />
+</a>
+<a class="d-block mb-4 col-lg-3 col-md-4 col-xs-6" href="{% include img-link id='fsj-3' %}" data-pswp-width="6000" data-pswp-height="4000">
+<img class="img-fluid rounded mb-4" src="{% include img-link id='fsj-3' options='w_600' %}" alt="fsj-1" />
+</a>
+<a class="d-block mb-4 col-lg-3 col-md-4 col-xs-6" href="{% include img-link id='fsj-4' %}" data-pswp-width="6000" data-pswp-height="4000">
+<img class="img-fluid rounded mb-4" src="{% include img-link id='fsj-4' options='w_600' %}" alt="fsj-1" />
+</a>
+<a class="d-block mb-4 col-lg-3 col-md-4 col-xs-6" href="{% include img-link id='fsj-5' %}" data-pswp-width="6000" data-pswp-height="4000">
+<img class="img-fluid rounded mb-4" src="{% include img-link id='fsj-5' options='w_600' %}" alt="fsj-1" />
+</a>
+
+
+</div>
+</div>
