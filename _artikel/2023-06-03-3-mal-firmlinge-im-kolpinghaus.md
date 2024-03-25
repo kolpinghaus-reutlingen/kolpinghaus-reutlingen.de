@@ -43,6 +43,16 @@ Dank der Vielfältigkeit unserer Einrichtung erklärte sie dabei oft am Beispiel
 Im Anschluss an diese guten Gespräche probierten die jungen Menschen direkt eines der Highlights des Kolpinghauses aus: die Kegelbahn. Gemeinsam mit Raphael Thiel wurde fleißig gekegelt, viel gelacht und eifrig Punkte gezählt. 
 Alle hatten gemeinsam Spaß daran, den Tag beim lustigen Kegelspiel ausklingen zu lassen.
 
+
+
+
+
+
+
+
+
+
+
 Das zweite Mal, an dem die jungen Firmanden uns besuchten, verknüpften wir mit dem Spieleabend, den 19. April 2023, der an diesem Tag zum zweiten Mal bei uns im Kolpinghaus stattfand. Diesmal erschienen sie mit Laura Diebold, der Firmgruppenleiterin.
 Zusammen mit den anderen am Spieleabend Teilnehmenden genossen sie den Abend mit lustigen Brettspielen, leckeren Snacks und guten Gesprächen. Wir freuen uns sehr, dass sie an ihrem zweiten Besuch bei einer unserer Veranstaltungen teilnahmen. Das gab der Kooperation nochmal ein erweitertes Gemeinschaftsgefühl.
 
