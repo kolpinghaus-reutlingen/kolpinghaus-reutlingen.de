@@ -8,11 +8,35 @@ img:
     h: 3376
     alt: lets-play-2
   third:
-    id: lets-play-plakat-230323.png
-    w: 1241
-    h: 1755
-    alt: lets-play-plakat-230323
+    id: lets-play-plakat-240321
+    w: 1080
+    h: 1080
+    alt: lets-play-plakat-240321
 images:
+  - id: lets-play-termine_24.jpg
+    alt: lets-play-termine_24
+    w: 1008
+    h: 612
+  - id: lets-play-5
+    alt: lets-play-5
+    w: 6000
+    h: 4000
+  - id: lets-play-6
+    alt: lets-play-6
+    w: 6000
+    h: 4000
+  - id: lets-play-7
+    alt: lets-play-7
+    w: 6000
+    h: 4000
+  - id: lets-play-8
+    alt: lets-play-8
+    w: 6000
+    h: 4000
+  - id: lets-play-9
+    alt: lets-play-9
+    w: 6000
+    h: 4000
   - id: lets-play-2
     w: 6000
     h: 3376
