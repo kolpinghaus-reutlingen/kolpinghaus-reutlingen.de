@@ -48,3 +48,18 @@ Before uploading images, use the following command to reduce their size:
 ```bash
 jpegoptim *.JPG -S 9600
 ```
+
+### Docker Link Checker
+
+To check the links in your project, you can use the Docker Link Checker. Run the following command:
+
+```bash
+docker run --rm -it ghcr.io/linkchecker/linkchecker:latest --verbose https://kolpinghaus-reutlingen.de/
+```
+
+### Bulk Image Downloader
+
+For downloading images in bulk, you can use the Cloudinary Bulk Image Downloader. More information can be found at the following link:
+
+[Cloudinary Bulk Image Downloader](https://github.com/krivachy/cloudinary-bulk-image-downloader)
+
