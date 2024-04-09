@@ -13,6 +13,31 @@ img:
     alt: theater-der-generationen
     w: 954
     h: 771
+images:
+  - id: theater-der-generationen-1
+    alt: theater-der-generationen-1
+    w: 6000
+    h: 4000
+  - id: theater-der-generationen-2
+    alt: theater-der-generationen-2
+    w: 6000
+    h: 4000
+  - id: theater-der-generationen-3
+    alt: theater-der-generationen-3
+    w: 6000
+    h: 4000
+  - id: theater-der-generationen-4
+    alt: theater-der-generationen-4
+    w: 6000
+    h: 4000
+  - id: theater-der-generationen-5
+    alt: theater-der-generationen-5
+    w: 6000
+    h: 4000
+  - id: theater-der-generationen-6
+    alt: theater-der-generationen-6
+    w: 6000
+    h: 4000
 ---
 
 <!--mehr-->
