@@ -1,7 +1,6 @@
 ---
 title: Kolpinghaus-Chor
 date: 2007-01-01
-empty: true
 img:
   thumb:
     id: chor

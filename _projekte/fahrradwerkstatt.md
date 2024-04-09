@@ -1,14 +1,24 @@
 ---
 title: Fahrradwerkstatt
 date: 2009-01-01
-empty: true
 img:
   thumb:
     id: fahrradwerkstatt
     w: 4000
     h: 2667
-    options: ",e_grayscale"
     alt: fahrradwerkstatt
-redirect_to:
-  - /projekte/
+images:
+  - id: fahrradwerkstatt-1
+    alt: fahrradwerkstatt-1
+    w: 4608
+    h: 3456
+  - id: fahrradwerkstatt-2
+    alt: fahrradwerkstatt-2
+    w: 3456
+    h: 4608
 ---
+
+
+<!--mehr-->
+
+### Fahrradwerkstatt
