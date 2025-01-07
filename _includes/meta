@@ -51,4 +51,5 @@
 <meta name="og:image" content="{% include img-link id='kolping-k' options='w_35,h_35' folder='assets' %}">
 <link rel="icon" href="{% include img-link id='favicon.ico' folder='assets' %}">
 <meta name="google-site-verification" content="{{site.google-site-verification}}" />
+<script defer src="https://cloud.umami.is/script.js" data-website-id="68c368c1-65e6-4ecd-8441-1a62eb808d55"></script>
 
