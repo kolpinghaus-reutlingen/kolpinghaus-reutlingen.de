@@ -44,12 +44,12 @@ redirect_from:
 ---
 
 <br>
-Das Kolpinghaus in Reutlingen bietet kostengünstige Wohn- und Übernachtungsmöglichkeiten für junge Menschen. Unser Angebot richtet sich an Blockschüler*innen, Auszubildende, Studierende, Lehramtsanwärter*innen, Meisterschüler*innen und junge Berufstätige.
+Das Kolpinghaus in Reutlingen bietet kostengünstige Wohn- und Übernachtungsmöglichkeiten für junge Menschen. Unser Angebot richtet sich an Blockschüler\*innen, Auszubildende, Studierende, Lehramtsanwärter\*innen, Meisterschüler\*innen und junge Berufstätige.
 
 ---
 
 <br>
-Unseren jungen Hausbewohner*innen wird die Möglichkeit geboten, im Kolpinghaus ihre Freizeit auf sinnvolle Weise zu verbringen.<br>
+Unseren jungen Hausbewohner\*innen wird die Möglichkeit geboten, im Kolpinghaus ihre Freizeit auf sinnvolle Weise zu verbringen.<br>
 Wir besitzen ein internes Bistro, das am Abend mit kostengünstigen Getränken und Snacks sowie einem Fernseher, öffnet; eine Kegelbahn; ein Billardraum; Tischtennisplatten; mehrere Tischkicker und viele verschiedene Gesellschaftsspiele, die den Jugendlichen jederzeit zur Verfügung stehen. <br>
 Außerdem können sie sich Fußbälle, Handbälle, Volleybälle, Badminton, Inlineskates, einen Boxsack und vieles mehr ausleihen, um sich im Freien sportlich zu betätigen.<br>
-Zusätzlich bietet das pädagogische Team allen Hausbewohner*innen täglich unterschiedliche Aktivitäten, an denen sie teilnehmen können.<br>
+Zusätzlich bietet das pädagogische Team allen Hausbewohner\*innen täglich unterschiedliche Aktivitäten, an denen sie teilnehmen können.<br>
