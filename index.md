@@ -44,7 +44,7 @@ redirect_from:
 ---
 
 <br>
-Das Kolpinghaus in Reutlingen bietet kostengünstige Wohn- und Übernachtungsmöglichkeiten für junge Menschen. Unser Angebot richtet sich an Blockschüler, Auszubildende, Studenten, Lehramtsanwärter, Meisterschüler und junge Berufstätige.
+Das Kolpinghaus in Reutlingen bietet kostengünstige Wohn- und Übernachtungsmöglichkeiten für junge Menschen. Unser Angebot richtet sich an Blockschüler*innen, Auszubildende, Studierende, Lehramtsanwärter*innen, Meisterschüler*innen und junge Berufstätige.
 
 ---
 
