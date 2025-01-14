@@ -2,8 +2,23 @@
 title: Theaterpremiere 2024 im Kolpinghaus
 date: 2024-07-17
 autor: Karin Kintzler
-img:
-  
+img: 
+  thumb:
+    id: 2024-07-17-Theaterpremiere-6
+    w: 2048
+    h: 1365
+
+images:
+  - id: 2024-07-17-Theaterpremiere-7
+    w: 2048
+    h: 1365
+  - id: 2024-07-17-Theaterpremiere-6
+    w: 2048
+    h: 1365
+  - id: 2024-07-17-Theaterpremiere-4
+    w: 2048
+    h: 1365
+    
 ---
 
 „L’amour auf Umwegen“ heißt es am 17. Juli 2024 auf der Bühne im Kolpinghaus Reutlingen. 
