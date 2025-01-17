@@ -44,15 +44,15 @@ Das gesamte Team arbeitet nach dem Motto „wir bieten viel mehr als ein Dach ü
 <img class="rounded-circle img-fluid d-block mx-auto" width="200" height="200" src="{% include img-link id='H.Rist' options='w_200,h_200' %}" alt="Hermann Rist">
 </a>
 
-### Hermann Rist <small style="font-size: 70%;">Internatsleiter</small>
+### Hermann Rist <small style="font-size: 70%;">Heimleiter</small>
 
 </div>
 <div class="col-lg-6 gallery text-center mb-4" markdown="1">
-<a href="{% include img-link id='J.Schiller' %}" data-pswp-width="1236" data-pswp-height="1656">
+<a href="{% include img-link id='Ueber_uns_FrauSchiller' %}" data-pswp-width="173" data-pswp-height="177">
 <img class="rounded-circle img-fluid d-block mx-auto" width="200" height="200" src="{% include img-link id='Ueber_uns_FrauSchiller' options='w_173,h_177' %}" 
 </a>
 
-### Julia Schiller <small style="font-size: 70%;">Internatsleiterin</small>
+### Julia Schiller <small style="font-size: 70%;">Heimleiterin</small>
 </div>
 </div>
 <hr>
