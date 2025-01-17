@@ -49,7 +49,7 @@ Das gesamte Team arbeitet nach dem Motto „wir bieten viel mehr als ein Dach ü
 </div>
 <div class="col-lg-6 gallery text-center mb-4" markdown="1">
 <a href="{% include img-link id='Ueber_uns_FrauSchiller' %}" data-pswp-width="173" data-pswp-height="177">
-<img class="rounded-circle img-fluid d-block mx-auto" width="200" height="200" src="{% include img-link id='Ueber_uns_FrauSchiller' options='w_173,h_177' %}" 
+<img class="rounded-circle img-fluid d-block mx-auto" width="173" height="177" src="{% include img-link id='Ueber_uns_FrauSchiller' options='w_173,h_177' %}" 
 </a>
 
 ### Julia Schiller <small style="font-size: 70%;">Heimleiterin</small>
