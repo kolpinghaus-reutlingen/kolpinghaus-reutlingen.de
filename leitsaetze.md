@@ -84,6 +84,7 @@ Informationen zur Kolpingjugend bitte hier klicken
 1. Wir verstehen uns als Anwalt für Familie.
 1. Wir spannen ein weltweites Netz der Partnerschaft.
 1. Wir leben verantwortlich und handeln solidarisch.
+1. Wir laden ein und machen Mut zur Gemeinschaft.
 </div>
 
 </div>
