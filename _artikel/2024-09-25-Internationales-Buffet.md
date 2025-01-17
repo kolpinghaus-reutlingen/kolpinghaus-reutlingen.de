@@ -7,6 +7,10 @@ img:
     id: 2024-09-25-Internationales-Buffet-4
     w: 2048
     h: 1365
+  third: 
+    id: 2024-09-25-Internationales-Buffet_Flyer 
+    w: 280 
+    h: 595
 
 images:
   - id: 2024-09-25-Internationales-Buffet-1
