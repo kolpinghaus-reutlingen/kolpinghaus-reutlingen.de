@@ -11,7 +11,7 @@ img:
     id: 2024-09-25-Internationales-Buffet_Flyer 
     w: 280 
     h: 595
-    folder: pdf
+
 
 images:
   - id: 2024-09-25-Internationales-Buffet-1
