@@ -8,12 +8,10 @@ img:
     w: 2048
     h: 1365
   third: 
-  - id: flyer-internationales-buffet-2024-1
+    id: flyer-internationales-buffet-2024-1
     w: 280 
     h: 595
-  - id: flyer-internationales-buffet-2024-2
-    w: 281 
-    h: 595
+ 
     
 
 
@@ -30,6 +28,13 @@ images:
   - id: 2024-09-25-Internationales-Buffet-4
     w: 2048
     h: 1365
+  - id: flyer-internationales-buffet-2024-1
+    w: 280 
+    h: 595
+  - id: flyer-internationales-buffet-2024-2
+    w: 281 
+    h: 595
+    
 ---
 Auch in diesem Jahr freute sich das Kolpinghaus, im Rahmen der Interkulturellen Woche in Reutlingen, das jährlich stattfindende Internationale Buffet anzubieten. 
 <!--mehr-->
