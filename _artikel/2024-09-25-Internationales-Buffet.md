@@ -11,6 +11,7 @@ img:
     id: flyer-internationales-buffet-2024-1
     w: 280 
     h: 595
+    folder: pdf
  
     
 
