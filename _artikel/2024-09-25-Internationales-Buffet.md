@@ -8,9 +8,13 @@ img:
     w: 2048
     h: 1365
   third: 
-    id: 2024-09-25-Internationales-Buffet_Flyer 
+  - id: flyer-internationales-buffet-2024-1
     w: 280 
     h: 595
+  - id: flyer-internationales-buffet-2024-2
+    w: 281 
+    h: 595
+    
 
 
 images:
