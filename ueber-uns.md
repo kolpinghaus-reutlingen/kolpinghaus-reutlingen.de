@@ -59,16 +59,16 @@ Das gesamte Team arbeitet nach dem Motto „wir bieten viel mehr als ein Dach ü
 
   
 <div class="col-lg-3 gallery text-center mb-4" markdown="1">
-<a href="{% include img-link id='H.Rist' %}" data-pswp-width="628" data-pswp-height="627">
-<img class="rounded-circle img-fluid d-block mx-auto" width="200" height="200" src="{% include img-link id='H.Rist' options='w_200,h_200' %}" alt="Hermann Rist">
+<a href="{% include img-link id='Ueberuns_abele-cropped' %}" data-pswp-width="679" data-pswp-height="679">
+<img class="rounded-circle img-fluid d-block mx-auto" width="200" height="200" src="{% include img-link id='Ueberuns_abele-cropped' options='w_200,h_200' %}" alt="Yvonne Abele">
 </a>
 ### Yvonne Abele <small style="font-size: 70%;">Heimleiterin</small>
 </div>
 
   
 <div class="col-lg-3 gallery text-center mb-4" markdown="1">
-<a href="{% include img-link id='H.Rist' %}" data-pswp-width="628" data-pswp-height="627">
-<img class="rounded-circle img-fluid d-block mx-auto" width="200" height="200" src="{% include img-link id='H.Rist' options='w_200,h_200' %}" alt="Hermann Rist">
+<a href="{% include img-link id='roland-knaebler' %}" data-pswp-width="1000" data-pswp-height="750">
+<img class="rounded-circle img-fluid d-block mx-auto" width="200" height="200" src="{% include img-link id='roland-knaebler' options='w_200,h_200' %}" alt="Roland Knäbler">
 </a>
 ### Roland Knäbler <small style="font-size: 70%;">Vorstandsvorsitzender</small>
 </div>
