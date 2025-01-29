@@ -7,7 +7,7 @@ destination: _site
 commit: 6ba2da88d67c8287902bf6523cf0183bb8311032
 image:
   url: https://res.cloudinary.com/kolpinghaus-rt/image/upload
-  version: 1686563169
+  version: 1738168243
   option:
     default: c_lfill,g_auto,cs_srgb,q_auto
   max:
