@@ -39,21 +39,23 @@ Das gesamte Team arbeitet nach dem Motto „wir bieten viel mehr als ein Dach ü
 </div>
 <br>
 <div class="row">
-<div class="col-lg-6 gallery text-center mb-4" markdown="1">
-<a href="{% include img-link id='H.Rist' %}" data-pswp-width="628" data-pswp-height="627">
-<img class="rounded-circle img-fluid d-block mx-auto" width="200" height="200" src="{% include img-link id='H.Rist' options='w_200,h_200' %}" alt="Hermann Rist">
-</a>
-
+  
+  <div class="col-lg-6 gallery text-center mb-4" markdown="1">
+    <a href="{% include img-link id='H.Rist' %}" data-pswp-width="628" data-pswp-height="627">
+      <img class="rounded-circle img-fluid d-block mx-auto" width="200" height="200" src="{% include img-link id='H.Rist' options='w_200,h_200' %}" alt="Hermann Rist">
+    </a>
 ### Hermann Rist <small style="font-size: 70%;">Heimleiter</small>
+  </div>
 
-</div>
-<div class="col-lg-6 gallery text-center mb-4" markdown="1">
-<a href="{% include img-link id='J.Schiller' %}" data-pswp-width="1236" data-pswp-height="1656">
-<img class="rounded-circle img-fluid d-block mx-auto" width="200" height="200" src="{% include img-link id='J.Schiller' options='w_200,h_200' %}" alt="Julia Schiller">
-</a>
-
+  
+  <div class="col-lg-6 gallery text-center mb-4" markdown="1">
+    <a href="{% include img-link id='J.Schiller' %}" data-pswp-width="1236" data-pswp-height="1656">
+      <img class="rounded-circle img-fluid d-block mx-auto" width="200" height="200" src="{% include img-link id='J.Schiller' options='w_200,h_200' %}" alt="Julia Schiller">
+    </a>
 ### Julia Schiller <small style="font-size: 70%;">Heimleiterin</small>
-</div>
+  </div>
+
+
 </div>
 <hr>
 <br>
