@@ -22,11 +22,13 @@ Fun, Action, Kultur und Bildung bilden den Schwerpunkt unserer Freizeitangebote 
 <br>
 
 <div class="row">
+  
 <div class="col-lg-6 gallery">
 <a href="{% include img-link id='mitarbeiter' %}" data-pswp-width="1920" data-pswp-height="1080">
 <img class="img-fluid rounded mb-4" src="{% include img-link id='mitarbeiter' options='w_600' %}" alt="Mitarbeiter des Kolpinghauses" />
 </a>
 </div>
+
 <div class="col-lg-6" markdown="1">
 
 ## Das Kolpinghaus Team
@@ -40,41 +42,43 @@ Das gesamte Team arbeitet nach dem Motto „wir bieten viel mehr als ein Dach ü
 <br>
 <div class="row">
   
-  <div class="col-lg-3 gallery text-center mb-4" markdown="1">
-    <a href="{% include img-link id='H.Rist' %}" data-pswp-width="628" data-pswp-height="627">
-      <img class="rounded-circle img-fluid d-block mx-auto" width="200" height="200" src="{% include img-link id='H.Rist' options='w_200,h_200' %}" alt="Hermann Rist">
-    </a>
+<div class="col-lg-3 gallery text-center mb-4" markdown="1">
+<a href="{% include img-link id='H.Rist' %}" data-pswp-width="628" data-pswp-height="627">
+<img class="rounded-circle img-fluid d-block mx-auto" width="200" height="200" src="{% include img-link id='H.Rist' options='w_200,h_200' %}" alt="Hermann Rist">
+</a>
 ### Hermann Rist <small style="font-size: 70%;">Heimleiter</small>
-  </div>
+</div>
 
   
-  <div class="col-lg-3 gallery text-center mb-4" markdown="1">
-    <a href="{% include img-link id='J.Schiller' %}" data-pswp-width="1236" data-pswp-height="1656">
-      <img class="rounded-circle img-fluid d-block mx-auto" width="200" height="200" src="{% include img-link id='J.Schiller' options='w_200,h_200' %}" alt="Julia Schiller">
-    </a>
+<div class="col-lg-3 gallery text-center mb-4" markdown="1">
+<a href="{% include img-link id='J.Schiller' %}" data-pswp-width="1236" data-pswp-height="1656">
+<img class="rounded-circle img-fluid d-block mx-auto" width="200" height="200" src="{% include img-link id='J.Schiller' options='w_200,h_200' %}" alt="Julia Schiller">
+</a>
 ### Julia Schiller <small style="font-size: 70%;">Heimleiterin</small>
-  </div>
+</div>
 
   
- <div class="col-lg-3 gallery text-center mb-4" markdown="1">
-    <a href="{% include img-link id='H.Rist' %}" data-pswp-width="628" data-pswp-height="627">
-      <img class="rounded-circle img-fluid d-block mx-auto" width="200" height="200" src="{% include img-link id='H.Rist' options='w_200,h_200' %}" alt="Hermann Rist">
-    </a>
+<div class="col-lg-3 gallery text-center mb-4" markdown="1">
+<a href="{% include img-link id='H.Rist' %}" data-pswp-width="628" data-pswp-height="627">
+<img class="rounded-circle img-fluid d-block mx-auto" width="200" height="200" src="{% include img-link id='H.Rist' options='w_200,h_200' %}" alt="Hermann Rist">
+</a>
 ### Yvonne Abele <small style="font-size: 70%;">Heimleiterin</small>
-  </div>
+</div>
 
   
- <div class="col-lg-3 gallery text-center mb-4" markdown="1">
-    <a href="{% include img-link id='H.Rist' %}" data-pswp-width="628" data-pswp-height="627">
-      <img class="rounded-circle img-fluid d-block mx-auto" width="200" height="200" src="{% include img-link id='H.Rist' options='w_200,h_200' %}" alt="Hermann Rist">
-    </a>
+<div class="col-lg-3 gallery text-center mb-4" markdown="1">
+<a href="{% include img-link id='H.Rist' %}" data-pswp-width="628" data-pswp-height="627">
+<img class="rounded-circle img-fluid d-block mx-auto" width="200" height="200" src="{% include img-link id='H.Rist' options='w_200,h_200' %}" alt="Hermann Rist">
+</a>
 ### Roland Knäbler <small style="font-size: 70%;">Vorstandsvorsitzender</small>
-  </div>
+</div>
 
   
 </div>
+
 <hr>
 <br>
+
 <div class="row">
 <div class="col-lg-6" markdown="1">
 ## Philosophie nach Kolping
