@@ -11,6 +11,7 @@ img:
     id: Weihnachtsmarkt_2024_Flyer
     w: 419
     h: 595
+    folder: pdf
     
 
 images:
