@@ -8,7 +8,7 @@ Die Kolping – Fahne gehisst, die Tische feierlich gedeckt und ein Festessen, d
 <!--mehr-->
 
 Der Kolpinggedenktag ist alle Jahre wieder ein feierliches Ereignis im Kolpinghaus Reutlingen.
-Da die Kerngedanken unseres Handelns unter anderem durch die in die moderne Zeit übersetzte Philosophie nach Adolph Kolping geprägt ist, durfte das Kolpinghaus auch in diesem Jahr die Mitglieder der Kolpingfamilie, unseres Fördervereins und viele Freund*innen des Kolpinghauses herzlich begrüßen.
+Da die Kerngedanken unseres Handelns unter anderem durch die in die moderne Zeit übersetzte Philosophie nach Adolph Kolping geprägt ist, durfte das Kolpinghaus auch in diesem Jahr die Mitglieder der Kolpingfamilie, unseres Fördervereins und viele Freund/*innen des Kolpinghauses herzlich begrüßen.
 
 Eine Begrüßungsansprache von Hermann Rist aus der Einrichtungsleitung eröffnete den gemeinsamen Nachmittag und ließ auf ein ereignisreiches Jahr zurückblicken, in welchem das Kolpinghaus 250 junge Menschen unterstützen und begleiten durfte. 
 Er betont, es würden nicht nur die Werte Adolph Kolpings weitergetragen – es liege uns daran, einen Ort zu schaffen, an dem junge Menschen Sicherheit, Orientierung und Perspektiven für die Zukunft finden können. Dies stellt einen wichtigen Teil unserer Arbeitsphilosophie dar. 
