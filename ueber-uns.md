@@ -43,8 +43,8 @@ Das gesamte Team arbeitet nach dem Motto „wir bieten viel mehr als ein Dach ü
 <div class="row">
   
 <div class="col-lg-3 gallery text-center mb-4" markdown="1">
-<a href="{% include img-link id='H.Rist' %}" data-pswp-width="628" data-pswp-height="627">
-<img class="rounded-circle img-fluid d-block mx-auto" width="200" height="200" src="{% include img-link id='H.Rist' options='w_200,h_200' %}" alt="Hermann Rist">
+<a href="{% include img-link id='Ueberuns_Rist' %}" data-pswp-width="614" data-pswp-height="1077">
+<img class="rounded-circle img-fluid d-block mx-auto" width="200" height="200" src="{% include img-link id='Ueberuns_Rist' options='w_200,h_200' %}" alt="Hermann Rist">
 </a>
 ### Hermann Rist <small style="font-size: 70%;">Heimleiter</small>
 </div>
