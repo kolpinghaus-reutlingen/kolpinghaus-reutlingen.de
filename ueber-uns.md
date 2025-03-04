@@ -33,7 +33,7 @@ Fun, Action, Kultur und Bildung bilden den Schwerpunkt unserer Freizeitangebote 
 
 ## Das Kolpinghaus Team
 
-Das Mitarbeiter-Team besteht aus vielen unterschiedlichen Berufsbildern. PädagogInnen, Verwaltungskräfte, Reinigungsfachkräfte, Küchenpersonal, Hausmeister, aber auch Ehrenamtliche, FSJler und BFDler sind in diesem Haus tätig.
+Das Mitarbeiter/*innen-Team besteht aus vielen unterschiedlichen Berufsbildern. Pädagog/*innen, Verwaltungskräfte, Reinigungsfachkräfte, Küchenpersonal, Hausmeisterkräfte, aber auch Ehrenamtliche, FSJler/*innen und BFDler/*innen sind in diesem Haus tätig.
 
 Das gesamte Team arbeitet nach dem Motto „wir bieten viel mehr als ein Dach über dem Kopf“, da wir zusätzlich zu den Wohnmöglichkeiten freizeit- und sozialpädagogische Betreuung anbieten.
 
