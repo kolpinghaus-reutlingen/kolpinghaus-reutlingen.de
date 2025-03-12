@@ -44,7 +44,8 @@ redirect_from:
 ---
 
 <br>
-Das Kolpinghaus in Reutlingen bietet kostengünstige Wohn- und Übernachtungsmöglichkeiten für junge Menschen. Unser Angebot richtet sich an Blockschüler\*innen, Auszubildende, Studierende, Lehramtsanwärter\*innen, Meisterschüler\*innen und junge Berufstätige.
+Das Kolpinghaus Reutlingen kümmert sich als Jugendhilfeeinrichtung und Berufliches Internat um ca. 250 Jugendliche. Die professionellen Fachkräfte unterstützen und begleiten die Jugendlichen, die im Stammhaus in der Liststraße 26 oder in umliegenden Wohnformen leben und fördern sie in ihrer Persönlichkeitsentwicklung. 
+Unser Angebot richtet sich insbesondere an Blockschüler\*innen, Auszubildende, Schüler\*innen, Studierende, Meisterschüler\*innen und junge Berufstätige ab 15 Jahren.
 
 ---
 
