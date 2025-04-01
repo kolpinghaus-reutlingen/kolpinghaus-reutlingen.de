@@ -147,7 +147,14 @@ Außerdem können Sie sich auch direkt bei uns, im Kolpinghaus, für einen freiw
 ### Flyer
 <a href="{% include img-link id='flyer-foerderverein' folder='ueber-uns' options='w_1080' %}" data-pswp-width="1080" data-pswp-height="2050">
     <img src="{% include img-link id='flyer-foerderverein' folder='ueber-uns' options='w_300' %}" style="max-width: 100%;" alt="Flyer"></a>
-</div>
+</div
+
+<div class="row">
+<div class="col gallery" markdown="1">
+### Just for kids 
+<a href="{% include img-link id='Flyer_JustforKids' folder='ueber-uns' options='w_1080' %}" data-pswp-width="425" data-pswp-height="601">
+    <img src="{% include img-link id='Flyer_JustforKids' folder='ueber-uns' options='w_300' %}" style="max-width: 100%;" alt="Just for Kids"></a>
+</div
 
 <div class="col" markdown="1">
 ### Weihnachts- und Neujahrskarte
