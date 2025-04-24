@@ -3,7 +3,10 @@ title: Angebote für Kinder - Just for Kids im Kolpinghaus
 date: 2025-04-24
 author: Karin Kintzler
 img:
-  
+  thumb:
+    id: justforkids-title
+    w: 854
+    h: 420
 ---
 
 <!--mehr-->
