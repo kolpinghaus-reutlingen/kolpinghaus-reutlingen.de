@@ -10,6 +10,8 @@ img:
 
 ### Angebote für Kinder - Just for Kids im Kolpinghaus
 
+
+
 In ganz Reutlingen wurden seit 2019 neue, offene Angebote für Kinder und Jugendliche zwischen 10 und 14 Jahren entwickelt und etabliert. Unter dem Titel **„Just For Kids“** bieten verschiedene Trägerinstitutionen an elf Standorten in ganz Reutlingen ihre Angebote an. Das Kolpinghaus Reutlingen übernimmt dabei die Zuständigkeit für die Stadtmitte. 
 
 
