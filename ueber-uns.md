@@ -149,13 +149,17 @@ Außerdem können Sie sich auch direkt bei uns, im Kolpinghaus, für einen freiw
     <img src="{% include img-link id='flyer-foerderverein' folder='ueber-uns' options='w_300' %}" style="max-width: 100%;" alt="Flyer"></a>
 </div>
 
-<div class="row">
 <div class="col gallery" markdown="1">
 ### Just for Kids
-<a href="{% include img-link id='Flyer_JustforKids' folder='ueber-uns' options='w_1080' %}" data-pswp-width="425" data-pswp-height="601">
-    <img src="{% include img-link id='Flyer_JustforKids' folder='ueber-uns' options='w_300' %}" style="max-width: 100%;" alt="Just for Kids"></a>
+<a href="{% include img-link id='Flyer_JustforKids.pdf' folder='ueber-uns' options='w_1080' %}" data-pswp-width="425" data-pswp-height="601">
+    <img src="{% include img-link id='Flyer_JustforKids.jpg' folder='ueber-uns' options='w_300' %}" style="max-width: 100%;" alt="Just for Kids"></a>
+</div>
 </div>
 
+
+<br>
+<hr>
+<br>
 
 <div class="col" markdown="1">
 ### Weihnachts- und Neujahrskarte
@@ -165,7 +169,7 @@ Außerdem können Sie sich auch direkt bei uns, im Kolpinghaus, für einen freiw
 <img src="{% include img-link id='Weihnachtskarte-2024-2.jpg' options='w_300,pg_1' folder='pdf' %}" style="padding-top: 5px;max-width: 100%;" alt="Weihnachtskarte-2"></a>
 </div>
 
-</div>
+
 
 <br>
 <hr>
@@ -205,7 +209,10 @@ Außerdem können Sie sich auch direkt bei uns, im Kolpinghaus, für einen freiw
 </div>
 
 <br>
-### Antrag auf Mitgliedschaft für den Förderverein
+<hr>
+<br>
+
+<h3>Antrag auf Mitgliedschaft für den Förderverein</h3>
 <a href="{% include img-link id='Antrag_auf_Mitgliedschaft_für_den_Förderverein.pdf' folder='pdf' %}">
 <img src="{% include img-link id='Antrag_auf_Mitgliedschaft_für_den_Förderverein.png' folder='pdf' %}" style="max-width: 100%;" alt="Antrag">
 </a>
