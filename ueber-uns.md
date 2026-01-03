@@ -163,10 +163,10 @@ Außerdem können Sie sich auch direkt bei uns, im Kolpinghaus, für einen freiw
 
 <div class="col" markdown="1">
 ### Weihnachts- und Neujahrskarte
-<a href="{% include img-link id='Weihnachtskarte-2024-1.pdf' folder='pdf' %}">
-<img src="{% include img-link id='Weihnachtskarte-2024-1.jpg' options='w_300,pg_1' folder='pdf' %}" style="max-width: 100%;" alt="Weihnachtskarte-1"></a>
-<a href="{% include img-link id='Weihnachtskarte-2024-2.pdf' folder='pdf' %}">
-<img src="{% include img-link id='Weihnachtskarte-2024-2.jpg' options='w_300,pg_1' folder='pdf' %}" style="padding-top: 5px;max-width: 100%;" alt="Weihnachtskarte-2"></a>
+<a href="{% include img-link id='Weihnachtskarte-2025-1.pdf' folder='pdf' %}">
+<img src="{% include img-link id='Weihnachtskarte-2025-1.jpg' options='w_626,pg_1' folder='pdf' %}" style="max-width: 100%;" alt="Weihnachtskarte-1"></a>
+<a href="{% include img-link id='Weihnachtskarte-2025-2.pdf' folder='pdf' %}">
+<img src="{% include img-link id='Weihnachtskarte-2025-2.jpg' options='w_626,pg_1' folder='pdf' %}" style="padding-top: 5px;max-width: 100%;" alt="Weihnachtskarte-2"></a>
 </div>
 
 
