@@ -10,10 +10,10 @@ img:
     folder: pdf
     alt: buecherverkauf.jpg
   third:
-    id: buecherboerse-plakat.jpg
-    alt: buecherboerse-plakat.jpg
-    w: 841
-    h: 1190
+    id: Flyer-Bücherannahme-16-07-2026.jpg
+    alt: Flyer-Bücherannahme-16-07-2026.jpg
+    w: 1609 
+    h: 2258
 ---
 
 <!--mehr-->
