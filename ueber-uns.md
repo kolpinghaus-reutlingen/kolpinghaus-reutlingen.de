@@ -145,8 +145,8 @@ Außerdem können Sie sich auch direkt bei uns, im Kolpinghaus, für einen freiw
 <div class="row">
   <div class="col gallery" markdown="1">
 ### Flyer Kolpinghaus
-<a href="{% include img-link id='Kolping-Flyer-1' folder='pdf' options='w_1080' %}" data-pswp-width="841" data-pswp-height="595">
-    <img src="{% include img-link id='Kolping-Flyer-1' folder='pdf' options='w_1080' %}" style="max-width: 100%;" alt="Flyer Kolpinghaus"></a>
+<a href="{% include img-link id='Kolping-Flyer-1' folder='pdf' options='w_841' %}" data-pswp-width="841" data-pswp-height="595">
+    <img src="{% include img-link id='Kolping-Flyer-1' folder='pdf' options='w_300' %}" style="max-width: 100%;" alt="Flyer Kolpinghaus"></a>
 </div>
   
 <div class="col gallery" markdown="1">
