@@ -148,6 +148,11 @@ Außerdem können Sie sich auch direkt bei uns, im Kolpinghaus, für einen freiw
 <a href="{% include img-link id='Kolping-Flyer-1.jpg' folder='pdf' options='w_1080' %}" style="max-width: 100%;" data-pswp-width="841" data-pswp-height="595">
     <img src="{% include img-link id='Kolping-Flyer-1.jpg' folder='pdf' options='w_300' %}" style="max-width: 100%;" alt="Flyer Kolpinghaus"></a>
 </div>
+
+ <div class="col gallery" markdown="1">
+<a href="{% include img-link id='Kolping-Flyer-2.jpg' folder='pdf' options='w_1080' %}" style="max-width: 100%;" data-pswp-width="841" data-pswp-height="595">
+    <img src="{% include img-link id='Kolping-Flyer-2.jpg' folder='pdf' options='w_300' %}" style="max-width: 100%;" alt="Flyer Kolpinghaus"></a>
+</div>
   
 <div class="col gallery" markdown="1">
 ### Flyer Förderverein
