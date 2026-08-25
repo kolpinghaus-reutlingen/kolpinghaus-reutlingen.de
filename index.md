@@ -28,14 +28,13 @@ redirect_from:
 ## Das Kolpinghaus bietet viel mehr...
 
 - Sport und Fitness
-- Fahrradwerkstatt
 - Theaterspielen
 - Gartenprojekte
-- Musik mit der Philharmonie
-- Trommeln
+- Musikprojekte
 - Bücherbörse
 - Malen
 - Sprachkurse
+- Kinoabende
 - Ausflüge
 - [Und vieles mehr &rarr;]({% link veranstaltungen.html %})
 
@@ -51,6 +50,6 @@ Unser Angebot richtet sich insbesondere an Blockschüler\*innen, Auszubildende, 
 
 <br>
 Unseren jungen Hausbewohner\*innen wird die Möglichkeit geboten, im Kolpinghaus ihre Freizeit auf sinnvolle Weise zu verbringen.<br>
-Wir besitzen ein internes Bistro, das am Abend mit kostengünstigen Getränken und Snacks sowie einem Fernseher, öffnet; eine Kegelbahn; ein Billardraum; Tischtennisplatten; mehrere Tischkicker und viele verschiedene Gesellschaftsspiele, die den Jugendlichen jederzeit zur Verfügung stehen. <br>
+Wir besitzen ein internes Bistro, das am Abend mit kostengünstigen Getränken und Snacks sowie einem Fernseher, öffnet; eine Kegelbahn; einen Billardraum; Tischtennisplatten; mehrere Tischkicker und viele verschiedene Gesellschaftsspiele, die den Jugendlichen jederzeit zur Verfügung stehen. <br>
 Außerdem können sie sich Fußbälle, Handbälle, Volleybälle, Badminton, Inlineskates, einen Boxsack und vieles mehr ausleihen, um sich im Freien sportlich zu betätigen.<br>
 Zusätzlich bietet das pädagogische Team allen Hausbewohner\*innen täglich unterschiedliche Aktivitäten, an denen sie teilnehmen können.<br>
