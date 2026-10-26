@@ -224,6 +224,6 @@ Außerdem können Sie sich auch direkt bei uns, im Kolpinghaus, für einen freiw
 <br>
 
 <h3>Antrag auf Mitgliedschaft für den Förderverein</h3>
-<a href="{% include img-link id='Antrag-Mitgliedschaft-Foerderverein-neu' folder='pdf' %}">
+<a href="{% include img-link id='Antrag-Mitgliedschaft-Foerderverein-neu.pdf' folder='pdf' %}">
 <img src="{% include img-link id='Antrag-Mitgliedschaft-Foerderverein-neu.png' folder='pdf' %}" style="max-width: 100%;" alt="Antrag">
 </a>
